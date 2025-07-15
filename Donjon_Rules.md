@@ -1,0 +1,3235 @@
+# Donjon
+
+```
+a game of old
+school dungeoneering with an all
+new bent
+by
+Clinton R. Nixon
+```
+Author: Clinton R. Nixon
+
+Copyright: 2002 Clinton R. Nixon
+
+License: This work is licensed under the Creative Commons Attribution$Share Alike 2.5 License.
+To view a copy of this license, visit [http://creativecommons.org/licenses/by$sa/2.5/](http://creativecommons.org/licenses/by$sa/2.5/) or send
+a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, California,
+94105, USA.
+
+Disclaimer: Mentions of trademarked works of any type in this text are intended as reference and not as
+challenges to trademark or copyright. This includes the French comic Donjon , which I had
+no clue about until about 5 days before this was finished.
+
+Note for
+this edition:
+
+```
+This is a reformatting of the Creative Commons full text of the game, available at
+http://open.crngames.com/src/donjon.html. It was created for my own use but is offered
+here in the hope that it will prove useful to others. If you enjoy it, please consider visiting
+http://crngames.com and buying a copy of Donjon or one of Clinton R. Nixon's other fine
+games. $$Randy Shipp (randyshipp@gmail.com)
+```
+
+## Table of Contents
+
+- Introduction.................................................
+   - How this game came to be...........................
+   - What this game is about...............................
+   - Acknowledgements and thanks.....................
+- Basic Concepts.............................................
+   - How to read this book.................................
+   - Glossary of terms.........................................
+   - Rolling the dice..........................................
+   - Deciding what to roll..................................
+   - The Law of Successes..................................
+- Character Creation.......................................
+   - Initial concept............................................
+   - Attributes...................................................
+   - Class or Race............................................
+   - Level.......................................................
+   - Flesh Wounds...........................................
+   - Provisions and Wealth...............................1
+   - Saving Throws..........................................
+   - Abilities...................................................
+   - Distributing initial dice..............................
+   - Some examples of character creation............
+- Money and Goods......................................
+   - The Spending Test....................................
+   - Buying items............................................
+   - Buying more Provisions.............................
+   - Using Wealth as influence (buying favors)....
+   - Selling items.............................................
+   - Weapons and armor..................................
+         - Provisions................................................
+         - Using Abilities with Wealth and Provisions..
+         - Permanent possessions...............................
+      - Resolution..................................................
+         - Attributes and Abilities...............................
+         - Uncontested actions..................................
+         - Contested actions......................................
+         - The Law of Successes and narration.............
+         - Failure and damage....................................
+      - Combat......................................................
+         - Starting a fight..........................................
+         - Distance and movement.............................
+         - Attacking and defending............................
+         - Damage and injury....................................
+      - Magic.........................................................
+         - Magic Words............................................
+         - Casting spells............................................
+         - Magic items..............................................
+      - Running Donjon........................................
+         - The Gameplay Flowchart...........................
+      - Your First Adventure.................................
+         - Adventure synopsis....................................6
+         - Town......................................................
+         - Resources and Markups.............................
+         - Adventure chapters....................................
+         - The Big Bad.............................................
+         - Going back to Town.................................
+         - NPCs and monsters...................................
+
+
+## Introduction.................................................
+
+Welcome to Donjon! Either you've played role$playing games before and have decided to check out this
+one, or by some chance, this is the first role$playing game you've ever come across. Either way, read on.
+
+Donjon is a rip$roaring, make$it$up$as$you$go$along game of bashing down doors, exploring dark
+dungeons (or donjons, as we like to call them), killing monsters, finding loot, and saving the day. It's a
+fantasy role$playing game because you, the player, play the part of a fictional character in a fantastic
+world. (You get to play lots of characters if you're the GM.) The best analogy for this is given by Ron
+Edwards, a bad$ass of a game designer. He likens playing a role$playing game to being in a band: the
+members get together and decide what kind of music they want to play, one person (the GM) leads off,
+and the rest of the members add what they have to make something that is, hopefully, exactly what they
+wanted. Just like with playing music, one member of the band might find a cool riff that no one was
+expecting, and everyone else jumps on it. Donjon is like acid jam$rock. It's made to give players a lot of
+control: they can bust into guitar and drum solos whenever they wish. If something sounds groovy, then
+they can go with it. There's no band$leader here to bust your chops.
+
+### How this game came to be...........................
+
+Five people sat around a table on a Sunday afternoon, all with piles of dice in front of them. We'd gotten
+together for an afternoon of role$playing, and decided to play our favorite game from our childhood, a
+slim red$covered version of the original Dungeons and Dragons.
+
+Zak (the Dungeon Master): You're in a small room, with walls made of grey stone and covered with
+slime. The floor's about a foot deep in water.
+
+Clinton (as an Elf): I look for secret doors. (Rolls some dice.) Success.
+
+Zak: Ok. You find a secret door. It's... um, I don't know... on the left wall.
+
+Clinton: Really? Was that on the map, or did you make that up?
+
+Zak: Made it up. You searched, and were successful, right?
+
+Clinton: Kick$ass.
+
+We suddenly realized we were having fun. We decided to drop the idea of common sense, and had every
+successful roll have something happen. Whenever I successfully searched for secret doors $ there was one.
+Whenever I listened for noise successfully $ there was noise.
+
+
+It worked like a charm, and I went home with ideas fluttering in my head. A hundred e$mails, dozens of
+phone calls, and a few edits later, Donjon emerged.
+
+### What this game is about...............................
+
+This game is about, first and foremost, that sense of wonder you had the first time you played a fantasy
+role$playing game. (If this is your first game $ which strikes me as funny, but great $ it's about making
+sure you get that sense of wonder I did the first time.) I remember my first time well. I played original
+D&D , and my character was an elf. I had no idea what the rules were, but I knew I could swing a sword
+and cast some spells, and that was cool by me. The rules seemed easy enough, and what I remember
+enjoying the most was the ability to try anything. The rest of the players had been in the game for a
+while, and did what they were used to. As for me, I tried just about everything I could, and loved it.
+
+I want to make it clear that this game is not a satire. It may produce funny situations, but it's a work of
+love $ an homage to what dungeon crawling in your parents' basement was, and what dungeon crawling
+in your own basement can be. This game's about letting players come up with cool situations and actions.
+I also remember getting attacked by some huge mosquito$type things called stirges that first time I played,
+and getting frustrated when I couldn't try and drive them away with a huge acrid fire. Mosquitoes don't
+like smoke, I figured, so why not try the same tactic against these things?
+
+Lastly, this game is about winning. Don't be fooled by the fact that you're all friends: the GM's job is to
+take whatever you say and twist it around and screw you with it. Think of the GM as a genie $ an evil
+one. You make wishes, and he tries work them to his advantage. The players' job is to not let the GM do
+this: think of cool actions she can't thwart, build characters that are engines of fun destruction, and smite
+down all the enemies she can throw at you.
+
+This game is different than what you're probably used to $ if you're a hard$core dungeon crawling
+machine, you've probably not seen mechanics that allow players to drive the situation like these. If you're
+some sort of narrativist bleeding$edge pansy that's used to having players run everything, you've probably
+not had the chance to wallow in the blood of your enemies like this.
+
+### Acknowledgements and thanks.....................
+
+Thanks to Jared Sorensen for reading over this text at an early stage and providing valuable input, and
+thanks to Ralph Mazza, Mike Holmes, Vincent Baker and all the members of The Forge (www.indie$
+rpgs.com) that helped out with the development of Donjon. The developers' knowledge of many other
+games went into this one. Direct influences were the aforementioned original Dungeons and Dragons,
+which we cut our teeth on; Sorcerer and Elfs by Ron Edwards, both of which managed to lay their eggs
+
+
+in our minds and infect us; and the wonderful 3rd edition of Dungeons and Dragons, which made us
+think, "This could be fun again."
+
+Very special thanks goes to Ron Edwards for making the challenge and setting the bar. You are always
+the example of a mentor. Super$crazy thanks goes to Zak Arntson, who co$developed this game with
+me. His influence is all over the place, and if an idea strikes you as funny, you can be sure he had a hand
+in it.
+
+Lastly, thanks to my playtesters: Zak Arntson, Christopher Chinn, James "Yasha" Cunningham, Matthew
+Moore, and Ralph Mazza.
+
+
+## Basic Concepts.............................................
+
+### How to read this book.................................
+
+We've tried to make this book as easy as possible to read. You'll find a few identifying marks throughout
+the book. Whenever you see indented, italicized text, it contains an example of the concepts being
+discussed.
+
+```
+This is an example of, strangely, an example.
+```
+You'll also note shaded boxes throughout the text. These boxes contain one of the following:
+
+- Dials: These are options that the players and GM can decide to "switch." Each box will tell you
+    whether a dial can be switched in play, or if it must be switched before play.
+- Player tips: Some of the concepts in Donjon may have implications that do not seem apparent at
+    first. Player tips contain notes from the author that explain concepts in further detail and help the
+    player to play Donjon most effectively.
+- GM tips: With the players having so much power to narrate in Donjon , a GM needs good tips on
+    how to keep them in line. GM tips are full of ways to beat down characters (and players.)
+- Design decisions: These explain why certain rules are the way they are in Donjon.
+- Tables: Exactly what it sounds like $ these are reference tables for running Donjon.
+
+### Glossary of terms.........................................
+
+Ability: A special function of a creature. These are the qualities that define a character or opponent and
+make them unique. Each type of creature in Donjon is made up of different Abilities.
+
+Attribute: The raw capabilities of a creature. This is a common language used to describe how strong,
+smart, alert, quick, tough, and influential a character or opponent is. Attributes are common to every
+living thing in Donjon.
+
+Class: A character's occupation or role within the group. "Fighter," "Librarian," and "Wizard of Nod" are
+all suitable Classes.
+
+d20: A die with twenty sides. These are found in hobby stores or behind the bookcase of any gamer.
+
+Donjon: This is different from the dictionary definition, which is a keep in a castle. "Donjon" in the
+context of this game is an enclosed area in which the player characters move and encounter trouble. This
+is the area in which an adventure takes place.
+
+
+Game Master: This player, instead of creating and playing a character, creates the adventure and controls
+all the opponents during the game. Also known as a GM. In order to show her the utmost respect, I
+recommend calling her the Donjon Master.
+
+Median: the middle number when arranging three numbers in numerical order. For example, 2 would
+be the median of the numbers 1, 2, and 5. This is different from the mean, or average.
+
+Narrate: This is just a fancy word for "deciding what happens."
+
+Non
+player character: Also known as a NPC. This is a fictional character that is not controlled by a
+player. Instead it is controlled by the GM and is used to interact with the players' characters.
+
+Player character: Also known as a PC. This is a fictional person that a player creates to use as his proxy
+$ like a Monopoly piece $ in the game world.
+
+Race: This is not the same as in the real world. In Donjon (and most fantasy role$playing games), a Race
+is actually a different species, usually anthropomorphic. Goblin, ogre, centaur, or human would all be
+Races.
+
+Saving Throws: These scores are your ability to resist the ill effects of magic.
+
+Scene: This is the basic unit of game$play in Donjon. A scene is the whole of any encounter in the
+game. This encounter does not have to be favorable or unfavorable, but merely a cohesive interaction
+with the environment which results in a decision. Examples of scenes are a conversation with an NPC,
+finding an obstacle in the PC's path and finding a way around it, or one entire combat. Merely seeing
+something interesting, walking down a path, or entering and exiting a room without doing anything do
+not constitute scenes. Scenes are sometimes called encounters.
+
+Test: This is an actual roll of the dice. When you roll dice and the Game Master rolls dice, and you
+compare the rolls, that is one Test.
+
+### Rolling the dice..........................................
+
+Donjon uses dice pools for its resolution system. When you see a score referenced in this text, it is
+referring to a pool of dice equal in number to that score, and all examples in this text assume these dice to
+be twenty$sided dice, or "d20's."
+
+For resolution in this game, you will be asked to compare rolls (called a Test.) This is the core of the
+game, and is a modification of the technique used for resolution in the role$playing game Sorcerer.
+
+Here's how it works. Each player rolls a number of dice depending on the situation. (This is almost always
+an Ability or saving throw score, plus its associated Attribute.) The two rolls are then compared for
+
+
+successes. Each player looks at his highest die. The player with the lower roll loses, and all dice that the
+winner has higher than the loser's highest die are called successes.
+
+If both players have the same highest die, set that die aside, and look at the next one. Repeat until there is
+a winner. The winner takes all his tied dice as successes, as well as counting all normal successes. If by
+chance, all dice are tied, both people add an additional die to their pool, and compare successes. If by far
+chance, this results in another tie, repeat until there is a clear winner.
+
+This is not as hard as it sounds. Look at an example:
+
+```
+Player rolls 5 dice: (4, 7, 9, 11, 12) GM rolls 4 dice: (6, 12, 15, 18)
+The GM wins, and her dice that rolled 15 and 18 are successes, for two total successes.
+Another example:
+Player rolls 5 dice: (3, 11, 12, 13, 15) GM rolls 5 dice: (5, 8, 10, 13, 15)
+The player wins with four successes. The 13's and 15's were tied, so the player and GM
+looked at the next die. The player's 12 was the highest die, and his 11 and 12 were higher
+than the GM's 10.
+```
+```
+Dial: Die size
+Twenty$sided dice do not have to be used in Donjon. A group of players may use any size of dice as
+long as they all use the same size.
+The size of dice makes two differences in the game: the variation of successes, and the amount of ties.
+With a smaller$ size die, there is a slightly greater chance that a player rolling a smaller number of dice
+than another player will win anyway. With twenty$sided dice, the outcomes are more predictable. The
+increased frequency of ties that comes with smaller$sized dice causes the number of successes in any
+Test to be higher.
+Make sure and decide what size of dice you will be using before the game begins. Using sizes other
+than twenty$sided is frowned upon by the author, however, and "pure" Donjon players may feel free to
+mock dice deviants relentlessly.
+```
+### Deciding what to roll..................................
+
+Almost every roll in Donjon will be a combination of an Attribute (outlined in Chapter 2: Character
+Creation) and an applicable Ability. Your GM will help you decide what to roll, but you should get the
+hang of it easily.
+
+
+There may be many things you want to do that you do not have an Ability for. In that case, you will roll
+just an Attribute.
+
+### The Law of Successes..................................
+
+The Law of Successes is the most important rule in Donjon. The Law of Successes states:
+
+1 success = 1 fact or 1 die
+
+What this means is that for every success you get on a roll, you can decide to either state one fact about
+your action, or carry that success over as a bonus die into another related roll.
+
+```
+For example, Jonathan has stated that his character is looking into the forest for
+something. He has not stated what the character is looking for, only that he is using his
+powers of perception to see what's out there. Jim gets three successes on his roll.
+He has to decide what to do with these successes. He decides to state two facts: he sees a
+small group of orcs, and they are busy making a fire. He takes his last success and uses it as
+a bonus die when rolling to sneak up on the orcs.
+```
+
+## Character Creation.......................................
+
+### Initial concept............................................
+
+The players and GM should sit down before play to discuss the sort of world they want to play in. While
+Donjon is always set in a fantastic world, there are many variations on the fantastic. The world could be
+like a fairy tale, full of curious goblins, mushroom$cap soldiers, and knights clad in silver on dragonfly
+mounts. The world could be a gritty Dark Age land, with flesh$eating trolls, demonic sorcerers, and steel
+stained red with blood everywhere. The world could even be far in the future $ characters could explore
+abandoned lunar stations, using their rayguns and psi$powers to guard against alien predators and zombie
+spacemen.
+
+Once the players and GM have a good idea of what the world they are going to play in is like, each player
+should sit down and think about what sort of character they want to play. This can be only a rough idea
+at this stage, but things to consider are:
+
+- Does my character think first or swing first?
+- Does my character make a strong impression on others, or does he skulk in the shadows?
+- Does my character often find himself in trouble, or is he always on top of the situation?
+- Does my character use magic or a big freaking sword? Or both?
+- Does my character dominate a situation with his overbearing wit and charm, or does he grunt and
+    flex his muscles?
+Dial: Seriousness level
+An important thing for the group to determine before play is the seriousness level of the game. Donjon
+is a very different sort of game in that the players have the ability to create as much of the outcome as
+the GM.
+Playing a game with high humor can be rewarding, but can also be grating if attempted with the wrong
+players. Likewise, some players may not enjoy the visceral horror of a grim rust$and$blood sort of
+game.
+This dial must be set before the game begins, and has the settings of: Monty Python and the Geeks
+(over$the$top), Slapstick (lots of funny), Tongue$in$Cheek (full of allusions to role$playing cliches
+taken deadly seriously by the characters), Black Humor, Serious, and Rust$and$Blood (fantasy horror).
+This dial should be set by agreement between the GM and players.
+
+
+### Attributes...................................................
+
+Once you have a rough outline of the type of character you want to play in your head, you need to create
+scores for your character's Attributes. The Attributes are:
+
+Virility (Vir), a measure of one's raw strength and power. It is used for physical actions, determining the
+weight of armor and weapons you can carry, and inflicting damage.
+
+Cerebrality (Cer), intellectual bearing and knowledge. It is used in contests of wit, for spell$casting, and
+remembering to pack the right supplies for a donjon adventure.
+
+Discernment (Dis), the ability to think clearly and wisely. It is is often called "common sense," and used
+to perceive hidden or unclear things, resist the influence of others, and ignore mind$affecting magic.
+
+Adroitness (Adr), one's capacity for litheness and speed. It is used in actions requiring finesse and skill,
+attacking with a weapon, and dodging blows.
+
+Wherewithal (Whe), the ability to take and absorb pain and suffering. It is commonly known as "grit,"
+and is used to take damage, exert yourself, and resist body$affecting magic.
+
+Sociality (Soc), a measure of your charismatic charm and power. Persons with a high Sociality may be as
+frightening as they are compelling. It is used to bargain for goods and convince or intimidate people.
+
+Each Attribute will start with a number between one and six in it. Zero indicates a total lack of ability,
+three is equivalent to average human ability, and six is superhuman in nature.
+
+To create your character's Attribute scores, you will need three six$sided dice (d6's), exactly like you'd
+find at the corner store or in a game of Monopoly. Roll these dice and look for the median roll. Place this
+number in your first Attribute. Repeat for all six Attributes in order.
+
+```
+Jonathan is rolling the Attributes for his character, Fiera Thick$heart. His rolls, and the
+associated Attributes look like this:
+Roll: 1, 5, 6 = Virility of 5
+Roll: 1, 2, 2 = Cerebrality of 2
+Roll: 4, 4, 4 = Discernment of 4
+Roll: 2, 5, 5 = Adroitness of 5
+Roll: 3, 4, 6 = Wherewithal of 4
+Roll: 1, 1, 6 = Sociality of 1
+```
+
+```
+Dial: Attribute generation
+The method of attribute generation used here is very random, and will often not result in the type of
+character a player originally envisioned. It is a type of attribute generation used in the classics of fantasy
+role$playing, and so I include it out of nostalgia and respect. It can be highly rewarding to let the dice
+fall where they may. When players have a strong character concept, they need a different option,
+though.
+This dial has three settings:
+Standard: The method described in the main text.
+Whiff$Proof Standard: If a character's scores add up to 15 or less, that player may re$roll all the scores.
+Player$Allocated Bonus: As Whiff$Proof Standard, but the player adds add one to one score and
+subtracts one from one score after rolling.
+Player$Chosen Random Rolls: The player rolls 3d6 and records the median rolls as in Whiff$Proof
+Standard. However, he places these rolls in whichever attributes he likes. This setting gives the players
+options while limiting extremes in attributes.
+Player$Allocated: The player is given 21 points to distribute however he likes among the six attributes.
+No score can be lower than 1 or higher than 6. The setting gives the players the most options, but can
+produce characters with wild attributes.
+The GM sets this dial before play. Each player, however, has the option to turn back the dial to the
+Standard method for his character.
+```
+### Class or Race............................................
+
+Each player creates his character's Class or Race at this point by simply creating a name for it. A Class or
+Race may be anything one likes, given that the GM deems it suitable for her campaign. A Class or Race
+may have a simple name, like "Thief" or "Elf," or a more complex name, like "Knight of the Silver Lance,"
+or "Granite$Bone Troll."
+
+The only real difference between a Class or a Race is nomenclature. A character with a Class is deemed
+to be human, as humans have a globe$spanning reach that includes myriads of cultures and potential
+careers. A Race, on the other hand, is a unified group of one species in which all members have the same
+Abilities. By creating your character with a Race, you are actually defining the entire species.
+
+Examples of Classes: Mercenary, Archaelogist, Purple$Robed Sorcerer, Wilderness Scout, Tinkerer
+
+
+Examples of Races: Pebble Gnome, Sentient Forest Ape, Red$Nose Goblin, House Ogre, Snap$Tooth
+Dragon$Kin
+
+No two players within the same group should create characters of the same Class or Race. Party diversity
+is important in Donjon.
+
+```
+Dial: Humans and other races
+A GM may determine before the game that humans are not the dominant species, or race, in her
+campaign. If this is the case, the GM may set this dial to the dominant race, be it elves, goblins, or blue$
+skinned aliens.
+If this dial is set to anything but humans, that race has a plethora of careers $ or classes. All other species,
+including humans, are treated as normal races according to the rules.
+If, for example, the dominant species is goblins, characters might be: Cave Guard, Pumpkin Bomber,
+or Grub Hunter.
+The GM may also allow all species to have diverse classes. In that case, races work slightly differently:
+all members of a race (except humans) have the same Main Ability. All characters are assigned a class (so
+you might have, for example, a Rock Troll with the Class Mountain Raider), which is how their
+Secondary Abilities are determined.
+In all honesty, this is an inferior way to play Donjon and should be frowned upon, but the good heart
+of the author forced my pen to give you the option.
+```
+### Level.......................................................
+
+All characters usually start the game at Level 1. Mark this on your character sheet.
+
+GM's may sometimes instruct players to create characters of a higher Level than normal. In that case,
+create a Level 1 character using this chapter, then use the advancement rules in Running Donjon to
+increase your character's Level.
+
+### Flesh Wounds...........................................
+
+Flesh Wounds are a measure of how much damage a character can take before becoming gravely
+wounded. These are different from other scores that define your character in that you will never roll
+these. Characters start with few Flesh Wounds; however, these will increase during play as the character
+grows hardier and learns to suffer more.
+
+
+### Provisions and Wealth
+
+Provisions are a measure of your current state of readiness for donjon adventures. It is an abstract
+quantification of the goods you are carrying to help you through trials. These are things like food, rope,
+ten$foot poles, crampons, and tent stakes.
+
+Wealth is a measure of your finances $ gold coins, gems, and the like. This is used to buy weapons and
+armor, as well as more Provisions.
+
+### Saving Throws..........................................
+
+Saving Throws are scores used to determine a character's ability to resist magic and misfortune. There are
+two Saving Throws in Donjon.
+
+Save vs. Illusion and Confusion: This saving throw is used to resist all magic that affects the mind, be it
+illusions, confusion, or other mind$manipulating magic. It is normally rolled with Discernment.
+
+Save vs. Poison, Paralysis, and Transmogrification: This saving throw is used to prevent any sort of
+natural or magical body manipulation. This could be poison, disease, turning into a frog through magic,
+paralyzation, or any other body$affecting magic. It is normally rolled with Wherewithal.
+
+### Abilities...................................................
+
+The last and most important thing you have to do to create a character is determine his Abilities. Abilities
+are what make a Class or Race unique $ things they can do that not everyone else can. In Donjon , you
+invent your character's Abilities.
+
+You must choose one Main Ability, and four Supporting Abilities. A Main Ability is what defines a Race
+or Class: it is a broad Ability that they are renowned for. A Main Ability should be very versatile.
+
+Supporting Abilities are tangential to the definition of the Race or Class. They are Abilities that help the
+Race or Class, but are much more specific in nature. Examples of some Classes and Races to illustrate,
+with each one's Main Ability listed first:
+
+- Mercenary: Hit People With Weapons, Run and Charge, Knock Down Doors, Intimidate, Take
+    Damage in Melee Combat
+- Purple$Robed Sorcerer: Cast Spells, Understand Demon Languages, Avoid Magic, Lie
+    Convincingly, Damage Demons
+- Granite$Bone Troll: Take All Sorts of Damage, Play Dumb, Eat Rocks and other Hard Things,
+    Leap Across Chasms, Hand$smash
+
+
+- Elf: Be One With Nature, Cast Nature Spells, Use Bows, Attack with Longswords, Find Secret
+    Doors
+- Noble: Influence People, Knowledge of Heraldry, Dodge in Melee, Bargain with Authorities,
+    Ride Horses
+
+Note from the above examples the difference between Main Abilities and Supporting Abilities. A
+Mercenary can use any weapon at his disposal, but an Elf can only use a longsword or bow. (Actually,
+both can use any weapon. The Elf can only use his Ability with a bow or longsword, though.)
+
+The Granite$Bone Troll can absorb damage from any source, be it a weapon, a falling rock, fire, or
+magic. The Mercenary can take more damage than the average character, but only in combat. Traps,
+backstabs, and falling would hurt him like normal.
+
+The Noble can use his Main Ability in any social situation. The Purple$Robed Sorcerer is useful in social
+situations as well, but only if he is lying.
+
+A Main Ability should affect all of one type of roll $ all attack rolls, all damage rolls, all influence rolls, or
+all attempts to hide. A Supporting Ability should be constrained so that it only works in specific
+situations.
+
+The constraint on a Supporting Ability can be equipment$based, opponent$based, or any other sort of
+constraint. Note the Purple$Robed Sorcerer compared to the Granite$Bone Troll. They both have
+Abilities that let them increase their damage. ("Hand$smash" is used to do more damage when hitting
+things.) The Purple$Robed Sorcerer can use his Ability whether attacking a demon with magic or a
+sword. The Granite$Bone Troll, on the other hand, can hurt anything, but he must hit it with his hand.
+
+Because you can invent any Ability you want, you may need to stop here with the GM and define what
+your Abilities do. If you wanted to backstab, for example, you'd make a "Backstab" Ability. How does
+Backstab work, though? Your GM will be familiar with these rules, and can help you out with these
+questions now. (Backstab would add to your damage roll whenever you hit an opponent facing away
+from you. Alternatively, it could add to your attack roll whenever an opponent is facing away from you.
+It could not do both, however. This is why it is important to make sure your Abilities are well$defined
+before play.)
+
+```
+Player Tip: Choosing Abilities
+The option to choose any Abilities you want for your character may be daunting. Remember that
+successful actions will let you narrate what happens in the game, and plan your Abilities around that.
+If you chose an Ability like "Hear Noise," you could use this at any time, not just when your GM called
+for a roll. A successful roll would allow you to create an encounter by saying that your character hears
+```
+
+```
+footsteps behind him, the sound of a giant eagle in the trees, or the scraping of a huge worm ahead in a
+tunnel.
+If you chose an Ability like "Find Secret Doors," you could use this to find a short$cut around big
+trouble in a dungeon, or even use it to find a way out of a combat that's not going in your character's
+favor.
+Also remember that successes can be used for bonus dice on another roll, and choose Abilities that can
+be used as "combos."
+If you chose an Ability like "Speed of the Ancients," you could use that to increase your initiative in
+combat.
+If you chose Abilities like "Run and Charge" and "Strike with Broadsword," you could run at an
+opponent, using successes to add to your ability to strike him.
+If you chose Abilities like "Find Treasure" and "Evaluate Worth," you could search for treasure, evaluate
+the worth of it, and then make a roll to loot, using successes from each roll to build up a huge pool of
+dice.
+```
+Magic Abilities
+
+You've probably noticed above that the Purple$Robed Sorcerer has "Cast Spells" as his Main Ability, and
+the Elf has "Cast Nature Spells" as a Supporting Ability. A general Ability to do magic $ Cast Spells,
+Magic$Slinging, or whatever else $ must be taken as a Main Ability.
+
+If you want a very specific type of magic, you may take it as a Supporting Ability. Examples would be
+Cast Nature Spells, Mystical Stealth, Create Illusions, or Psychokinesis.
+
+All these Abilities are spell$based magic, and use the magic system outlined in Chapter 6: Magic. If you
+make a character that uses spell$based magic, you should read this chapter before play. It tells you how to
+define your magical style and choose your Magic Words, which you'll have to do to finish making your
+character.
+
+You do not, however, have to have spell$based magic at all to have a Ability that is magical in nature. For
+example, if you want to create a spritely little creature whose only magical talent is making light, you
+could choose "Making Light" as an Ability. If you wanted to have your hands burst into flame in combat,
+you could choose "Hands of Flame," and define it as adding to your damage when punching. Since all
+Abilities use the same resolution system, and are rated identically, these sorts of Abilities are not over$
+powering even though they are magical in nature.
+
+
+Powerful Abilities
+
+Some players may take Abilities the GM determines to be too powerful for her game. This should be very
+hard to do, as all Abilities are rated identically.
+
+If you are a GM, and a player has an Ability that seems too powerful, discuss a way to tone it back with
+him. Most powerful Abilities can be translated into a perfectly fine Donjon Ability.
+
+```
+Jonathan wants to play a Snap$Tooth Dragon$kin. He writes down "Immune to Fire" as a
+Supporting Ability. His GM notes that there is no sort of "immunity" Ability in Donjon.
+She asks him, "Wouldn't that work better as 'Resistant to Fire?' That way, we can rate it
+easier." Jonathan agrees, and takes "Resistant to Fire."
+```
+If the Ability can absolutely not be toned down to a level appropriate for your game, a good solution is to
+set a limit on its use with the player. Most powerful Abilities are fine when used only once per encounter.
+If you are a player, and want an Ability that seems over$powering, suggest this to your GM.
+
+```
+Jonathan, the trouble player in this group, also has "Regenerate Damage" as a Supporting
+Ability. His GM frowns. "But, Nikola," he whines, "I can only use it when I'm damaged."
+Nikola shakes her head. "That's not nearly limited enough for a Supporting Ability."
+"What if I make it 'Regenerate Adroitness Damage'?" Jonathan asks.
+"Ok $ that's fair. But, you can only use it once per encounter," Nikola adds. "Otherwise,
+you could just use it over and over until all your Adroitness damage was healed every
+encounter."
+```
+### Distributing initial dice..............................
+
+At the end of character creation, you should have Flesh Wounds, two Saving Throws, and five Abilities
+with unallocated scores on your character sheet. You have 20 initial dice to allocate to these scores
+however you see fit. However, you may not have more than your Level + 3 in any of these scores.
+
+You should also have a Wealth score and a Provisions score. Set one of these at 5 dice and the other at 3
+dice to determine initial Wealth and Provisions.
+
+Your character is now completed and ready for play.
+
+
+### Some examples of character creation............
+
+Three players, Robin, Ron, and Jonathan, sit down with the Game Master, Nikola, to make characters
+for Donjon. They have decided that the game will be fairly serious, although none of them object to a
+little humor, and Nikola has decided that Attributes will be allocated with the "Player$Allocated" method.
+
+Roland the Wilderness Scout
+
+Robin says, "This game, I want to play a character that'll let me narrate a lot. I think someone who can
+find monsters and know all about them would be best. I'm going to play a human $ his Class is
+'Wilderness Scout.'" He writes down the Class on his character sheet.
+
+He's got 21 points to allocate to Attributes. He says, "I want this character to be almost supernaturally
+perceptive, but he's got to be quick, too, so as not to get killed. I'm going to set his Discernment and
+Adroitness really high. I don't think he's that strong or imposing, though $ kind of a smart, quiet guy." He
+allocates his points and ends up with Virility 2, Cerebrality 3, Discernment 6, Adroitness 5, Wherewithal
+3, and Sociality 2.
+
+Ron says, "Great. Aragorn. Whoopee."
+
+Robin turns to him. "Hey, buddy. If you want to comment, get your head out of that book. Otherwise,
+keep it to yourself. Anyway, this guy's nothing like Aragorn. He uses a machete, and climbs trees."
+
+For Abilities, Robin already has his Main Ability in mind: "His Main Ability is 'Track Anything.' I should
+be able to use that to find tracks of people, monsters, or whatever else I want to encounter." For
+Supporting Abilities, he thinks of three that will help him out: "Sneak in Forests," "Climb Trees," and
+"Swing Machete." He can't think of another one, though.
+
+Jonathan says, "What about 'Wild Animal Lore'? You could state facts about the creatures you find."
+Robin thinks that's perfect, and adds it on. (Having other players help you with your character is highly
+suggested.)
+
+All Robin has left to do is distribute his 20 initial dice. He puts four dice, the maximum, into Roland's
+Main Ability, as he wants him to be great at it. He wants Roland to be relatively tough, sneaky, and
+decent in combat, so he puts three dice into Flesh Wounds, "Sneak in Forests," and "Swing Machete." He
+doesn't particularly care about mind$affecting magic, so only puts one die into Save versus Illusion and
+Confusion, and puts two dice in everything else.
+
+For Provisions and Wealth, he puts five dice into Provisions and three into Wealth.
+
+
+Azar the Purple
+Robed Sorcerer
+
+Ron's been reading some other role$playing game while Robin made up his character. He looks up and
+says, "I like the idea playing someone who uses magic, but his magic revolves all around demons. I'll call
+him a 'Purple$Robed Sorcerer.'"
+
+Jonathan and Robin laugh. "Man, you always play that character."
+
+Ron sneers. "And he always kicks ass, so shut it." He writes down the Class on his character sheet and
+continues, "This guy's weak as he can be from all the other$worldly forces he's summoned, but he's smart,
+and his flesh has turned leathery and tough. He's not the sort of guy you'd like to know, but he's
+powerfully frightening, too." He assigns his Attribute points, and ends up with Virility 1, Cerebrality 6,
+Discernment 2, Adroitness 3, Wherewithal 5, and Sociality 4.
+
+Ron says, "Well, 'Casting Spells' has got to be my Main Ability. What else can I use to make this character
+cool?"
+
+Jonathan says, "Um... how about make a different character?"
+
+Ron growls. "Keep it up, man. Just keep it up. We'll see whose character's lame when we're knee$deep in
+human feces under Da Nang."
+
+Jonathan laughs, "Dude $ Da Nang? What?"
+
+"Never mind," Ron grimaces. "Robin $ can you help me out here?"
+
+Robin says, "How about 'Understand Demon Languages'? You could roll it to understand what a
+demon's saying to you, and use the successes to actually state what he said."
+
+Ron agrees. "That's awesome. That and "Damage Demons" in case one gets out of control. Hmm... what
+else? I'd like to be able to roll some extra dice in Damage Tests against magic, and lie to people. 'Avoid
+Magic' and 'Lie Convincingly' sound good."
+
+Like Robin, Ron puts four dice into his character's Main Ability, "Cast Spells." He does care about mind$
+affecting magic, so he puts four dice into Save vs. Illusion and Confusion as well. With only 12 dice left
+to spend, he puts three into "Lie Convincingly," one into "Save vs. Poison, Polymorph, and
+Transmogrification," and two into everything else.
+
+He also puts five dice into Wealth and three dice into Provisions to finish the character.
+
+Fiera the Snap
+Tooth Dragon
+Kin
+
+Nikola asks Jonathan, "What sort of character are you planning on playing?" Jonathan says, "I was thinking
+about playing a non$human $ maybe a cute female dragon$person."
+
+
+Robin says, "Dude, you always play chicks."
+
+Jonathan says, "Shut your punk mouth before I shut it for you. Anyway, there's lots of dragon$kin, right?"
+Nikola nods. "She's one of the Snap$Tooth Dragon$Kin, a group of strong, but non$flying dragon$kin. I
+think I'll call her Fiera." He writes down Fiera's Race on the character sheet. "She's going to be a bad$ass,
+but doesn't get along with people well. It's not because she's mean, though, although people think she is $
+she's actually shy, as she thinks people won't accept her, so she's always trying to prove herself." He takes
+his 21 points, and allocates them as Virility 5, Cerebrality 3, Discernment 4, Adroitness 4, Wherewithal 4,
+and Sociality 1.
+
+Ron looks up again. "Man, it's just Donjon. Cease with all the back$story and just create your combat$
+ready chick so we can play already."
+
+Jonathan says, "Hey $ I like this character. You're just upset because we're not playing the game you
+wanted to this week." Ron mutters and looks back down at his book. "Ok, Abilities," Jonathan thinks out
+loud. "Well, 'Breathe Flame,' of course. And since that's a Main Ability, I can use it in combat, or to
+destroy flammable things, right, Nikola?" She nods again. "Ok. Let's see. I'm going to add 'Thick Hide' to
+absorb damage."
+
+Nikola says, "But that's a Supporting Ability. What sort of damage do you want to avoid?"
+
+Jonathan thinks for a second. "All damage from sharp things $ they have a hard time getting through her
+hide. I'm also taking 'Resistant to Fire,' 'Intimidate People,' and 'Regenerate Adroitness Damage.'
+Remember, we talked about that one, Nikola."
+
+She agrees. "Yeah $ it seems to be an alright Ability, as long as you only use it once per scene. What about
+your dice?"
+
+Jonathan puts four dice into "Intimidate People" to make up for Fiera's low Sociality, and also puts four
+dice into Flesh Wounds, since she's supposed to be tough. He puts three dice into "Breathe Flame," one
+into "Regenerate Adroitness Damage," and two into everything else.
+
+He finishes up by putting five dice into Provisions, and three into Wealth.
+
+
+## Money and Goods......................................
+
+In Donjon , the amount of money and goods your character has is not quantified as some sort of concrete
+quantity. You won't find references anywhere in the game to "20 doubloons" or any other such nonsense.
+Instead, your character has a Wealth score, which is an amorphous reference of his current money
+situation, and a Provisions score, which is a reference of his state of readiness for donjon adventures $
+basically, how full his backpack is.
+
+The Wealth score is primarily used when your character is in town, shopping for weapons, armor, or
+other items. It's also used to increase his Provisions score, and bribe or influence people. The Provisions
+score is only used when out on an adventure.
+
+### The Spending Test....................................
+
+All uses of Wealth and Provisions in this chapter use a standard method of resolution called a Spending
+Test. (You'll find out more about Tests in "Resolution.") The steps involved in a Spending Test are:
+
+- Decide on a number of dice to take from your Wealth or Provisions score. (This will be indicated
+    in the text.) If the Test is successful, these dice will be lost from your score.
+- If rolling a Wealth Spending Test, add Sociality to the number of dice in your dice pool; if rolling
+    a Provisions Spending Test, add Cerebrality to the number of dice.
+- Roll these dice and compare to a roll by the Game Master. (The number of dice the Game Master
+    rolls will be indicated in the text as well.)
+- If successful, you get the item or service you were trying to purchase. The dice you took from
+    Wealth or Provisions are lost from that score. If unsuccessful, return the dice you took.
+
+The Law of Successes (described briefly in Basic Concepts, and more fully in Resolution ) does not apply
+to Spending Tests.
+
+### Buying items............................................
+
+Characters may only buy items when in town. In order to buy an item, make a Wealth Spending Test
+against a number of dice according to Table 3$1: Item and Service Worth. Markup is always added to the
+GM's number of dice. Markup is a score that will differ depending on the town, and the nature of goods
+the character is trying to buy, and is covered in detail in Running Donjon.
+
+If you succeed in this roll, your character gets the item he was trying to buy. If unsuccessful, your
+character cannot buy this same item or service from this vendor. He can go to a different blacksmith,
+
+
+coach driver, or inn, if there is one, but this vendor wants nothing more to do with him until his Wealth
+is increased, or the GM rules that the situation has changed (the characters do a favor for the vendor, a
+magician casts a spell increasing the character's Sociality, or something of the like.)
+
+```
+Table 3-1: Item and Service Worth
+Worth | Item or service
+Damage Rating Weapon or armor
+0 Cheap stuff (a beer, a night in a stable or common room, a meal)
+3 Moderate cost (a 10-mile coach ride, a room for a week, decent
+information, a silver ornament)
+6 Expensive stuff (a trip on board a ship, good information, a cart and horse,
+a ruby-encrusted gold ring)
+9 Very pricey stuff (a small house, a team of horses, some cows, a pound of
+rare spice)
+The GM may feel free to assign Worth to an object that is between the values above. If an object
+could be considered of more than moderate cost, but not truly expensive - a fighting dog, for
+example - you could assign a Worth of 6 or 7 to it.
+```
+### Buying more Provisions.............................
+
+The other thing your character can buy in town are Provisions. When at a Provisions vendor, if you want
+to increase your character's Provisions, make a Wealth Spending Test against your character's current
+Provisions, plus the town's Markup for Provisions. All of your successful dice are added to your
+character's Provisions.
+
+```
+Robin wants to increase his character's Provisions before going adventuring. He has a
+current Wealth of 9 and Provisions of 4. In addition, his Sociality is 2 and the town's
+Provisions Markup is 3. He chooses to roll 6 of his Wealth dice in order to increase
+Provisions. His total roll is 8 dice (6 Wealth + 2 Sociality.) The GM rolls 7 dice (4
+Provisions + 3 Markup.) The results are:
+Robin: 3, 6, 9, 10, 12, 14, 17, 20
+GM: 2, 7, 8, 11, 14, 15, 16
+Robin has two successes, so he increases his character's Provisions by 2 to 6. His Wealth
+score is now 3.
+```
+
+### Using Wealth as influence (buying favors)....
+
+You may spend your character's Wealth, either in town or on an adventure, in order to have him bribe or
+influence an NPC. To do so, make a Wealth Spending Test against the NPC's current Wealth score, plus
+his Discernment.
+
+If you succeed in this roll, you may add the number of successes you received to the number of dice you
+roll the next time your character attempts any sort of social proposition with the influenced NPC. (In
+other words, this roll modifies the roll on your character's social attempt. It is not the social attempt itself.)
+
+```
+Ron's character, Azar, is talking with Baron Duval, the local lord. He needs passage onto
+his lands in order to hunt for the Scourge of the Golden Dawn, a fiend that he has been
+tracking. So far the baron's refusing, but Azar has a great deal of money, and decides to
+curry his favor with some of it. Ron decides to spend 8 of Azar's 12 Wealth. He rolls
+Azar's 4 Sociality, plus 8 Wealth against Duval's 2 Discernment, plus 10 current Wealth.
+He succeeds with 2 successes, and loses all 8 dice from his Wealth. Ron can now add 2
+dice to his roll when Azar asks the Baron for his permission to cross his lands.
+```
+### Selling items.............................................
+
+At some point, your character may wish to sell a weapon, a piece of armor, a castle, or some other item.
+There are two ways this can be done.
+
+Sell the item for Wealth: You roll a number of dice equal to the Worth of the item, plus your Sociality,
+and the GM rolls your current Wealth score, plus the merchant's Markup. Any successes you have on the
+roll are added to your character's Wealth. If you fail, the item is still sold $ it was not sold for a high
+enough price that it increased your Wealth. You will note that it is harder to gain Wealth from selling an
+item when your Wealth is already high.
+
+Use the item in trade: If the GM rules that a vendor would be interested in your character's item, you
+may add a number of dice equal to its Worth to your roll in a Wealth Spending Test to buy whatever
+item you are trading it for. If you fail the Test, you have not traded away the item. This usually results in
+a much better value than selling the item.
+
+If the character is selling a service, the GM and the player must agree on a Worth beforehand. The roll to
+exchange the service for Wealth, or to use it in trade comes afterwards, when the service is completed.
+
+```
+Jonathan's character, Fiera, has a huge axe (with a Worth of 4) that he wishes her to be
+rid of. Jonathan considers the options:
+```
+
+```
+He can have Fiera sell the axe. He would roll Fiera's Sociality of 1, plus 4 dice for the axe,
+against Fiera's current Wealth of 5, plus the merchant's Markup of 3. He realizes his
+chances aren't high of making any Wealth.
+He can have Fiera use the axe in trade. The merchant carries armor, and Fiera could use a
+chain shirt (Worth of 2). He can make a Wealth Spending Test and spend no Wealth at
+all, using the axe in trade. He would roll Fiera's Sociality of 1, plus the axe's Worth of 4
+against the shirt's 2 Worth, plus the merchant's Markup of 3. He decides to spend two
+Wealth to increase his chances to 7 dice versus 5, and tries to trade the axe for the chain
+shirt.
+```
+### Weapons and armor..................................
+
+Weapons are concretely quantified in Donjon , as is armor. Weapons and armor are what donjon crawling
+is all about. Weapons and armor are most easily described by their potential for causing or stopping
+damage, called Damage Rating (DR). DR is calculated by looking at Chart 3$2: Weapons and Armor.
+Note that the descriptions in this chart are not set$in$stone descriptions. The player can describe his
+character's weapons and armor however he wants: if the player wants the character to carry a dwarven
+war$axe and wear bear$skin furs, decide how much potential for damage a dwarven war$axe has, and
+how much damage bear$skin furs can possibly stop.
+
+However, if you can only use certain weapons (because of a Supporting Ability like "Swing Elvish
+Sword") the DR of those weapons must be defined before play.
+
+No mundane weapon (that a human$sized character can wield) or armor can cause or stop more than 4
+dice of damage.
+
+```
+Table 3-2: Weapons and Armor
+Damage Rating Example of weapon or armor
+Melee weapons
+-1 Fists and feet
+0 Small weapon (sap, dagger)
+1 Medium weapon (short sword, mace, hammer, club)
+2 Large weapon (broadsword, longsword, warhammer)
+3 Huge weapon (halberd, two-handed sword)
++1 Sharp weapon (swords, axes)
+Missile weapons
+```
+
+```
+Table 3-2: Weapons and Armor
+Damage Rating Example of weapon or armor
+1 Thrown items
+2 Short bow, hand crossbow
+3 Long bow, light crossbow
+4 Composite bow, heavy crossbow
+Armor
+1 Leather or padded armor, shield
+2 Studded leather, chain shirt
+3 Scale mail, chain armor
+4 Plate armor
+```
+Weight
+
+All weapons and armor have a Weight score. The Weight score is always equal to the mundane Damage
+Rating of the weapon. Weight is measured against a character's Virility to determine effects. If the
+character uses no piece of equipment with a Weight greater than his Virility, there are no effects.
+
+If a weapon has a Weight greater than a character's Virility, the character's chance to hit with that weapon
+is penalized by the difference between the two scores. If a character wears armor with a Weight greater
+than his Virility, his Adroitness is penalized by the difference.
+
+```
+Robin's character, Roland, has a Virility of 2, Adroitness of 5, and the Supporting Ability
+"Swing Machete" at 3. Unfortunately, Roland finds himself in the possession of plate
+armor (DR 4) and a broad sword (DR 3). When Roland is wearing the armor, his
+Adroitness is penalized 2 dice (Weight 4 $ Virility 2). In addition, if he uses the sword, his
+chance to hit is lowered by 1 die.
+```
+In addition, a chance must have a Virility score higher than a melee weapon's Weight in order to use it in
+one hand. If a weapon has a Weight equal to or greater than a character's Virility, it must be used two$
+handed, preventing the character from using it and a shield, torch, or other hand$held object.
+
+Missile weapons
+
+Missile weapons are rated just like melee weapons, by damage. They do not, however, have a score for
+range, or how far they can shoot. Range is the same for all missile weapons, except thrown items, and is
+covered in Combat.
+
+
+Missile weapons in most role$playing games require some sort of ammunition $ arrows, bolts, or bullets.
+By default, the assumption in Donjon is that you have enough of these things that you need not worry
+about them.
+
+If your GM wants to keep track of ammunition, she will let you know before the game begins. In that
+case, 10 pieces of ammunition cost the same as a DR 1 weapon (Markup + 1 die).
+
+Unusual weapons
+
+Unusual weapons can occur quite easily in Donjon , as it is so player$driven. When a player has an idea
+for a weapon that seems very non$traditional, the GM and the player should sit down to figure out the
+damage (and cost) of the weapon.
+
+```
+Jonathan is playing a character, Fiera, that can blow flame. Flame breath is a pretty
+unusual weapon, but Nikola, the GM, thinks it's a neat idea. She asks Jonathan how
+much damage he wants the flame to do.
+"Well, it's not that big, but it's flaming, so is three points ok?" Jonathan asks.
+"That's fine," says the GM. "That means you'll have to buy a weapon of Worth 3 $ what
+do you call it, though?"
+"Maybe Fiera has to eat a special diet," Jonathan says. "I have to buy exotic goods to carry
+with me to eat."
+```
+##### Provisions................................................
+
+Provisions $ assorted donjoneering equipment that isn't used to hit people or avoid being hit $ are not
+listed on your character sheet. This sort of litigious bookkeeping is for lesser games. Instead, your
+character has one Provisions score. This score is a reference of his general state of preparedness for donjon
+adventures, and a measure of how much stuff he has in his backpack. When your character is on an
+adventure, and you wish he had a certain item, make a Provisions Spending Test against a number of dice
+found on Chart 3$3: Provisions Roll.
+
+```
+If Azar was standing in front of a door that he knew had massive treasure behind it, and
+his player, Ron, wanted him to pull out a lock$pick that would give him 2 extra dice for
+opening the door, the GM would roll:
+3 dice (automatic) + 2 dice (Ability: Pick Locks 2) = 5 dice.
+```
+
+If you succeed at this roll, you successfully retrieve the item you were looking for from your backpack (or
+other place of storage.) If you fail this roll, you may not try to retrieve the same item again until you
+increase your Provisions.
+
+Items can have Abilities, just like characters. These Abilities are Supporting Abilities, and add to the
+character's dice pool when using them. An item can only have a score in an Ability from 1 to 4 without
+being magical.
+
+You cannot retrieve weapons, armor, or magic items from your Provisions. If you attempt to retrieve an
+item that is too big to fit in your backpack or be strapped across your back, you will incur a penalty.
+
+```
+Table 3-3: Provisions Roll
+3 dice Automatic
++x dice Item's worth (see Table 3-1: Item and Service Cost)
++1-4 dice or Item's Ability score (Abilities and Worth do not add together; choose the
+larger value of the two.)
++3 dice The item isn't something you'd usually carry (a troll with a lute, for
+example) or is too large for your Provisions.
+```
+##### Using Abilities with Wealth and Provisions..
+
+In all the cases above, your Abilities may increase the number of dice you get to roll, as explained in
+Resolution. Having an Ability like "Evaluate Weapon Worth" can greatly increase your chances of
+picking up a weapon for a good price. When you have an Ability applicable to any action described in
+this chapter, you may add its score in dice to your dice pool.
+
+```
+Jonathan's character, Fiera, is buying a two$handed axe, which has a Worth of 4. She has
+an Ability of "Intimidate People" of 4. He decides to only spend 2 Wealth trying to get
+the axe, and rolls her 2 spent Wealth, plus her Sociality of 1, plus her Intimidate Ability
+of 4, ending up with 7 dice. The GM rolls the axe's Worth of 4, plus the Markup of 3,
+totaling 7 dice.
+Kimberly's character Zoe, a Level 3 Spelunker, has an ability of "Stuff Backpack Full" of
+```
+5. She wants to retrieve a glass bottle from her backpack in order to keep a sample of
+some cave fungus she has found. She takes 1 from her Provisions, and adds her 4
+Cerebrality, plus her 5 dice from Stuff Backpack Full, totaling 10 dice she gets to roll.
+The GM rolls the automatic 3 dice for Provisions, plus the Worth of the item, which she
+determines to be 2, totaling 5 dice. Zoe's ability greatly increased her chances of having a
+glass bottle with her, and lowered the amount of Provisions she had to spend.
+
+
+##### Permanent possessions...............................
+
+During an adventure, your character will gain all sorts of possessions $ goods he rummages from his
+Provisions and things he finds on enemies' bodies or in treasure caches. You can feel free to have him use
+all of these during the adventure.
+
+Your character sheet shows your permanent possessions, however. (At Level 1, this is one weapon, one
+piece of armor, and one other possession. You will have a chance to increase the number of permanent
+possessions your character has through experience.) At the beginning of each adventure, you must erase
+all possessions except the character's permanent possessions. Which possessions of yours are permanent
+may change, however; the number of possessions you have at the beginning of an adventure is the
+important part.
+
+
+#### Resolution..................................................
+
+The Game Master or player can call for a Test at any time in order to determine if a character can
+successfully perform an action. As discussed in Basic Concepts, a Test is a roll of the dice used to
+determine the success of an action.
+
+##### Attributes and Abilities...............................
+
+When rolling a Test, the player normally rolls a number of dice equal to his character's Attribute that is
+most appropriate to the task. Table 4$1: Attribute Appropriateness lists common tasks that fall under each
+Attribute.
+
+In addition, the player normally adds an appropriate Ability (or Saving Throw) if his character has one.
+The GM is the final arbiter of whether an Ability is appropriate or not, but it is the player's responsibility
+to mention if his character has an appropriate Ability. (Only one Ability may be used per action, although
+if the character has any items with Abilities that are appropriate to the task, their values can be added as
+well.) A player may add an appropriate Ability score to his die pool any time a Test is mentioned in these
+rules unless otherwise noted.
+
+```
+Table 4-1: Attribute Appropriateness
+Attribute Common tasks
+Vitality Lifting heavy things Breaking open doors Pulling someone out of a river
+Climbing a wall or cliff Damaging someone
+Cerebrality Remembering a monster's weakness Solving a puzzle, riddle or math problem
+Deciphering another language Casting spells
+Discernment Noticing things Resisting mind-affecting magic Empathizing with someone or
+something Perceiving intentions
+Adroitness Dodging Running a short distance Jumping out of a trap's path Picking locks
+or pockets Hitting someone
+Wherewithal Resisting damage, body-affecting magic, poison or disease Running a long
+distance
+Sociality Convincing a monster not to eat you, a bandit not to rob you, or a king to grant
+you passage Getting a good deal on your equipment
+```
+
+##### Uncontested actions..................................
+
+When a Test is resolved between a character and an obstacle (climbing a wall, looking into the darkness,
+jumping a chasm), this is called uncontested. The player and GM choose the character's most appropriate
+Attribute for the action, as stated above, and the player rolls this score, adding dice from any appropriate
+Ability, Saving Throw, or item Ability to find out how many dice he is rolling in the Test. The GM will
+roll a number of dice appropriate to the difficulty of the action, as shown on Table
+4$2: Uncontested Difficulties.
+
+```
+Robin wants his character, Roland, to swim across a fast$flowing underground river.
+The most appropriate Attribute for this is Virility, and Roland has no Swimming Ability,
+but does have a magic ring with the Ability "Magic: Float in Water 2," which is
+appropriate. The current Donjon Level is 2, and swimming across this particular river is a
+Hard task.
+Robin will roll 4 dice (Roland's Virility of 2, plus 2 dice for the ring) and the GM will
+roll 8 dice (Donjon Level 2, plus 6 dice for a Hard task.)
+```
+When a player requests a test based on a perception$based uncontested action, the difficulty of the Test is
+determined a bit differently. Since Donjon is so player$driven, a player can say, "My character is peering
+into the darkness," and he will get to determine what his character sees. In these cases, the GM should set
+the difficulty according to how much control she wants over the scene. If she wants little control, set the
+difficulty to Easy. If she wants an average level of control (the default), set the difficulty to Medium. If she
+wants her way with no changes, set the difficulty to Crazy. Remember that the GM will never have total
+control, though, even in the face of complete character failure.
+
+```
+After getting across the river, Roland finds a path leading further underground. Robin
+wants him to look at the ground and find tracks of the last creatures to walk down this
+path. The GM doesn't have a set idea for what she wants to be down the path, so she sets
+the difficulty to Medium.
+Robin will roll 10 dice (Roland's Discernment of 6, plus an Ability of "Track Anything"
+of 4), and the GM will roll 5 dice (Donjon Level 2, plus 3 dice for a Medium task.)
+```
+
+```
+Table 4-2: Uncontested Difficulties
+Difficulty of task GM's dice
+Easy (climbing a fence) 0
+Medium (climbing 100 feet with the appropriate equipment) 3
+Hard (climbing a tall cliff with equipment, climbing 100 feet with no
+equipment)
+```
+###### 6
+
+```
+Very Hard (climbing a sheer, wet cliff) 9
+Crazy (climbing glass) 12
+The GM always adds the Donjon Level (Running Donjon ) to the number of dice listed above.
+```
+##### Contested actions......................................
+
+When a character attempts a task opposed by another character or NPC, this is a contested action. For
+these Tests, the player rolls normally (Attribute plus modifiers) and the GM does the same for the NPC. If
+two players' characters are acting against each other, the players each roll normally against each other.
+
+```
+Once on the other side of the river, the party runs into a little goblin scout. The goblin
+takes off running to alert his friends, and Jonathan wants Fiera to stop him. In order to do
+so, she'll have to catch up with him. Fiera's sprinting, so the most appropriate Attribute is
+Adroitness, which is one of her best Attributes.
+Jonathan will roll 5 dice (Fiera's Adroitness of 5, and no appropriate Abilities), and the
+GM will roll 7 dice (the goblin's Adroitness of 5, plus an Ability of "Sprint like Ass is on
+Fire" of 2.)
+```
+##### The Law of Successes and narration.............
+
+So, what do you do with all these successes? In Donjon , we have a concrete rule as to what each success
+means. The Law of Successes states:
+
+1 success = 1 fact or 1 die
+
+When a player wins a Test, he is left with a number of successes. For each of these successes, he can state
+one discrete fact about his character's success, or turn the success into a bonus die for a related action.
+(This action is normally the character's next action. However, it does not necessarily have to be.) The
+player cannot state irrelevant facts $ facts concerning something besides his action $ and success in the
+action is assumed unless the player states otherwise.
+
+
+```
+Ron's character, Azar, is looking for a secret door, and Ron gets 3 successes on his roll.
+He uses all three successes for facts, and his facts are:
+● The door has demonic script around it.
+● It is in the north wall of the room.
+● There is a key in the keyhole.
+He could have said "The door is unlocked," or "The door is only 3 feet high," or even
+"Azar finds no door at all."
+```
+After a player states his facts, the GM takes these facts and narrates the outcome of the action, making sure
+to use all the player's facts. The GM can feel free to add new information to the outcome, or expand
+upon the player's facts.
+
+```
+The GM narrates Azar's attempt to find a secret door: "Azar looks around for a secret
+door, and pulls back a tapestry on the north wall. He finds a door with demonic script
+surrounding it and a key in the keyhole, decorated with an ornate skull at the top. Four
+finger$bones jut out from underneath the door, as if someone tried to claw the door
+open from the inside."
+```
+If the player fails in his Test, the situation is reversed. The GM's successes can be used to state facts about
+the player's failure, or they can be used as bonus dice for the GM in a related action by the player's
+character.
+
+After the GM states his facts, the player has to narrate his character's failure, making sure to use all the
+GM's facts. Failure in the action is assumed unless the GM says otherwise. The player can add new
+information to this outcome, but the GM may stop his narration at any time. If the player tries to get out
+of using all the nastiness the GM has thrown at him, the GM should cackle like a hyena, and then
+suddenly get very quiet, staring at the player with only one eye. That should teach him.
+
+```
+Later, Azar is attempting to climb a wall. Ron rolls the Test and fails, with the GM
+garnering 2 successes. The GM's facts are:
+● Azar falls down the wall and lands on a pile of garbage.
+● Rats leap out of the garbage.
+Ron narrates: "Azar loses his hand$hold on the wall and slips, landing in a pile of garbage.
+He hears a hissing, and rats leap out of the garbage, each the size of a dog. One of them
+starts to metamorph into a human form, and says, 'Master...'"
+```
+
+```
+Nikola, the GM, stops him. "Hold on there. 'Master?' I don't think so. So, one of them
+starts to metamorph into a human form and grins evilly at you..." The game continues
+on.
+```
+```
+Player Tip: The Law of Successes is your friend
+The Law of Successes makes you very powerful as a player. If you use an Ability like "Hear Noise,"
+noise will be heard if you succeed. It might even be heard if you don't succeed, although then the GM
+will tell you what sort of noise you heard. This means you are in control of the adventure, unlike in
+most fantasy role$playing games where you can only do the things the GM has set out for you to do.
+In addition, the bonus dice you can get are extremely helpful when you don't have enough dice to
+have a chance at an action. Let's say you want to jump across a wide pit, so wide that the difficulty is
+Very Hard. You don't have a jumping Ability, and you don't think you can make it. There's a tree
+nearby, though, and you have a "Climb Trees" Ability at 6. You can climb the tree and use those
+successes as bonus dice when you leap from the tree across the pit.
+If you've been wondering how characters work together in Donjon , you've got your answer in the Law
+of Successes. You can use your successes as bonus dice for a friend's action just as easily as you could use
+them for your own.
+```
+```
+GM Tip: The Law of Successes is your friend, too
+Just because players get to state facts when they succeed doesn't make you powerless as a GM.
+Remember, you get to narrate when they succeed, so stick it to them. Their facts are like wishes to a
+genie $ up to your interpretation. If your players get too full of hubris, declaring that they find treasure
+here, and fall into a bed of feathers there, turn those screws. Maybe they find a gold ring $ that grows
+teeth and bites into their finger when they put it on. Maybe they fall into a bed of feathers $ that
+happens to be the back of the biggest bird they've ever imagined.
+```
+##### Failure and damage....................................
+
+Sometimes a Test carries the threat of damage along with it $ for example, if the Test is to avoid a trap,
+climb a tall cliff, or slip under a descending ceiling before it hits the ground. If a failing a Test may cause
+damage, the GM should announce that to the player before the Test is rolled.
+
+If the Test is failed, any of the GM's successes that she uses for bonus dice are used as bonus dice on a
+Damage Test. The player rolls his character's Wherewithal score plus modifiers, and the GM either rolls
+
+
+the appropriate Attribute and Ability of the opposing NPC, or if no NPC was opposing, the current
+Donjon Level, plus modifiers based on the severity of the damage. This is most usually Medium (+3 dice),
+but can be raised or lowered if the GM feels it is necessary.
+
+The specific effects of damage on characters are detailed in [[combat]], but in brief, each success for the
+GM on a Damage Test removes one Flesh Wound from the character affected.
+
+```
+Jonathan's character, Fiera, is trying to climb the same wall Azar was earlier in the
+adventure. The GM warns Jonathan that if he fails the Test, Fiera will fall and possibly be
+damaged. Jonathan goes ahead and rolls the Test, and the GM gets two successes. The
+GM says, "I'm going to use all of these as bonus dice in the Damage Test."
+Fiera has no Ability to absorb damage from falling ("Thick Hide" only protects Fiera from
+sharp things), so Jonathan just rolls Fiera's Wherewithal of 4, while the GM rolls 7 dice
+(the current Donjon Level of 2, plus 3 for Medium damage, plus the 2 bonus dice.) This
+fall is probably going to hurt.
+```
+A Test can carry the threat of damage to an item with it. In that case, the GM need not announce the
+threat beforehand. The GM must state that the item may be damaged as a fact when she succeeds,
+however, using one success to do so. The player then rolls a Test of the item's Worth, and the GM rolls as
+above. Each success for the GM on this roll can remove one die from one of the item's mundane Ability
+scores.
+
+```
+Roland is trying to pick a lock, and has a lockpick with the Ability "Unlock Doors" at 2.
+Jim rolls the Test, and fails, with the GM getting 3 successes. The GM spends one success
+to announce the fact, "You hear your lockpick crunch as it twists in the lock," and spends
+the other two successes as bonus dice on the Damage Test against the item. Robin rolls
+the lockpick's Ability score of 2, and the GM rolls 4 dice (the Donjon Level of 2, plus the
+2 bonus dice.) The GM succeeds in the Damage Test with 1 success, and the lockpick's
+Ability score drops to 1.
+```
+If all of an item's mundane Abilities drop to 0, the item is destroyed. (If an item has no Abilities, one point
+of damage done to it will destroy it.) Also, the Law of Successes does not apply to Damage Tests. If the
+player succeeds, his character and character's items have taken no damage, which is his only reward. The
+GM can use no successes for narration.
+
+```
+Design Decision: Hey, I'm better at lower levels!
+You'll probably notice quickly that you have a better chance of attempting actions that do not fit any of
+your Abilities at lower levels. As you increase in levels, the average Donjon Level that you'll be
+```
+
+adventuring on will rise, and you'll need Abilities, which rise much faster than Attributes, in order to
+perform most tasks. For example, a Medium difficulty task on Donjon Level 1 gives the GM 4 dice to
+roll. A character with even an average Attribute will have a chance at winning. On Donjon Level 10,
+the same task gives the GM 13 dice, an amount that a character will need an Ability to have a chance
+against.
+
+This is entirely on purpose. As you play Donjon , your character is not the only one to gain experience:
+you learn how to play as well. At lower levels, players should feel free to try out all sorts of ideas in play,
+and their chances of succeeding will be higher. As they rise in levels, their choices will have to become
+more focused. In addition, as you gain levels, you'll gain items, both mundane and magical, that will
+greatly help you out. You'll find that the perceived disability of higher$level characters is quickly
+evened out by their equipment.
+
+
+#### Combat......................................................
+
+Combat is the heart of donjon crawling. For all the fun of narrating new encounters and results, combat is
+where characters have a license to chew up the scenery and emerge victorious, spoils in hand. In combat,
+the Law of Successes sometimes acts a bit differently than normal, so read closely to find out exactly what
+you can and can't do.
+
+##### Starting a fight..........................................
+
+Combat begins any time the GM or the players call for initiative. Calling for initiative means that you are
+asking everyone to make Initiative Tests to see when they are allowed to take actions in combat. When
+calling for initiative, you must name the party your character is attacking, if you are a player, or the party
+that is attacking the characters, if you are the GM.
+
+In order to make an Initiative Test, each player rolls his character's Level, plus the character's score in
+Discernment. No other Abilities can be added to this roll. The GM rolls for each NPC in the combat,
+rolling the NPC's Level, plus Discernment. Write down these numbers, or leave the dice in front of you.
+
+Combat is measured in what we call flurries. A flurry does not correspond to any sort of time
+measurement. Instead, it is a full exchange of blows at the end of which all participants have a slight lull in
+combat as they consider whether they want to continue combat. The GM counts down during the flurry
+from 20. (If the group is using a die size other than twenty$sided dice, the GM counts down from the
+highest number on the die.) Whenever the GM calls a number that a player rolled in his Initiative Test,
+that player's character can perform an action. If the player rolled the number multiple times, his character
+gets to make multiple actions. When the GM gets to 1, and all actions have been taken, that is the end of
+the flurry. If either side wants to extend the combat, a new flurry begins, with both sides making
+Initiative Tests. (There is a way to escape from combat $ see "Distance and movement" below.) If neither
+side wants to extend the combat, combat is over.
+
+
+```
+When their characters are fighting two minotaurs, Robin, Ron, Jonathan, and the GM,
+Nikola, roll the following for initiative:
+● Robin: 2, 5, 8, 10, 10, 15, 16, 18
+● Ron: 2, 3, 10, 20
+● Jonathan: 10, 13, 14, 17, 19
+● Nikola (Minotaur 1): 5, 8, 17, 19
+● Nikola (Minotaur 2): 7, 9, 10, 12
+When Nikola counts down, Robin's character will get an action when she calls out 18,
+16, 15, 10 (he gets two actions on 10), 8, 5, and 2. Ron's character will go on 20, 10, 3,
+and 2; and Jonathan's character will go on 19, 17, 14, 13, and 10.
+```
+This may seem odd if you've played other role$playing games that have combat to the death, and rounds,
+and initiative rolls each round. If you need to, you can think of each flurry as a round, and your character
+as going many times within that round. This way, though, you get lulls in fighting where each side gets a
+moment to think, "Is this going the way I want it to?" If not, both sides get the chance to disengage. You
+can even use this lull to parley with your opponents, offering them the chance to surrender or walk away.
+Game Masters should be sure to give players a chance to talk amongst themselves before a combat is
+extended.
+
+```
+GM Tip: Rolling initiative
+If you have to roll initiative for many NPCs of the same type, all with the same Level and Discernment,
+feel free to roll one Initiative Test for all of them. Each of the NPCs will go on each of the numbers
+you have rolled.
+```
+Ties in the Initiative Test
+
+When two characters roll the same number in the Initiative Test, actions progress in the order of the
+players, moving from the player to the left of the GM around the table clockwise. (Players may want to sit
+in order of their character's Adroitness scores in order to provide realism, if they like that sort of thing.)
+This ensures that NPCs will always go last in the case of ties. When each player gets his turn, his character
+can make only one action $ he will get to control his character's next action on the next rotation around
+the table.
+
+
+```
+When Nikola, the GM, calls out 10 in the initiative order, Robin gets two actions,
+Jonathan gets one, Ron gets one, and Minotaur 2 gets one. Robin is sitting to the GM's
+left, then Jonathan, get Ron. Their actions occur in the following order: Robin,
+Jonathan, Ron, Minotaur 2, and then Robin again.
+```
+Actions
+
+An action is any one task a character can do. This should be simple to adjucate, really $ a character can
+move in an action, or attack one other character, or pull something out of his backpack, or change
+weapons. The one important thing to remember is that only one normal Test can be made in an action
+unless stated otherwise. (Damage Tests, saves against magic, and the like do not count.) If you want to
+perform two Tests, and plan on one giving bonus dice to the other, this will take two actions.
+
+Surprise and initiative
+increasing Abilities
+
+It is possible to get more actions during a flurry by using surprise or by having an Ability that could
+increase your initiative. When surprising someone, simply use successes from an attempt to sneak up on
+an enemy as bonus dice for your Initiative Test.
+
+```
+Earlier, Robin was trying to have Roland sneak up on the minotaurs, and got three
+successes in his Test. The number of minotaurs had not been specified, so he spent one
+success to state, "I sneak up on the two minotaurs," and then spent the other two successes
+for two extra dice in his Initiative Test.
+```
+If several characters are simultaneously sneaking up on NPCs, have each of them roll and use their
+successes. The GM can feel free to use her successes, if she wins the roll, to catch the characters unawares
+and increase the NPC's dice in the Initiative Test.
+
+If you have an Ability like "Swift Sword$play" (Supporting Ability) or "Ninja Speed" (Main Ability), you
+may make a unopposed Test (Medium difficulty) of this Ability, plus your score in the appropriate
+Attribute (usually Adroitness) and use the successes as bonus dice in your Initiative Test.
+
+
+##### Distance and movement.............................
+
+Donjon does not use a traditional system of feet and yards, or meters, or any of that other stuff that hurts
+the author's head in combat. You are always one of the following distances from your opponents:
+
+- Out of range
+- Two actions away
+- One action away
+- In close
+
+You never begin combat out of range. It is up to whoever initiates combat to decide how far away the
+opponents are when combat begins.
+
+Once combat begins, you can spend an action to have your character either move closer or further away
+from his opponents. If his opponent sees him moving, he can abort a later action $ scratch off the
+character's next initiative number, or remove the next initiative die, depending on how the player or GM
+is tabulating the character's initiative $ to resist his movement (run away as he gets closer, or chase him if
+he's running away.) If no one is resisting your movement, you do not have to make a Test at all to move.
+If someone is resisting your character's movement, you must make a Movement Test against the
+opponent. Roll your character's Adroitness score, plus a pertinent Ability if you have one, and the GM
+rolls the same for your character's opponent. If you are successful, your movement is successful (you
+move one level of distance), and your successes can be spent, as normal, for facts, or for bonus dice on
+your next movement or attack.
+
+If a character moves out of range, he is out of the combat. If a character is two actions away, he gets a
+penalty of 3 dice to attack with a missile weapon, cannot throw a thrown weapon, and cannot engage in a
+melee attack. If a character is one action away, he gets no penalty to attack with missile or thrown
+weapons, but cannot engage in a melee attack. If a character is in close, he gets a penalty of 6 dice to
+attack with a missile weapon, 3 dice to attack with a thrown weapon, and can attack normally with melee
+attacks.
+
+If a character is in close and attempts to run away, his opponent gets a free attack on him. If the opponent
+is resisting the movement, and wins the Movement Test he can use his successes to add bonus dice to this
+attack.
+
+The author will be very up$front here and tell you that this is a huge abstraction. It works well, but the
+GM will have to arbitrate at times, especially if there are many combatants, and they all move around. If a
+player cannot figure out how far his character is from an opponent, ask the GM, who will know or make
+up something.
+
+
+```
+Before the party rolled initiative, as talked about above, they discussed how they wanted
+to execute the attack on the two minotaurs.
+Robin: "Well, Roland's already snuck up behind them, so he's in close. Jonathan, don't
+you think that Fiera should just leap into the fray? She's not sneaky, and doesn't have any
+missile weapons."
+Jonathan: "That sounds like a good idea, and it'll distract them from noticing Roland or
+Azar. Ron, Azar's casting spells, right?"
+Ron: "Yup. I'm going to start him down the tunnel, two actions away. Wait $ Nikola,
+can I see two actions away in here?"
+Nikola: "Not well, but if Jonathan has Fiera breathing fire all the time, it should be bright
+enough for you to target the minotaurs. Also, Jonathan, you're either going to have to
+start one action away, as the minotaurs notice Fiera, or you could try to have her sneak in
+close."
+Jonathan: "That's ok $ I'll jump out of the shadows one action away, and rush in."
+The party begins the combat, and as it continues, the last minotaur left tries to run away.
+Robin aborts his next action to have Roland chase him, so they both make a Movement
+test against each other. Nikola wins with two successes, using them for the minotaur's
+next Movement Test, and putting the minotaur at one action away. Robin has an action
+next, and chases the minotaur. Robin wins this time, though, getting a whopping five
+successes, and moves in close with the minotaur again. On its next action, Nikola has the
+minotaur continue to run, but Robin uses his five successes he kept for bonus dice in this
+Movement Test. Robin and Nikola roll again (with Robin aborting yet another action)
+and Robin wins again, with three successes, keeping the minotaur in close. He gets a free
+attack with Roland, as the minotaur was in close and Nikola failed the Test. He chooses
+to use the three successes from the Movement Test as bonus dice again, and gets three
+bonus dice on his attack, killing the minotaur.
+```
+Player Tip: Charging
+
+You can use successes in a Movement Test as bonus dice on a related roll, including your next
+Movement Test, if it's right afterwards, or your next attack. This means, if a NPC is resisting your
+movement towards him, or running away, you can charge him. (If he is standing still, you do not make
+a Movement Test, and so have no bonus dice. Chalk it up to him being able to prepare for your
+
+
+```
+charge.) Take those successes from running at the NPC and roll it over into a shattering attack,
+stopping him in his tracks for good.
+Of course, you might have some sort of charging Ability. In that case, you can add its score to your
+attack after moving towards an opponent no matter whether the opponent runs or stands his ground.
+```
+```
+Dial: Miniatures
+You might think, "Miniatures? But Donjon 's all about narration and fun!" Miniatures are fun, especially
+if you throw away the whole fetishistic collection sub$culture, and bust out your plastic dinosaurs and
+He$Man figures. If your group wants to use miniatures during combat, it's easily done. Settle on a
+distance for one action's worth of movement. If you're not using some sort of square$ or hex$based
+map, a distance will do just fine, like three inches. If you have a gridded map, decide on a number of
+squares or hexes.
+A few guidelines when using miniatures are:
+If a character runs away on his action, he moves whether he is resisted or not. If he is successfully
+resisted by another character (the character is chasing him and wins the Movement Test), the other
+character moves the same distance in the same direction.
+If a character runs toward someone, he also moves whether he is resisted or not. The same rules as
+above apply $ the resisting character only moves if he is successful in the Movement Test.
+Remember that players can use successes as facts to invent things during combat. Don't let a map
+constrain your imagination $ it's easy to represent a new tree, pit, or whatever else on a map as soon as
+the player comes up with it.
+```
+##### Attacking and defending............................
+
+To have your character make an attack on one of his actions, declare who your character (the attacker) is
+attacking (the defender), and make an Attack Test of Adroitness, plus any applicable attack Ability. Both
+missile and melee attacks are made in this fashion.
+
+The defender can either actively defend (parry) or passively defend (dodge). To parry, the defender must
+abort a later action. The character then defends, rolling his Adroitness, plus applicable attack Ability in the
+Test. Either a melee weapon or a spell (a fiery shield, for instance) can be used to actively defend. Only
+melee attacks can be actively defended against, not missile weapons or spells. The winner of this Test
+damages his opponent, whether it is the attacker or defender. This can be thought of as a counter$attack:
+
+
+it is treated exactly as an attack back on the attacker if the defender is successful. To dodge, the defender
+does not have to abort a later action. This does mean that a defender can defend against an infinite
+number of attacks. The defender rolls his Adroitness, plus any sort of dodging or avoidance Ability. If the
+defender succeeds, he does not damage the attacker in any way, and these successes are lost.
+
+If the attacker wins, he damages his opponent. The successes on this roll can be used as bonus dice on the
+Damage Test or another related action, or can be used to state facts about the attack. While using them as
+bonus dice on the Damage Test is most common, using them as facts or as bonus dice elsewhere is a great
+way to manipulate your opponents into falling down into holes, tripping over roots, or smashing into
+each other.
+
+```
+Earlier in the fight, Fiera was fighting one of the minotaurs. She had three actions left (on
+14, 13, and 10), and the minotaur had two actions left (on 8 and 5). She attacked once,
+with Jonathan rolling her 4 Adroitness plus Breathe Flame Ability of 3 for seven total
+dice. The minotaur had no sort of dodging Ability, and Nikola decided to actively dodge
+the attack, scratching off the minotaur's next action at 8, leaving the minotaur with one
+action at 5. She rolled the minotaur's 2 Adroitness plus "Kill with Axe" Ability of 4 for six
+total dice, and Jonathan ended up with two successes, damaging the minotaur. Jonathan
+had Fiera attack the minotaur again at 13, and Nikola had the minotaur actively defend
+again, losing its last action at 5. It barely succeeded this time, though, and hit Fiera,
+damaging her.
+Fiera has one more action, however, and the minotaur has none. Jonathan has her attack
+the minotaur one more time, and all Nikola can do is have the minotaur passively defend,
+rolling only its 2 Adroitness.
+```
+```
+Player Tip: Using everything you have
+Remember that your character can do a whole lot more than just run around, attack, and defend in a
+combat. If you are fighting a difficult opponent, it's in your character's best interest to use all his
+Abilities, in order to gain successes for bonus dice.
+For example, if you were playing a Charlatan, with an Ability of "Distract Stupid People and Things,"
+and were fighting a tough Ogre, you might have your character exclaim, "Hey, look over there!" with
+one action. Since the Ogre's Cerebrality is painfully low, it would probably fail this Test. You can take
+your successes from this Test and use them as bonus dice to pop the Ogre in the back on your next
+action as it stares off in the distance, trying to find what you were pointing at.
+```
+
+##### Damage and injury....................................
+
+If you succeed in an Attack Test, whether you were attacking or actively defending, you get a chance to
+make a Damage Test against your opponent. A Damage Test is made by rolling your Virility, plus
+weapon Damage Rating if you are using one, plus an applicable Ability against your opponent's
+Wherewithal, plus armor Damage Rating, plus an applicable Ability, if they have one. As stated in
+Resolution , the Law of Successes does not apply to a Damage Test in the normal manner. You can use
+successes in this roll to do one of two things:
+
+Remove Flesh Wounds from the opponent on a one$for$one basis. Flesh Wounds are the currency of
+character health. When reduced to zero Flesh Wounds, NPCs fall down unconscious and can be slain
+with a stroke; PCs fare a bit better, but have a chance to die as soon as they are reduced to zero Flesh
+Wounds.
+
+Damage the opponent's Attributes. In order to damage an Attribute, spend one success to state what you
+are doing as a fact. ("I slash him across the eyes, lowering Discernment!") Further successes can be spent to
+lower that Attribute like Flesh Wounds. If you want to get wild and split your successes between
+Attributes, you can, by spending more successes on more facts.
+
+(You may even spend some successes on Flesh Wounds, and some on Attributes. Just remember to spend
+one success for a fact per Attribute you wish to damage.) If a character has no Flesh Wounds, you do not
+have to spend successes on facts to damage Attributes.
+
+```
+When Jonathan has Fiera attack the minotaur this on her last action at 10, he gets to roll
+seven total dice, while Nikola only gets to roll two dice for the minotaur's Adroitness.
+Jonathan succeeds with a whopping four successes. Jonathan then makes a Damage Test
+versus the minotaur, rolling Fiera's Virility of 5, plus her breath weapon's Damage Rating
+of 3, plus the four bonus dice from his attack successes for 12 dice. Nikola rolls the
+minotaur's Wherewithal of 6, plus its Main Ability of Tough Hide of 5 for 11 dice.
+Jonathan's not so sure Fiera's massive attack is going to do any damage, but he ends up
+with three successes. He could remove three Flesh Wounds from the minotaur, dropping
+it from 6 to 3 Flesh Wounds, but he doubts Fiera will get in as good of an attack again.
+With the minotaur's formidable Attributes and Abilities, he needs to guarantee her
+success next time, and instead spends one damage success to declare, "Fiera's flame breath
+sears the minotaur's hide, withering its torso," and uses the other two successes to remove
+two dice from Wherewithal. The minotaur will still be formidable, but has two less dice
+to roll when defending against damage now.
+```
+
+Death
+
+All NPCs fall down unconscious when reduced to zero Flesh Wounds. It takes only one attack, which
+requires no Test whatsoever, to kill the NPC once he is unconscious. PCs, on the other hand, are treated
+a bit nicer. They do not collapse at zero Flesh Wounds. Instead, they must have zero Flesh Wounds and
+be smashed in order to fall unconscious. To smash a PC, the NPC must roll a Damage Test against the
+PC and have every one of his dice come up as a success. When smashed, PCs fall unconscious, and can be
+killed with one attack, like NPCs. PCs always roll one die in Damage Tests, even when their
+Wherewithal is reduced to zero.
+
+```
+The minotaur Fiera is fighting has made a bit of a come$back, and has hit Fiera
+repeatedly, knocking her to 0 Flesh Wounds. She's still standing and fighting, but just
+barely. The minotaur hits Fiera again, and Nikola rolls seven dice in a Damage Test,
+getting three successes against Jonathan. She uses all three successes to lower Fiera's
+Wherewithal from 4 to 1. (Since Fiera had no Flesh Wounds, Nikola didn't have to
+spend one of her successes to have the minotaur damage Fiera's Wherewithal.) If all seven
+of Nikola's dice had come up successes, Fiera would have been knocked unconscious.
+```
+Healing
+
+Player characters heal one die or Flesh Wound of damage at the beginning of every scene. (For a
+definition of a scene, see Basic Concepts.) Damage to Attributes is always healed first, starting with the
+lowest Attribute score. Once all Attributes are healed, Flesh Wounds are then healed. All damage is
+healed between adventures. Characters can, of course, be healed by magic, as detailed in Magic.
+
+```
+After the party emerges victorious, Fiera, Roland, and Azar move on, finding a tunnel
+leading down that the minotaurs must have come from. Finding this tunnel is the
+beginning of a new scene, so all three of the characters heal one die or Flesh Wound of
+damage. Roland and Azar only took damage to their Flesh Wounds during the fight with
+the minotaurs, but Fiera has damage to her Wherewithal, so one die of damage to it is
+removed. When it returns to 4, healing will be applied to her Flesh Wounds.
+```
+
+#### Magic.........................................................
+
+The magic system in Donjon is designed to provide a very flexible, yet easy way for your character to put
+on the beat$down. It is based around a very magical system of dice manipulation and word play. Instead
+of a list of spells, your character has a list of Magic Words that he can use. You will make up spells on the
+fly using these Words. Your character also does not have a maximum number of times per day that he can
+cast spells. Instead, he may cast spells as often as you like as long as he doesn't have to strain himself.
+
+"Magic" in Donjon doesn't just refer to hoary old wizards throwing fireballs or summoning demons.
+"Magic" is any supernatural ability to alter reality. These rules should work for priests granted powers by
+their god, psychics using the preternatural powers of their mind, or traditional magicians just as well.
+
+##### Magic Words............................................
+
+When you create a character that can cast magic, you get to choose a number of Words that show the
+types of magic he or she can cast at the beginning of the game. If your character has magic as his Main
+Ability, choose four Magic Words. These can be any noun, verb, or adjective in your native language.
+(Articles, such as "a" and "the," and pronouns, such as "she" and "it," are right out for obvious reasons. As
+for adverbs $ I never liked them in eighth grade, and I swore I'd have my revenge on them someday. The
+day is now.)
+
+```
+When Ron was creating his Purple$Robed Sorcerer character, Azar, he chose the
+following Words:
+fiery, madness, demon, cloud
+```
+If you have magic as a Supporting Ability, your character is more limited. You must choose two Magic
+Words, both of which can be reasonably considered to be associated with your type of magic.
+
+```
+Ron, Jonathan, and Robin are all making characters for another game where every
+character has magic as a Supporting Ability. They come up with the following Magic
+Abilities, and Words to go along with them:
+Nature Magic $ tree, squirrel
+Shadow Magic $ sneaky, tendrils
+Bardic Magic $ courage, calm
+```
+
+You will get the chance to add more Magic Words to your character as you go up in experience and
+levels.
+
+##### Casting spells............................................
+
+In order to have your character cast a spell, you must follow the following steps:
+
+Gathering Magic Power
+
+Your character has to spend at least one action gathering Magic Power before he can cast a spell. While
+you might have an idea at this point what sort of spell you want to cast, it is not necessary to. Gathering
+Magic Power is normally an Easy uncontested action, although the GM can change this to a Medium or
+even Hard task is the character is distracted, hurt, or uncomfortable. The difficulty may also rise if in an
+area where magic is harder to cast.
+
+To have your character gather Magic Power, roll a Test of your character's Cerebrality plus spell$casting
+Ability against the difficulty. If successful, your number of successes are your Spell Dice $ dice you get to
+use to state facts about or add bonus dice to your spell. The facts you can state are restricted, however $
+they are further explained in the section below. If you were unsuccessful in this Test, the GM may use
+her successes either as bonus dice against the next time you try to gather magic power, or as facts to state
+anything that may have happened as a result of your failed attempt to gather Magic Power.
+
+You may find that you want more Spell Dice than you get with your first roll. In that case, you may
+attempt to gather more Magic Power by spending another action to roll again. You must take a penalty of
+one die from your spell$casting Ability every time you do this, though, as you are straining your power.
+(These penalties are removed after a good night's rest.) If you ever reach zero dice in your casting spells
+Ability, you may not cast any more spells until you are rested.
+
+If you are successful when you roll again, you may add your successes to your Spell Dice. If unsuccessful,
+however, the GM's successes are subtracted from your Spell Dice. (If the GM has more successes than you
+have spell dice, she can use the remainder as bonus dice against the next time you try to gather magic
+power, or as facts about your botched attempt.)
+
+```
+Ron decides he wants Azar to cast a spell. The party's in a Level 3 donjon, and Azar has
+Cerebrality of 6 and Cast Spells at 4. Ron rolls the Test against the GM and gets three
+successes, giving him three Spell Dice. That's enough to cast a decent spell, but Ron's got
+big plans and decides to strain his power in order to get more. He takes a penalty,
+dropping his Cast Spells to 3, and rolls again, rolling only nine dice this time against the
+GM's 3. He gets two more successes for five total Spell Dice.
+```
+
+```
+He's not in danger of being attacked right now, and decides to push his luck once more
+in order to build up a tremendous pool of Spell Dice. He drops his Cast Spells to 2 and
+rolls eight dice. Unfortunately, he fails this time, and the GM gets one success. He loses
+one Spell Die, dropping him to four total Spell Dice. He can't afford to take any more
+penalties, and decides to release the spell.
+```
+Your character may hold Magic Power in reserve until you choose to have him release the spell.
+However, a few rules apply while doing this.
+
+First, your character is quite noticeable to other people and creatures while holding Magic Power. You
+should define what your character's Power looks like before play, and it should be very visible. If you are
+playing a holy cleric, he could be suffused with light. If you are playing a thief that uses shadow magic, his
+skin could grow darker and his eyes grow black. The more Magic Power your character is holding, the
+more pronounced the visual effects will be.
+
+```
+When Azar is holding Magic Power, a large horned shadow falls over him, reflecting the
+demons he has mastered to learn his power.
+```
+Second, the number of Spell Dice you are holding are added as a bonus to the GM's dice whenever you
+do anything active, as you've got to maintain your concentration to hold them. You can passively defend
+(dodge) and make Damage Tests and Saving Throw Tests without the GM getting a bonus, but that's all.
+
+Third, if your character is hit while holding Magic Power, it may backfire. If hit, roll a Test of
+Wherewithal plus your spell$casting Ability against the number of Spell Dice you are holding, plus the
+amount of successes your opponent rolled on his Damage Test. (Even if your opponent rolled no
+successes, you must still make this test. Also, the Law of Successes does not apply to this Test at all.) If you
+succeed, you manage to hold on to your Magic Power. If you fail, however, you lose all control of your
+Magic Power, which is released in a mystic explosion. You, and everyone within two meters (or six feet,
+or whatever $ everyone close) must make a Damage Test against the number of Spell Dice you were
+holding.
+
+Defining the spell
+
+Spell Dice are used to define your spell. First, you have to name the spell. Choose a number of your
+Magic Words you wish to use in your spell. As shown in Table 6$1, the first Word is free, but you must
+pay one Spell Die for each other Word. Each Word you use will give the spell one more effect. Take
+these Words and think of a good name for the spell. You may add other mundane words as filler, but they
+cannot be the focus of the spell.
+
+
+Decide what effect each Word will have. Your GM or fellow players may have ideas for you. For
+example, the word "fog" might be used to create a thick fog to hide in, or it could be used to fog the
+minds of men. It could even be used to deal damage to enemies, if you made a spell called "Choking Fog"
+or "Acid Fog." Uses like this that stray too far from the meaning of a word, though, will give your GM
+bonus dice. (GMs $ feel free to use three extra dice on your roll if a player pushes the meaning of one of
+his Magic Words too far.)
+
+Next, decide the range of the spell's effect. This is measured both in the number of characters it will
+affect, and in the amount of time it will last. Table 6$1 shows the number of Spell Dice you will need to
+spend for each level of range.
+
+Finally, release the spell. You will roll your Cerebrality plus spell$casting Ability plus any remaining Spell
+Dice you have in a Test for each effect of the spell. The GM will roll a number of dice depending on the
+effect, as explained in the GM Tip: Figuring out what to roll in Spell Tests.
+
+```
+Table 6-1: Spell Effects
+Number of Words used (effects) Spell Dice
+1 Word Free
+2 Words 1 die
+3 Words 2 dice
+4 Words 4 dice
+5 Words 8 dice
+Number of people affected Spell Dice
+1 person Free
+A small group (around 5) 1 die
+A large group (around 25) 2 dice
+A city block 4 dice
+Crazy numbers of people 8 or more dice
+Time affected Spell Dice
+Instantaneous Free
+One flurry Free
+One scene or combat 1 die
+One day 2 dice
+One week 4 dice
+One month 8 dice
+Longer A whole lot of dice
+```
+
+Example 1: a simple spell
+
+Roland, Fiera, and Azar are in a combat with a gang of bandits that have ambushed them.
+Ron decides to have Azar cast a spell to help them out. He makes his Test to gather
+Magic Power, and ends up with 2 Spell Dice. That's not a lot of dice, so he decides not
+to spend any of them on extra Magic Words or range for the spell. He chooses one
+Word, "fiery," and defines the spell as merely doing damage to one character. He names
+the spell "Azar's Fiery Cascade," and Azar aims it at the bandit leader. Ron rolls Azar's
+Cerebrality plus "Casting Spells" Ability plus 2 Spell Dice in a Damage Test against the
+bandit leader, scoring 5 successes and slaying the leader where he stands.
+
+Example 2: a bit more complicated spell
+
+Azar sees a small group of goblins coming towards him in the forest. Ron decides have
+Azar cast a spell, and looks over his Magic Words. He sees "cloud" and thinks that he
+could use that to cloud the goblins' minds. He rolls to gather Magic Power and gets a
+whopping nine Spell Dice.
+
+Since he has not announced the spell yet, he can still change anything he wants. He's
+gone up a level recently and added a new Word, "reversal." Ron thinks that the goblins
+might make a good group of friends or fodder for Azar and revises his plan. He spends
+one Spell Die to affect a small group, and another two Spell Dice to affect them for the
+entire day, leaving him six Spell Dice to use as bonus dice.
+
+He names the spell "Undeniable Racial Role Reversal" and casts it. Each goblin gets a
+chance to resist: each rolls his Discernment plus Save versus Illusion and Confusion
+against Azar's Cerebrality plus "Casting Spells" Ability plus six bonus dice.
+
+Example 3: a complicated spell, indeed
+
+As the group of characters travels on, they later run into a group of nasty trolls. Ron,
+Robin, and Jonathan realize their characters don't have much of a chance against these
+guys, and Ron decides to have Azar cast a spell to get rid of them all. Robin and Jonathan
+have Roland and Fiera distract the trolls while Ron has Azar stand back and gather Magic
+Power. In three actions, he's built up 10 Spell Dice. He decides to use four Words: fiery,
+cloud, madness, and gnawing (his newest Word.) That takes three Spell Dice out of the
+mix. He's also going to affect the entire group of four trolls, so that takes another Spell
+
+
+```
+Die, leaving him with six. He casts "Hellish Fiery Cloud of Gnawing Madness," and the
+effects are:
+Fiery: He's going to do damage to the trolls.
+Cloud: This should make an actual fiery cloud around the trolls, reducing their chances
+of seeing him.
+Gnawing: The cloud will inspire hunger in the trolls.
+Madness: Lastly, the spell should confuse the trolls into attacking and eating the first thing
+the see (hopefully, each other.)
+Each troll will have to roll against each effect. They'll first roll Wherewithal in a Damage
+Test. (They would normally roll Wherewithal, plus their "Regenerate" Main Ability, but
+they have a weakness against fire.) They then roll Wherewithal plus Save versus Poison,
+Polymorph, and Transmogrification in order to not be blinded; Wherewithal plus the
+Saving Throw again in order to resist hunger; and then Discernment plus Save versus
+Illusion and Confusion to not be driven mad.
+Ron will roll his Cerebrality plus "Casting Spells" Ability plus six bonus dice only once,
+and all the trolls' rolls will be compared against that.
+```
+GM Tip: Figuring out what to roll in Spell Tests
+
+Figuring out what to roll in Spell Tests seems pretty difficult. The player can try anything with a spell,
+so you've got to think on your feet. Here's some good guidelines for different spells, though.
+
+If the player is having his character try to damage someone, it's easy. The player's roll is treated as a
+Damage Test against the opponent.
+
+If the player is having his character try to affect someone physically (make them weaker, shrink them,
+blind them, change them into a chicken), roll the opponent's Wherewithal plus Save versus Poison,
+Polymorph, and Transmogrification.
+
+If the player is having his character try to affect someone mentally, roll the opponent's Discernment
+plus Save versus Illusion and Confusion.
+
+If the player succeeds affecting someone with a spell, his successes are treated normally: he can use them
+to state facts, or apply penalties to the opponent. Unlike normal, though, these penalties last for as long
+as the spell lasts. Be harsh with these, though $ if a player turns his opponent into a chicken with a spell,
+the opponent will still have all of his normal statistics. Make the player spend the rest of his dice to
+apply penalties to the opponent. In example 3 in this section, the player Ron has his character cast a
+
+
+```
+spell to blind his opponents. If he succeeds, they are not automatically blinded. Instead, they'll have a
+number of penalties equal to the number of his successes to see anything. In that same example, the
+spell was meant to make the opponents hungry. If that effect succeeds, the opponents will have a
+number of penalties equal to the number of his successes whenever they try to do anything besides kill
+and eat.
+The above applies to unwilling targets. As for willing targets, or no target at all, the player will have to
+roll against an uncontested difficulty. As the GM, you'll have to set the difficulty. For something like
+making a floating light, the difficulty should be Easy. To do something harder, like teleport 100 miles,
+the difficulty should be Medium.
+You can feel free to use other statistics if you feel they are pertinent to the roll. For example, if the
+player is having his character heal someone, the difficulty could be the amount of damage the character
+affected has taken so far. (So, if the character had lost four Flesh Wounds, and one point of Virility, the
+GM would roll five dice, with the spell$caster's successes healing damage on a one$for$one basis.)
+If a spell$caster was trying to summon a monster, the GM might roll a number of dice equal to the
+Level of the monster. (Of course, then the character has to cast a spell to control the monster, which
+would be affecting it mentally.)
+If a player fails when casting a spell, you get to narrate what happens. You may use your successes as
+penalties against the player. (For example, if a player tried to summon a monster and failed, I might, as a
+GM, have the monster appear, but use my successes as a bonus any time the player had his character try
+and control the monster.) You do not have to use your successes, however. I emphasize this because it
+goes against the GM$versus$player aspect that Donjon normally has. Sometimes, with spells, it's either
+too time$consuming to think of a way to get back at players, or just too nasty, ruining the fun of
+everyone involved. Use your good sense here.
+```
+##### Magic items..............................................
+
+Any item in Donjon can be a magic item. Items, as mentioned in Money And Goods, are rated by their
+Worth. A magic item's Worth is measured by adding up all its mundane Abilities (Damage Rating is a
+mundane Ability for these purposes), plus the Worth of each of its magic Abilities, as shown on Table 6$
+2: Magic Item Worth.
+
+There is literally no limit to what a magic item can do. GMs should work with players, using the same
+guidelines as for creating Abilities, to make the neatest magic items possible. As you'll see in Running
+Donjon , players will get the chance to make up all sorts of magic items for themselves.
+
+
+Whenever designing a magic item, you can give it curse dice. Curse dice are exactly what they sound like
+$ dice that give a penalty to some sort of action when carrying the magic item. They also lower the
+Worth of the item, making it easier to find, create, or buy. No matter who is designing a magic item, the
+curse granted by curse dice is always decided by the GM. (I mentioned earlier that players get to make up
+magic items, and that you'll see how in Running Donjon. Basically, when looting a monster's corpse, you
+get to decide what your character might find on it. You can give the item curse dice to make it easier to
+find $ but athe GM gets to decide what the curse applies to, and doesn't even have to tell you until the
+curse actually applies.)
+
+```
+Table 6-2: Magic Bonus Worth
+Type of bonus Worth
+Magic Attribute score bonus (Ex. +1 to Cerebrality) 4/bonus die
+General magic bonus (Ex. +2 to attack) 2/bonus die
+Specific magic bonus (Ex. +2 to attack undead) 1/bonus die
+One time magic bonus (Ex. Potion of Healing +5) 1/bonus die
+Mundane Ability 1/Ability die
+Magic curse (Ex. -2 to parry) -1/penalty die
+```
+Creating a magic item
+
+A character with an Ability to cast spells may try to create magic items. To do so, he must have collected
+raw materials equal to the Worth of the magic item he is trying to make. (Subtract a number of dice from
+Wealth equal to the Worth of the item.) The item's qualities must fit within the scope the caster's Magic
+Words, as well. Magic items can only be created between adventures.
+
+Roll to gather Magic Power as normal, then roll the character's Cerebrality plus spell$casting Ability plus
+Spell Dice versus the Worth of the item. If successful, the character has made the magic item. His
+successes are the raw materials left over, and can be added to Wealth. (Wealth cannot rise above its
+previous level, obviously.) If unsuccessful, the raw materials were not enough, and the GM's successes
+show how much more Wealth must be spent in order to attempt to create the item again.
+
+The player can choose to add curse dice to the item, per normal, to reduce its Worth.
+
+
+#### Running Donjon........................................
+
+In designing Donjon , I tried to make the game I've always wanted to play. It holds tight to the trappings
+of first$generation fantasy role$playing games by valuing the ideas of adventuring deep below the earth,
+killing monsters, and amassing treasure. At the same time, it strips away long$standing ideas such as
+tabulation of gold coins, carefully planned adventures by one GM, and specific rules for each situation.
+That's all well and good, but when I finished the rules so far, I wondered, "How in the world is someone
+supposed to run this thing? The players get to do whatever they want $ they even get to throw new
+situations into the adventure."
+
+Here's what I came up with. Running Donjon requires a different mindset than running a lot of role$
+playing games, but I hope it's as enjoyable for you as it has been for me.
+
+##### The Gameplay Flowchart...........................
+
+Every adventure in Donjon will consist of basically the same elements. These pre$defined parts of each
+adventure help to bring order to the chaotic action that will happen in a game of Donjon , and keep the
+game flowing, bringing fun to the players, and wealth and adventure to the characters. Note that an
+adventure may take more than one game session, so each of these elements may not occur every time you
+meet for a game.
+
+Town
+
+Each adventure should begin in some semblance of civilization. This does not necessarily mean a town: it
+could be a large city, a barbarian camp, a wilderness fort, a small village, a (friendly) wizard's tower, or
+anywhere else that people are gathered and the characters are marginally safe. For our purposes, we call
+this Town. When creating an adventure, the starting Town must be defined in terms of its resources and
+cost. Steps in creating a town are:
+
+1. Create a name and personality for the Town.
+
+This seems self$evident, but a good name goes a long way toward evoking the sense of a Town.
+"Weilheim" sounds like a Germanic stronghold, while "Snowleaf Pass" sounds like a wooded mountain
+outpost. After deciding on a name for the Town, decide the types of people (and races) that live there, the
+size of the town, and its personality towards strangers.
+
+
+2. Determine the Town's resources.
+
+Resources are broken down into weapons and armor, Provisions, and hospitality (inn rooms, food, and
+travel.) As discussed in Money and Goods, normal Provisions are not bought piece$by$piece as in most
+role$playing games, but the ability to purchase Provisions must still be quantified. Decide on a cap to the
+Worth of weapons and armor that can be bought in the Town (this can be split into two separate caps), a
+cap for Provisions, and a cap for hospitality. Feel free to make separate caps for other goods if the Town
+has a resource it is particularly wealthy or poor in. As a general rule, large cities should have higher caps,
+and small or remote villages should have lower caps.
+
+These caps are used when buying goods. A player cannot have his character attempt to purchase anything
+of a Worth higher than its associated cap. He also cannot spend more of his character's Wealth to increase
+Provisions than the Provisions cap.
+
+3. Determine Markups.
+
+Prices will differ in Towns depending on attitudes towards strangers and amounts of resources. The
+Markup of a town is a number of bonus dice that will be applied to the GM's roll whenever a player has
+his character buy anything in town, including Provisions. This can be one set Markup, or can be different
+for each type of resources. (This is a good way to represent a particularly irascible shop$keeper.) The
+average Markup is three dice.
+
+4. Determine adventure hook(s).
+
+The characters will embark on their adventure from the Town, so you should have one or more
+adventure hooks for the Town. Create events or persons that will introduce the characters to the
+adventure.
+
+```
+Example Town 1: Weilheim
+Weilheim is a walled fortress$city on the eastern reaches of the Empire, made to halt the
+intrusions of orc$kind. The population is mostly human, and somewhat xenophobic.
+Resources:
+Weapons and Armor: 4 (Markup 3) $ Good solid weapons are to be had here.
+Provisions: 7 (Markup 5) $ Everything an adventure could need can be had here, as
+excursions into orc$land are common. However, the local merchants will charge you
+sorely for their goods.
+```
+
+```
+Hospitality: 10 (Markup 7) $ The city's wealth and opulance have produced some of the
+highest quality living. However, this has caused exorbitant rates.
+```
+```
+Example Town 2: Snowleaf Pass
+Snowleaf Pass is a beautiful little village nestled in the Highland Mountains, surrounded
+by pine and cedar forests. The village contains as many elfs as humans. Travelers are
+commonplace, as the village lies along the best road through the mountains.
+Weapons: 3 (Markup 4) $ The weapon quality is good here, and supplies are to be had
+for merchant caravans, but steel is uncommon.
+Armor: 3 (Markup 5) $ Rarer than weapons is armor, as it needs even more steel. The
+local elfs make a great Damage Rating 2 wooden armor that has a Weight of only 1,
+though. (Worth 3)
+Provisions: 6 (Markup 1) $ The amount of merchants that come through has saturated
+the market with a supply of cheap but sturdy goods.
+Hospitality: 5 (Markup 3) $ The nicest inn in town (there's only two) has only four
+separate rooms, but a large, nice, rowdy common room. Their ales are exquisite, made
+from the purest mountain water.
+```
+Town is a time for players to relax and characters to shop and socialize. All goods they will need for their
+adventure should be bought at this time. This part is under rather strict GM control $ the only real actions
+should be shopping and getting the adventure hook. (There's something to be said for the occasional bar
+brawl. However, Tests outside of shopping should be kept to a minimum, and the GM has the power to
+revoke the Law of Successes at any time in Town.)
+
+The GM should provide the players with the adventure hook soon into the time in Town, so their
+characters may get the supplies they think they will need for the adventure. This part can and should be
+railroaded. Do not let the characters avoid the adventure by laying about and spending their money on
+ale $ bring the adventure hook to them.
+
+The adventure hook should always provide the characters (and players) with something that will appeal to
+their natures. As most characters are selfish bastards, this is pretty easy. Protecting a town from goblins is
+not a very good adventure hook $ it's much too easy to turn down for most characters. Protecting a town
+from goblins because the mayor will give the characters the contents of the coffers is a good hook $ it
+grabs both selfish and altruistic characters. The main points in a hook are to provide enticement and a
+clear end goal. Because Donjon is so player$driven, there should always be what we call a Big Bad, or a
+
+
+problem that the characters must overcome to complete the adventure. Once adventuring, the players
+can create and narrate to their hearts' content, but the adventure will not be complete until the Big Bad is
+defeated. The Big Bad is often a powerful monster, but could be the destruction of a cursed item, the
+taking of a magical stone, or the aversion of a nasty curse.
+
+Once the characters have the hook, give them a further chance to buy goods, then push them on their
+way.
+
+The Adventure Revealed
+
+Creating an adventure, and its hook, is not a very hard process in Donjon. Each hook is made up of the
+following parts:
+
+Goal
+
+This is one sentence that describes what the adventure is about. Good examples are "stop the incursion of
+goblins into the town," or "recover the lost sceptre of the King," or something simple like, "clean out a
+treasure$filled donjon."
+
+Environment
+
+You should create an environment for your adventure. This is often a dungeon or cave structure, but
+need not be limited to that. An adventure can take place in any closed environment. To clarify, the
+environment the characters adventure in needs to have a limited scope. An adventure cannot take place
+on the wide$open plains. It could take place in one forest, or in a cave, or in the sewers. There needs to
+be defined limits to where the adventure will take place. Good examples of environments for adventures
+are: under the city, inside a ruined temple, inside a hollowed$out titan$sized tree, in the broken ruins of
+an ancient city, or in a dragon's cave.
+
+The environment specified helps you and your players know what sort of encounters the characters will
+have.
+
+Chapters
+
+Chapters are a measure of the length and difficulty of an adventure. Some adventures may be simple one$
+chapter adventures: cleaning out a small cave, for example. A dungeon that is 5 levels deep would be a
+five$chapter adventure, one at each level. These chapters can even be split over different environments: if
+the road to a cave is fraught with bandits, the trip to the cave could be the first chapter of the adventure.
+
+
+Decide how many chapters you want the adventure to have, and set the Donjon Level for each $ the
+average Level of encounters to be found there. Make notes about the types of encounters that should
+happen in each chapter.
+
+```
+Chapter 1: Road to the temple (Donjon Level 3) $ Bandits, wolves, forest goblins
+Chapter 2: First floor of the temple (Donjon Level 5) $ Minor undead, scavenging orcs
+Chapter 3: Second floor of the temple (Donjon Level 6) $ Worse undead $ mummies and
+the like
+Chapter 4: Third floor of the temple (Donjon Level 7) $ Mummy and vampire priests
+```
+The Donjon Level represents not only the average Level of encounters to be found in a chapter, but a
+measure of how difficult the chapter should be for the characters. Level 5 characters should have an easy
+time on the road above (Chapter 1), a moderately hard time in Chapter 2, and increasing difficulty in the
+following chapters. Remember that difficulties for uncontested actions are based off of Donjon Level $
+characters will be capable of feats on lower Donjon Levels that will become much more difficult as
+Donjon Levels rise.
+
+Big Bad
+
+The Big Bad will be the climatic encounter of the adventure. As mentioned above, this will often be a
+powerful opponent, but could be anything from a puzzle to be solved, to a curse to be lifted, to a relic
+that must be retrieved. The Big Bad is the embodiment of the adventure, and defeating it will solve the
+problem: if the adventure goal is "stop the incursion of goblins into the town," the Big Bad would be the
+goblin chieftain.
+
+The Big Bad should be of a higher Level than the last chapter of the adventure if it is an opponent. This
+opponent should be fully created before the adventure using the rules below for creating NPCs.
+
+Enticement
+
+This is what the characters will get for completing the adventure. This could be a promised reward, or
+something to be found by defeating the Big Bad. This could be money, or a magic item, or something
+more ephemeral like the respect of an entire town. This could be a title, a piece of land, or a position, and
+can be quantified in any way. (For example, the respect of an entire town could reduce all Markups in the
+town by a die.)
+
+
+```
+An example of a sketched$out adventure:
+Goal: steal the Heart of Nok from a temple full of evil dead
+Environment: a submerged temple in the middle of a dark swamp
+Chapters:
+Chapter 1: Through the swamp (Level 5) $ A dark, wet, nasty swamp. Opponents: big$
+ass snakes, crocodiles, carnivorous fish, and a swamp hag.
+Chapter 2: Into the temple (Level 6) $ The above$ground level of the temple.
+Opponents: undead crocodiles, wet zombie hordes, and nasty oozes.
+Chapter 3: Down in the temple (Level 8) $ The first level below ground, this place is
+wet, drippy, and dank. Opponents: horrible swampy demons, brutal zombies (including
+undead swamp animals), crazed cultists, some dead and some alive.
+Chapter 4: The temple's heart (Level 10) $ A smaller level further below, the very center
+of evil. Opponents: the priests of Nok, and the Big Bad, their undead archbishop.
+Big Bad: The Archbishop of Nok, an undead nightmare of a man, powerful in sorcery.
+The Heart of Nok is in his chest, and sustains his undeath. (Level 12) He will have a
+number of Priests of Nok equaling the number of the player characters with him (Level
+10).
+Enticement: The Temple of Celestia will reward the characters with powerful blessed
+items for stealing the Heart of Nok and returning it to them to destroy. (Alternately,
+there's plenty of evil cultists in the world that would pay fortunes for the Heart.)
+```
+Into the Deeps!
+
+Once you've gotten your players out of town, the game will shift into dungeon$crawling mode. In this
+section of the adventure, the game should move from strict DM control to more player control. As the
+DM, your job is to set goals and plan encounters, but the players will tend to narrate the flow of other
+events heavily.
+
+Chapters
+
+For each chapter, you should have several scenes pre$made, ready to use. Using the example of "stealing
+the Heart of Nok" above, here's a few scenes for the first chapter of the adventure:
+
+
+```
+The characters run across a deep muddy current about 20 feet deep and 50 feet across.
+The water is filled with carnivorous fish and water snakes, but there is a rotting tree that
+has fallen across the water, providing a rough bridge. Crossing the log requires an
+Adroitness Test versus Medium difficulty. The log is very slippery, though, so the
+characters get a penalty to their roll equal to the Damage Rating of any armor they are
+wearing. The log is also quite rotten $ if more than one character gets on the log at one
+time, roll a Test in reverse. The GM rolls the characters' combined Wherewithal and the
+characters roll six dice. If the GM gets any successes, the log breaks; with no successes, it
+merely begins to crack.
+The characters find an old hut in the swamp. If they enter it, a wizened swamp hag (Level
+6) will attack them, using magic to animate vines to shoot through the windows and grab
+them (treat as Level 4 creatures).
+Another adventurer is near his end on a patch of land. He's on the ground and has only
+one Flesh Wound left, and is surrounded by Level 5 crocodiles $ twice as many as there
+are party members. Do the characters try to save him or not?
+```
+As the characters move through the adventure, the players will be making up their own encounters.
+Make sure to improvise new scenes from the facts the players state. However, a set of five to ten scenes
+written up will focus the adventure. As the GM, use the players' facts to work your way to these pre$
+written scenes. (It's easier than it sounds. I invented this method for creating Donjon adventures while
+running them. It became simple to work my own encounters into the adventure. In addition, sometimes
+the players run out of ideas. You have to be ready to use your own, or the adventure will slow down
+unnecessarily.)
+
+For each chapter, you will want to decide on a number of scenes the characters must move through
+before moving to the next chapter. While the players may try to state facts to move to the next chapter,
+you'll need to work in encounters to keep them in place until you are ready to move on.
+
+```
+An example of working players' facts into an encounter.
+Robin: (trying to move on to chapter 2 of the adventure early) Roland's looking around
+for a secret door.
+GM: In the middle of the swamp?
+Robin: Well, the temple door might be hidden in the ground or under moss or
+something.
+GM: Well, ok.
+```
+
+```
+Robin: I got 2 successes. I'm using them both for facts:
+● Roland finds a slab of marble in the ground.
+● It has ancient runes of Nok on it.
+GM: Alright. He finds this slab of marble with runes in it. Do you want him to try to
+move it aside?
+Robin: Yep.
+GM: It moves easily, and you see a hole underneath filled with water. A skull bobs to the
+top. (Nikola, the GM, starts a pre$planned scene here.)
+```
+There will be times where this might be hard to do $ keeping characters in one chapter. Part of this is just
+the contract between the GM and players $ that they're all dedicated to maximizing everyone's fun $ but
+the other part of it is that it actually is a contest for the GM to keep the players where he wants them. The
+players have the power to manipulate stuff, so she has to stay on her guard.
+
+Monsters and NPCs
+
+While the characters, by the players' own design, may encounter all sorts of friendly and not$so$ friendly
+NPCs during an adventure, it is wise to have the most common NPCs made up beforehand. As you
+create more NPCs, you'll build a library of friends and opponents that your players' characters can
+encounter. The process to create NPCs is designed to be easy, so you can make new ones on the fly if
+need be.
+
+Unlike some role$playing games, monsters $ that is, very unfriendly and often stupid NPCs $ of the same
+type are not always of the same Level. It is easy to create a monster of a certain Level, and scale that
+monster for new adventures. If you are creating a commonly$found monster, you should create the a
+monster of the lowest Level that it is normally found at, and then file it away to scale up for later
+adventures.
+
+To create an NPC, use the following steps:
+
+First, decide on its Level. NPCs in a chapter of the adventure may be one Level above or below the
+Donjon Level of the chapter. As a rule of thumb, opponents $ NPCs that the characters will fight $ of
+one Level below the Donjon Level come in groups anywhere from the number of player characters up to
+three times the number of player characters. Opponents of the same Level usually come in groups ranging
+from half the number of PCs up to twice the number of PCs, and opponents of a Level above the Donjon
+Level come in groups ranging from one up to the number of PCs.
+
+
+After deciding on the Level of the NPC, create its Attributes. Distribute 18 points, plus one for every
+three levels of the opponent, among the six Attributes. Monsters can have Attributes of zero if they have
+no capability with an Attribute. (No monster can have a Wherewithal of zero, however.)
+
+Create five Abilities for the NPC. If you become stymied thinking of Abilities, add seemingly non$useful
+Abilities (Carpentry, or Racial Lore, for example.) The point is to come up with these quickly, and
+Abilities that were previously thought of as useless sometimes create fun stories of their own. Distribute
+15 + (5 x NPC's Level) dice between these Abilities, and the NPC's Saving Throws and Flesh Wounds.
+Remember that Abilities, Saving Throws, and Flesh Wounds may not be higher than the NPC's Level +
+3.
+
+Make a description for the NPC, and you should be done.
+
+```
+An example monster for the above example adventure:
+Name: Undead Crocodile
+Level: 6
+Attributes:
+● Virility 7
+● Cerebrality 1
+● Discernment 2
+● Adroitness 3
+● Wherewithal 6
+● Sociality 1
+Save vs. Illusion and Confusion: 2
+Save vs. Poison, Paralysis, and Transmogrification: 6
+Flesh Wounds: 9
+Abilities:
+● Bite Through Anything (add to Damage Tests): 8
+● Chomp on Prey: 5
+● Swim in Lakes and Swamps: 6
+● Move Quietly in Water: 6
+```
+
+```
+● Undead Flesh (resist damage from non$magic weapons): 3
+(This monster is made to maximize its damage. It only has 8 dice to attack $ not a lot for a
+Level 6 monster $ but if it lands a hit, it's rolling 15 dice, plus bonus dice from its
+successes to hit, in the Damage Test. Thoroughly nasty.)
+```
+```
+GM Tip: Monsters and special abilities
+NPC's, monsters especially, may have special abilities that you want to use. This is often the case when
+importing monsters from another fantasy role$playing game. Do not underestimate the flexibility of the
+Ability system. If you have a creature you want to import from another game that has, for example,
+immunity to non$magic weapons, this can be easily made into a Supporting Ability, as it is specific to
+one type of damage. Make a "Resistant to Non$Magic Weapons" Ability, and add dice into it. Note
+that the creature is not actually immune to damage from non$magic weapons now, but has an Ability
+that it can use in Damage Tests against all non$magic weapons. This is not a flaw, but part of the
+Donjon design philosophy.
+On the other hand, a monster may have a special weakness that you wish to incorporate. If a creature
+has an Ability that works under all but very specific circumstances, you may add a weakness to it. When
+this weakness is used in the game, the creature cannot use its Ability. If you add a weakness to a
+creature's Ability, add one die to the Ability's score. A creature cannot have more than two weaknesses
+attached to an Ability $ the Ability should be rewritten if it is weakened by so many things.
+When making a troll $ with regenerative powers, as seen in other fantasy role$playing games $ you
+might assign it the Main Ability "Regenerate from Anything" as an Ability it can add in all Damage
+Tests. However, if you wanted it to not be able to regenerate from fire, you could add one die to its
+Main Ability and write it as "Regenerate from Anything (except Fire)."
+Players may actually introduce weaknesses to monsters when fighting them. If so, it's easy to add the
+weakness right then, and increase the monster's Ability by one.
+```
+Experience
+
+Once the characters have overcome an encounter, there's two things on the players' minds: experience
+and treasure.
+
+Experience can come from three sources in Donjon : winning combat, goal awards, and entertaining
+everyone. The first method, winning combat, is familiar to anyone who has played a fantasy role$playing
+game before. After an encounter involving combat is over, the GM should total the Levels of every
+opponent the characters overcame. This does not necessarily mean that they killed or knocked out the
+
+
+opponents, although it normally does. If they used strategy to get rid of the opponents, they can be
+considered to have overcome the opponents. If the opponents run away to fight another day, though $
+no experience for the characters.
+
+Take this total and divide it by the number of characters in the party, rounding like normal people with
+an elementary school education are taught to round numbers. (I don't understand why role$playing
+games have this fetish with telling you how to round numbers. It's as if every role$playing game designer,
+by weird chance, hates his third grade teacher, and so decides to buck the system by saying "round down,"
+or "round up," or "round sideways on Thursday." Round like you're supposed to, and if you don't know
+how, seek some adult education. Stay in school. Don't do drugs. Drink milk.) Give this many experience
+points to each player.
+
+Goal awards are given when the players achieve a goal that does not involve combat. This might be
+finding a hidden entrance to a temple, getting a relic they're searching for, or overcoming an obstacle. For
+each goal award, set the difficulty of the goal to achieve. (This is normally the exact same as the difficulty
+for whatever the player had to roll against $ if the character has to cross a river, and swimming across it is
+an Medium task, then the goal difficulty would be Medium.) When the characters complete the goal,
+give each player a number of experience points equal to the Donjon Level, modified by the difficulty of
+the task. (This is the same as the number of dice a GM rolls for an uncontested task $ 0 for Easy, 3 for
+Medium, 6 for Hard, 9 for Very Hard, and 12 for Crazy.)
+
+In any and all actions, the GM may allocate one to three experience points to a player for entertaining
+everyone. If the player phrases an action, inside combat or out, in a manner that evokes emotional
+response among the GM and other players, be it laughter, tears, mirth, pithiness, nausea, or otherwise,
+the GM may give that player experience points relative to the amount of response. In other words, if a
+player makes the GM chuckle, he gets an extra experience point. If he makes the GM shed a tear and call
+his mom after the game, he gets two. If he makes the GM beat his chest and bellow, cursing God, he gets
+three.
+
+Treasure
+
+Treasure in Donjon comes in two forms: treasure looted from opponents and treasure caches.
+
+When a combat is over, all opponents that are knocked out or dead can be looted. The players must
+decide which character gets to loot each body. The player who rolls decides whether he is looking for
+money or items. If he is looking for money, he rolls the opponent's Level in a Test against his own
+current Wealth. (Note the reversal $ we are looking for successes in the roll representing the opponent's
+Level.) Any successes are added to the character's Wealth score. If there are no successes, the money
+found was not sufficient to raise the character's Wealth.
+
+
+If the player is looking for items, he must decide exactly what he wants his character to find. In most
+role$playing games, the GM would tell the players what is on the opponent's body, or would roll
+randomly. In Donjon , the player decides what he wants his character to find and then rolls to see if the
+item was there. The higher the Worth of an item, the less of a chance that the item will be found. Items
+have a Worth as noted in Money And Goods, and again in Magic. Normally, when a player has his
+character loot a body for items, he's looking for a magic item, although he can look for a mundane item.
+
+```
+A few examples:
+● A potion of Leaping 5 (Total Worth 5)
+● A magic dagger that glows in the dark $ Attack 2 (Worth +4), Make Light 3
+(Worth +6), Damage Rating 1 (Total Worth 11)
+● A wand that shoots flame from it $ Burn with Flame 5 (Total Worth 10)
+● Fish$scale armor that helps you swim $ Swim like a Fish 4 (Worth +8),
+● Breathe Underwater 3 (Worth +6), Damage Rating 3 (Total Worth 17)
+```
+The player rolls the opponent's Level in a Test against the item's Worth. If successful, the character gets
+the item; if unsuccessful, nothing was found on the body. Successes for the player or GM in this Test
+cannot be used per the Law of Successes.
+
+```
+Robin wants a new broadsword for his character, Roland. The party has killed a level 8
+Undead Orc Chieftain. He decides Roland's looking for a broadsword with Magic
+Abilities of Attack 2 and Defend 1. (The broadsword has a mundane Damage Rating of
+3.) The total Worth of the sword is (2 x 2) + (1 x 2) + 3 = 9. Robin rolls eight dice for the
+Orc's Level, while the GM rolls nine dice for the item's Worth. Robin ends up with two
+successes, and Roland finds the item.
+```
+Treasure caches use all the rules above, and are treasures that the party happens to find adventuring. The
+GM sets the Level of the cache. However, each character gets a chance to search through a treasure cache
+once, with all players rolling the same Level.
+
+Players should remember that they can add curse dice to an item in order to lower its Worth, and increase
+their chances of finding it. For each curse die you give an item, the GM gives it one penalty die when
+doing some activity. The GM does not have to let you know what the curse is until it takes effect.
+
+```
+GM Tip: Pre
+defined treasure
+One might ask (if one were prone to asking all sorts of questions) when a player pulls a Sword of Killing
+Little Elf$People off of an opponent, "Why wasn't he using that the whole time?"
+```
+
+```
+Unfortunately for the GM, Donjon at least attempts to balance the power between the GM and player.
+You can give your NPCs equipment and allow them to use it in combat. However, that means the
+players will be able to get their grubby little hands on it afterwards. It does give you the satisfaction that
+you made up the equipment, however.
+There is one nasty caveat to giving your NPCs equipment: if the total Worth of a NPC's equipment is
+not equal to or greater than his Level, the player characters still get to loot the body for player$created
+equipment on top of the pre$defined equipment the NPC had. The moral: as long as you're giving the
+Orc Chieftain a magic axe, you might as well make it a bad$ass one.
+```
+Climax
+
+Potential Donjon GM's may be scratching their head by this point. "So, my players can make their own
+encounters, establish weaknesses for monsters, and find whatever treasure they want. How in the world
+do I get them to the end of an adventure?" The answer is, "You don't." Rather, you and your players
+work together to get them to the end of the adventure. They will know from their adventure hook what
+they are looking for. They will create the path by which they find it. When you reach a point in the
+adventure where they have chewed up all the encounters you planned for them, and they have enough
+clues to find the Big Bad, set them at it.
+
+If the climatic encounter of an adventure is a fight with an opponent, feel free to make this opponent of
+any Level. It is not recommended, however, that you make the opponent of a level higher than the last
+chapter's Donjon Level + 3. If you examine the math behind resolution in this game, you will find that
+characters will have an extremely hard time fighting an opponent three or more levels above them $ even
+a large party will have little hope. It is a good idea, in order to make the scene climatic, but not intensely
+deadly, to use one really Big Bad Guy, and then have his henchmen or retainers, opponents of roughly
+the same level as the party. Create the Big Bad Guy as you would create any other NPC.
+
+If you want the players to defeat the Big Bad Guy outright, then use all rules for other NPCs. If, on the
+other hand, you want to give the Big Bad a chance to escape and be a reoccurring villain, treat him as a
+PC in regards to damage. (PCs must be knocked to zero Flesh Wounds and slammed in order to be
+knocked out.) If you decide to treat the Big Bad like a PC, it's often not a good idea to tell the players. If
+you have him fall to his death, or be blasted by electrical bolts, or whatever, they'll think he's dead $
+which makes it all the more fun when he shows back up. Definitely give the players full experience for
+thwarting a Big Bad, even if you plan on re$using him.
+
+
+Back to Town
+
+After the Big Bad is defeated, the players will probably want to get back to town as soon as possible in
+order to cash in their experience and perhaps go up a Level. The method by which they get back to town
+is up to the GM $ she may require them to explore the entire way out and back to town, she may make it
+a quick part of the adventure with minimal encounters, or she may just frame into Town with the next
+scene, assuming they made it back fine.
+
+The recommended method is to make the travel back quick with no encounters of any importance. One
+random encounter per chapter of the adventure is probably enough, and makes sure the players don't
+wear their characters to the bone before deciding to leave the donjon, but doesn't get in the way too
+much.
+
+Advancement
+
+Once back in town, the players add up all the experience they've gained to see if their characters can go
+up a Level. The amount of experience needed to attain a level is shown in Table 7$1: Experience Chart.
+
+Upon reaching a new Level, a character receives five Leveling Dice. These dice can be applied to any
+Ability or Saving Throw, or to Flesh Wounds. Remember that none of these scores may be higher than
+the character's new Level + 3.
+
+In addition, as shown on Table 7$1, a character gains a die in one Attribute every third level. A player
+may increase one of his character's Attributes over 6 with this. Anything over six is supernatural, though,
+and will be noticable as such. It's a good idea to make the player explain, for example, why he has a
+Virility of 8. Alternatively, a player can add a new Supporting Ability to his character instead of gaining a
+die to an Attribute. This Supporting Ability starts at a score of 1, and can then be increased like any other
+Ability.
+
+Lastly, a character can gain a new permanent possession or Magic Word $ the choice is up to the player $
+every other level. The permanent possession can be a slot for a weapon, armor, or other item, as shown
+on the character sheet.
+
+
+**Table 7-1: Experience Chart
+Level Experience New character qualities**
+1 0
+2 30 +1 possession or Magic Word
+
+3 90 +1 to any Attribute score or a new Supporting Ability
+4 180 +1 possession or Magic Word
+5 300
+6 450 +1 possession or Magic Word; +1 to any Attribute score or a new
+Supporting Ability
+7 630
+8 840 +1 possession or Magic Word
+
+9 1080 +1 to any Attribute score or a new Supporting Ability
+10 1350 +1 possession or Magic Word
+11 1650
+12 1980 +1 possession or Magic Word; +1 to any Attribute score or a new
+Supporting Ability
+13 2340
+14 2730 +1 possession or Magic Word
+
+15 3150 +1 to any Attribute score or a new Supporting Ability
+16 3600 +1 possession or Magic Word
+17 4080
+18 4590 +1 possession or Magic Word; +1 to any Attribute score or a new
+Supporting Ability
+19 5130
+20 5700 +1 possession or Magic Word
+
+
+Dial: Advancement
+
+You'll notice that the advancement chart is built on a base of 30 points. In order to gain a Level, a
+character must have a number of experience points using the following formula:
+
+If the character's current Level is n, he needs (n x 30) + ((n$1) x 30) + ((n $ 2 x 30) + ... (1 x 30)
+experience points to get to the next level. You can use this to figure out the experience points needed
+to achieve levels beyond 20.
+
+If characters progress too fast or too slow for your tastes, you can change this chart easily. Make a new
+rate of experience (called r) equal to any number between 10 (incredibly fast) and 100 (very slow). The
+new formula is:
+
+(n x r) + ((n $ 1) x r) + ((n $ 2) x r) + ... + (1 x r)
+
+
+#### Your First Adventure.................................
+
+For this sample adventure, I've tried to create an environment that will fit as many styles of play as
+possible. The humor level in this adventure can be jacked way up, or the horror pushed to the forefront.
+In doing so, I've created a pretty generic donjon crawling adventure, which I suggest Game Masters
+modify for their group. The setting is very fanciful, with sentient plants, tiny rock elementals, and magic
+gems. Further adventures will be distributed as "Donjon Paks." According to this scheme, this adventure is
+known as "Donjon Pak A1: A Fungus Among Us."
+
+### Adventure synopsis
+
+In "A Fungus Among Us," the adventurers find themselves in a farming village called Amerla on the edge
+of the Crimson Forest, a dark, frightening place that most people avoid. The town's prize possession, the
+Emerald of Cissila, has been stolen in the night, and it's up to the adventurers to retrieve it. To do so,
+they'll have to find their way into the forest, spelunk in a dark cavern, and go up against the Mushroom
+King himself.
+
+##### Town......................................................
+
+The village of Amerla is a quaint little farming village on the river Nylo, near the edge of the dreaded
+Crimson Forest, a wood filled with red wolves and blood goblins. The village is surrounded by a 10$foot
+wooden wall, but is friendly to strangers. The gates are left open during the day, but at night, the village is
+protected from goblin attacks by a local archers' militia that mans the walls. The mayor of the village,
+Grizzold, is a nature wizard who uses his powers to make sure that the village's fields are always plentiful
+with crops. His powers are expanded by the Emerald of Cissila, a fist$sized gem that gives two extra Spell
+Dice when casting spells that affect plant life. (Worth 10 $ 4 for magic properties, and 6 for the gem
+itself.) The gem was stolen in the night, though, and tracks lead into the Crimson Forest.
+
+The characters can find out about the theft from most people in Amerla. Planting season has just passed
+and now is the time when the mayor's power is most needed, so the farmers are in a panic. When the
+characters question locals, they'll be redirected to the mayor, a kindly older man. Mayor Grizzold tells
+them that he found spores all over the room where the Emerald was kept, leading him to believe that the
+gem was stolen by servants of the Mushroom King, a sentient fungus that lives deep within a cave in the
+middle of the Crimson Forest. He offers to give the characters Potions of Toughness 2 (adds 2 dice to all
+defensive Damage Tests for a scene), and will have the local blacksmith and tanner make each of them a
+
+
+weapon or piece of armor up to Damage Rating 3 if they find and return the Emerald. (There's the
+secondary enticement of the gem itself. Evil or greedy characters may want to steal the Emerald and run.)
+
+One thing that the characters may notice in Amerla is other groups of adventurers milling around. If you
+want to introduce the idea that they may be racing against other adventurers in order to get to the gem
+first, go right ahead.
+
+##### Resources and Markups.............................
+
+Weapons and Armor 3 (Markup 3) $ The local blacksmith and tanner are a married couple, and have
+good, well$priced goods.
+
+Provisions 5 (Markup 2) $ Only a moderate amount of Provisions are to be found here, but a cheap
+prices.
+
+Hospitality 3 (Markup 1) $ There's not a lot to do in Amerla, but it's dirt$cheap.
+
+##### Adventure chapters....................................
+
+The adventure has three chapters:
+
+Chapter 1: Through the Crimson Forest $ (Donjon Level 1) This chapter takes place in a dark forest not
+far from the town. Light is filtered through the translucent leaves of the red oak, the most common tree
+in this forest, painting everything the color of blood, and providing camouflage for blood goblins, the
+most common antagonists here. Other opponents: red wolves, other adventurers.
+
+Chapter 2: Into the Caves $ (Donjon Level 1) The characters find a rock cave and enter it, looking for the
+Mushroom King. In this damp upper level of the cave, they have to deal with the local wildlife and an
+unwanted stalker. Opponents: snakes, living ooze, poison toads, daolites, and an orc hermit.
+
+Chapter 3: Spores Below $(Donjon Level 2) This lower section of the cave is knee$deep in water, and
+full of fungus. Opponents: sporegobs, spraycaps, and the Mushroom King.
+
+Chapter 1: Through the Crimson Forest
+
+This chapter may well be the first chapter ever for your players in Donjon. As such, let them warm up
+here. Provide a good mix of combat and non$combat encounters, and don't overwhelm them in combat.
+
+The forest is lush and full of life, and casts a red hue on everything. The ground is moist, and covered in
+translucent red leaves. Try and punctuate all the players' actions with comments about how the forest
+
+
+sounds (full of birds and cracking branches), smells (like mulch and life, sweet and rotting), and looks
+(bathed in red light.)
+
+Encounters
+
+I recommend five or more encounters before the characters are able to find the cave entrance.
+(Remember, some of these encounters will be made up by the players.) I always set it on the other side of
+the river in the swamp (see the rock formation on the map.)
+
+- The characters come across a hollowed$out tree. It's of Hard difficulty to climb from the outside
+    (Medium difficulty from the inside, if the players think of that), but there's a glint of treasure in a
+    giant bird's nest above (a Level 4 treasure cache.) This encounter is good for introducing combat
+    (a giant bird attacks them in the air) or for finding the way to the cave entrance by scouting from
+    above the forest canopy (7 experience points goal award for scouting from the top of the tree.)
+- Another adventurer is heard yelling in the woods. When sighted, he's surrounded by goblins, one
+    for each player character, and appears to be heavily wounded. Do the characters save him? (4
+    experience points goal award for saving his life.)
+- A hunter's rope trap is in the woods. Characters should roll a Discernment Test versus Medium
+    difficulty to notice it. If caught in it, it's an Adroitness plus any weapon Ability Test versus Hard
+    difficulty to get down. If a character cuts himself down, make a Damage Test (players can use
+    their previous successes as bonus dice) against six dice for the fall.
+- The characters find themselves surrounded by red wolves, which ambush them.
+- Other adventurers are following the party, hoping the characters will lead them to the cave. Have
+    a character roll a Discernment Test to notice them.
+- A tree has fallen across the Nylo River in the Crimson Forest, which seems to be the only way
+    across without swimming through the fast$moving water. The tree's slippery, though, and players
+    have to make an Adroitness Test against Easy difficulty to make it across without falling off. If
+    more than one character gets on the log at a time, have them roll Discernment versus Medium
+    difficulty to get off the log before it breaks. There's snakes in the river, to top things off. (This is
+    usually the last encounter I run before the next chapter. It's very fun, in that most times I've ended
+    up with a fight in the river. If players fall in, swimming against the current is Hard. Give everyone
+    4 experience points for making it across the river.)
+
+Chapter 2: Into the Cave
+
+The interior of the cave is warm and moist, and stinks of mold. You should emphasize the darkness and
+the cramped$ness of the cavern: feel free to impose a 2$die penalty on all character actions when in a
+
+
+cramped spot. The darkness is a problem $ one of the characters is going to have to pull out a torch from
+his Provisions.
+
+Encounters
+
+- A group of daolites set a cave$in trap. The trap is Hard to notice, and Hard to avoid. If a character
+    is hit, make a Damage Test against 3 dice (plus bonus dice from trap successes.) Players get 7
+    experience points if no one is harmed, 4 if they notice the trap before it falls on them, and only 1
+    if they merely get through it alive.
+- The characters come across a well of water full of glowing spores. If anyone drinks the water, have
+    them roll a Save vs. Poison, Paralyzation, and Transmogrification at Hard difficulty. (6 dice, plus 2
+    for the Donjon Level.) If they succeed, they heal one die or Flesh Wound per success. (No Law of
+    Successes applies here.) If you succeed, they lose one Flesh Wound per success.
+- An orc hermit that lives in the cave is trailing the party. He hates the Mushroom King, but can't
+    take him on alone. If never noticed, he'll attack the party as they return from fighting the
+    Mushroom King. If noticed $ well, the characters will have to figure out what to do. His real
+    motivation is just a good conversation, though, which he hasn't had in years. If any of the
+    characters talk to him like a human, he'll respond well. Allow any character that talks to him a
+    Medium Discernment Test to figure this out. (1$7 experience points depending on the outcome.)
+- Poison toads ambush the characters from the walls.
+- The characters come across a chasm, which is Hard to jump. If they fall in, they land in water, full
+    of glowing spores. You have a few options here $ have them follow the spores to the well, where
+    they can swim out. (Make a Wherewithal Test at Medium difficulty for each action to not
+    swallow water.) They could also follow the underground river out of the cave, or you could have
+    it come up behind the Mushroom King in the level below. Basically, the chasm and its
+    underground river are your machine to manipulate the party however you please.
+- A small tunnel streams light through it. To crawl through, a character has to make an Adroitness
+    Test at Easy difficulty. What's on the other side is up to you $ maybe they're above ground, or
+    maybe in a hidden cavern with a treasure cache, or maybe in some blood goblin cave. (1
+    experience point goal award for going up the tunnel.)
+- Treasure (a Level 4 cache) glints from the bottom of a pit. However, the pit's also full of snakes (2
+    x the number of party members.) (When I ran this, I had a character in the party with a "Find
+    Trapdoors" Ability. After falling in the pit, he used it, and I dumped him into the next Chapter.)
+
+
+Chapter 3: Spores Below
+
+This final chapter to "A Fungus Among Us" should be short and sweet. Descending into the deepest part
+of the cave, the characters find themselves knee$deep in absolutely funky water, complete with floating,
+glowing spores in it. The walls here glow with phosphoresce, so there's no need for torches. (Although
+they might be useful, as I mention below.) I would use a minimum of encounters on this level, as the
+main point is to defeat the Mushroom King.
+
+Encounters
+
+- Unless one of the players manages to narrate something else, or the characters entered through a
+    backwards route into here (see the chasm encounter in Chapter 2), the very first encounter should
+    be with some sporegobs, typically one or two less than the number of PCs. The sporegobs try to
+    run away to report to the Mushroom King. If the players defeat them all, they'll be at an advantage
+    later. Any sporegobs who get away should be added to the Mushroom King's guard.
+- If the Mushroom King has been alerted to the character's presence, he uses a spell to try and kill
+    them early. The knee$deep water moves, thrashing around and creating a current that tries to
+    throw the characters to the ground (Medium Virility Test) and then dash them against a wall
+    (Damage Test against 5 dice, plus successes, if the previous Test was unsuccessful.) If any character
+    is knocked down, the Mushroom King keeps this up $ the key is for the players to help each
+    other, using their successes to add to their friends' rolls. As soon as they all stay up, the current dies
+    down. (4 experience point goal award for coming out alive.)
+- The characters find a mushroom$tending room, and see a blood goblin stuck to the floor with
+    goop. They can release him or leave him to be mushroom food.
+
+##### The Big Bad.............................................
+
+The Mushroom King is a bad$ass. He has some serious magic, and is tended by a number of sporegobs
+equal to half the number of PCs (remember how I feel about rounding), plus any that escaped before. In
+addition, he has two spraycaps that flame will work very well against. The Mushroom King has the
+Emerald of Cissila embedded in his cap$head, and is at the top of a rocky incline that takes an Easy
+Adroitness Test to get up in one action in the heat of combat.
+
+If the Mushroom King is defeated, his sporegobs run, although the spraycaps are immobile and will
+continue to spray fumes out.
+
+
+##### Going back to Town.................................
+
+I don't recommend too many encounters on the way home from this adventure. The only important one
+is the Orc Hermit. If the characters never noticed him, he'll be waiting for them in the level above. Even
+if they met, if he's alive, he may try to attack the characters if he thinks he can get away with it.
+
+##### NPCs and monsters...................................
+
+Blood Goblin
+
+Level 1
+
+_Attributes_
+
+- Virility 2
+- Cerebrality 4
+- Discernment 3
+- Adroitness 4
+- Wherewithal 2
+- Sociality 3
+_Saving Throws_
+- Vs. Illusion and Confusion 3
+- Vs. Poison, Polymorph, and Transmogrification 3
+
+Flesh Wounds 2
+
+_Abilities_
+
+- Hunt 2
+- Hide on Red Background 3
+- Wicked Bite (adds to Damage Tests) 3
+- Dodge in Combat 2
+- Hear Noise 2
+
+Notes
+
+Blood Goblins are nasty little savages. They subsist on the blood of animals $ including humans $ and
+have a wicked set of jagged teeth that allow for ripping and tearing of flesh. They tend to travel in packs,
+and rarely leave the Crimson Forest's natural camouflage. Their homes are built of fallen limbs and leaves,
+normally covering a small hole in the ground. They are cowards, and flee when outnumbered two$to$
+one.
+
+
+Human, Fighter
+
+Level 1
+
+_Attributes_
+
+- Virility 4
+- Cerebrality 2
+- Discernment 2
+- Adroitness 3
+- Wherewithal 4
+- Sociality 3
+_Saving Throws_
+- Vs. Illusion and Confusion 2
+- Vs. Poison, Polymorph, and Transmogrification 3
+
+Flesh Wounds 3
+
+_Abilities_
+
+- Beat People 3
+- Run and Charge 2
+- Knock Down Doors 3
+- Intimidate through Muscles 2
+- Take Damage in Combat 2
+_Equipment_
+- Chain shirt (DR 2)
+- Broadsword (DR 3)
+
+Notes
+
+These are your standard adventurer types, not that smart, and ready to kill anything that moves for money
+and goods.
+
+Human, Thief
+
+Level 1
+
+_Attributes_
+
+- Virility 2
+- Cerebrality 3
+- Discernment 3
+- Adroitness 5
+- Wherewithal 2
+- Sociality 3
+
+
+_Saving Throws_
+
+- Vs. Illusion and Confusion 2
+- Vs. Poison, Polymorph, and Transmogrification 2
+
+Flesh Wounds 2
+
+_Abilities_
+
+- Sneak 4
+- Knife 'Em in the Ribs 3
+- Backstab (adds to damage when attacking from behind) 2
+- Pick Pockets 3
+- Hear Noise 2
+_Equipment_
+- Short sword (DR 2)
+- Shield (DR 1)
+
+Notes
+
+These are your standard thief types. Don't turn your back on them, or they'll jam a sharp point between
+your ribs and strip your body before you can blink.
+
+Human, Wizard
+
+Level 1
+
+_Attributes_
+
+- Virility 1
+- Cerebrality 5
+- Discernment 4
+- Adroitness 2
+- Wherewithal 3
+- Sociality 3
+_Saving Throws_
+- Vs. Illusion and Confusion 3
+- Vs. Poison, Polymorph, and Transmogrification 2
+
+Flesh Wounds 2
+
+_Abilities_
+
+- Cast Spells 4
+- Dodge in Combat 3
+- Lie 3
+- Avoid Damage from Magic 1
+- Speak Elvish 2
+
+
+_Equipment_
+
+- Dagger (DR 1)
+- Potion of Speed (+2 to Adroitness for one scene)
+_Magic Words_
+- fire
+- blind
+- heal
+- rat
+
+Notes
+
+These are your standard wizard types, scheming for power, and ready to hide behind anyone long
+enough to stab them in the back.
+
+Poison Toad
+
+Level 1
+
+_Attributes_
+
+- Virility 2
+- Cerebrality 2
+- Discernment 4
+- Adroitness 6
+- Wherewithal 3
+- Sociality 1
+_Saving Throws_
+- Vs. Illusion and Confusion 1
+- Vs. Poison, Polymorph, and Transmogrification 4
+
+Flesh Wounds 1
+
+_Abilities_
+
+- Corrosive Poison (adds to bite or spit Damage Tests) 3
+- Aim Spit 2
+- Jump 3
+- Stick to Walls 3
+- Annoy with 'Hrrmph' Sound 3
+
+Notes
+
+Nobody likes a Poison Toad. They stick to everything, and have corrosive saliva which hurts like hell,
+and can eat through wood, leather, metal, rock, and anything else. In combat, the GM should use all of
+their abilities, with the first action being a jump, the second sticking to a wall (rolling the successes from
+
+
+the jump over), and the third being a leaping attack (with even more successes rolled over.) Of course,
+they can just spit, too. Their sticking to walls Ability is quite useful for ambushes, as well.
+
+Snake
+
+Level 1
+
+_Attributes_
+
+- Virility 2
+- Cerebrality 5
+- Discernment 4
+- Adroitness 4
+- Wherewithal 2
+- Sociality 3
+_Saving Throws_
+- Vs. Illusion and Confusion 4
+- Vs. Poison, Polymorph, and Transmogrification 2
+
+Flesh Wounds 2
+
+_Abilities_
+
+- Bite 3
+- Poison Prey 4
+- Dodge in Combat 2
+- Hide under Rocks 2
+- Run Away 2
+
+Notes
+
+The Snake's "Poison Prey" Ability adds to Damage Tests: however, the recipient gets to add his Saving
+Throw vs. Poison in the Damage Test, as well.
+
+Snakes always damage Adroitness and Discernment first because of their poison.
+
+Red Wolf
+
+Level 2
+
+_Attributes_
+
+- Virility 3
+- Cerebrality 1
+- Discernment 4
+- Adroitness 3
+- Wherewithal 3
+- Sociality 4
+
+
+_Saving Throws_
+
+- Vs. Illusion and Confusion 2
+- Vs. Poison, Polymorph, and Transmogrification 3
+
+Flesh Wounds 2
+
+_Abilities_
+
+- Track Blood 4
+- Hide on Red Background 3
+- Tooth and Claw (attack) 4
+- Howl 4
+- Pack Attack 3
+
+Notes
+
+Red Wolves are one of the most common threats in the Crimson Forest. Their combination of Abilities
+makes them frightening opponents. "Track Blood" can be used to track any injured character, and can be
+used in a test of Discernment plus "Track Blood" against Discernment plus a perception$based Ability to
+add bonus dice to an Initiative Test. "Howl" can be used to intimidate anyone, giving them penalties to
+their next roll, and "Pack Attack" adds to damage whenever more than one Red Wolf is attacking an
+opponent.
+
+Daolites
+
+Level 2
+
+_Attributes_
+
+- Virility 5
+- Cerebrality 2
+- Discernment 2
+- Adroitness 2
+- Wherewithal 6
+- Sociality 1
+_Saving Throws_
+- Vs. Illusion and Confusion 1
+- Vs. Poison, Polymorph, and Transmogrification 5
+
+Flesh Wounds 5
+
+_Abilities_
+
+- Absorb Damage (except from air magic) 4
+- Merge with Rock 3
+- Paralyze with Touch 3
+
+
+- Knock Down 2
+- Stomp 3
+
+Notes
+
+Daolites are tiny (about 1$2 feet tall) earth elementals, or genies. They tend to stay merged with local
+rocks, but when angered, they pop out to attack. Their Abilities are a little odd when using them:
+"Paralyze with Touch" requires a successful attack. Roll Cerebrality, plus the Ability, plus any bonus dice
+from the attack against the opponent's Wherewithal, plus Save vs. Poison, Paralysis and
+Transmogrification. Success means the opponent is frozen for x actions, where x equals your number of
+successes. "Knock Down" and "Stomp" are attack and damage abilities, respectively.
+
+Living Ooze
+
+Level 1
+
+_Attributes_
+
+- Virility 2
+- Cerebrality 0
+- Discernment 3
+- Adroitness 2
+- Wherewithal 6
+- Sociality 0
+_Saving Throws_
+- Vs. Illusion and Confusion 4
+- Vs. Poison, Polymorph, and Transmogrification 1
+
+Flesh Wounds 3
+
+_Abilities_
+
+- Acid Burn 4
+- Take Damage from Cutting Weapons 3
+- Look Like Slime 1
+- Destroy Items 2
+- Ooze Along 1
+
+Notes
+
+Living Ooze is theorized by many alchemists to be the building blocks of modern life. It displays little
+intelligence, but has all the requisites of a living being. It secretes a burning acid that can eat through
+almost anything. The "Destroy Items" Ability can be used in Damage Tests, but the GM can only use the
+successes to destroy a character's equipment if used.
+
+
+Orc Hermit
+
+Level 3
+
+_Attributes_
+
+- Virility 2
+- Cerebrality 3
+- Discernment 6
+- Adroitness 2
+- Wherewithal 4
+- Sociality 2
+_Saving Throws_
+- Vs. Illusion and Confusion 3
+- Vs. Poison, Polymorph, and Transmogrification 3
+
+Flesh Wounds 5
+
+_Abilities_
+
+- Kill 6
+- Hide in Shadows 3
+- Dodge in Combat 2
+- Intimidate 3
+- Ruminate 5
+
+Notes
+
+Grakvar, the Orc Hermit, has been hiding in these caves for years after a blood goblin attack wounded his
+leg, leaving him with a permanent limp. He'd kill the Mushroom King if he could, but doesn't think he's
+powerful enough to. More than anything, he's lonely, although he acts that out in anger most of the time.
+
+Snake, Big
+
+Level 2
+
+_Attributes_
+
+- Virility 2
+- Cerebrality 4
+- Discernment 3
+- Adroitness 4
+- Wherewithal 2
+- Sociality 3
+_Saving Throws_
+- Vs. Illusion and Confusion 5
+- Vs. Poison, Polymorph, and Transmogrification 2
+
+
+Flesh Wounds 3
+
+_Abilities_
+
+- Hypnotize 5
+- Bite 4
+- Sharp Fangs 2
+- Recoil Away from Blows 2
+- Swim 2
+
+Notes
+
+Big Snakes range from about 6 up to 10 feet in length, and are intensely smart. They often hypnotize foes
+(Cerebrality, plus Ability test versus Discernment plus Save vs. Illusion and Confusion) before biting into
+them.
+
+Sporegobs
+
+Level 1
+
+_Attributes_
+
+- Virility 4
+- Cerebrality 2
+- Discernment 2
+- Adroitness 3
+- Wherewithal 5
+- Sociality 2
+_Saving Throws_
+- Vs. Illusion and Confusion 2
+- Vs. Poison, Polymorph, and Transmogrification 2
+
+Flesh Wounds 3
+
+_Abilities_
+
+- Eat and Heal 3
+- Punch 3
+- Fungal Blast (adds to Damage Tests) 3
+- Take Non-Cutting Damage 2
+- Run 2
+
+Notes
+
+Sporegobs are anthropomorphic fungi about 4 feet in height. Their punches release a choking blast of
+spores.
+
+
+To use the "Eat and Heal" Ability, they must bite an opponent (with no pertinent Ability to bite.) The
+GM can then add Eat and Heal to the Damage Test. For every point of damage they do with a Damage
+Test, they heal one Flesh Wound. Their Flesh Wounds cannot exceed their maximum Flesh Wounds,
+however.
+
+Spraycaps
+
+Level 1
+
+_Attributes_
+
+- Virility 4
+- Cerebrality 1
+- Discernment 1
+- Adroitness 0 (cannot move - all dice when attacking with a cutting weapon are successes)
+- Wherewithal 5
+- Sociality 0
+_Saving Throws_
+- Vs. Illusion and Confusion 1
+- Vs. Poison, Polymorph, and Transmogrification 1
+
+Flesh Wounds 3
+
+_Abilities_
+
+- Fungal Bloom 4
+- Take Non-Cutting Damage 3
+- Retailatory Damage 3
+
+Notes
+
+Sporecaps are nothing more than big mushrooms. On each action, they release a cloud of spores which
+chokes all non$fungi within one action of them. (Fungal Bloom to hit, Virility in Damage Test.) This
+cloud is highly flammable, though, and if any target has an open flame, all creatures, including the
+Sporecap, within one action take damage as the cloud bursts into flame. If hit themselves, they do spray
+out more spores at their attacker. The GM rolls Retaliatory Damage, plus the amount of Damage the
+Spraycap took in a Damage Test against the opponent.
+
+Mushroom King
+
+Level 4
+
+_Attributes_
+
+- Virility 3
+- Cerebrality 4
+
+
+- Discernment 3
+- Adroitness 2
+- Wherewithal 4
+- Sociality 3
+_Saving Throws_
+- Vs. Illusion and Confusion 3
+- Vs. Poison, Polymorph, and Transmogrification 4
+
+Flesh Wounds 6
+
+_Abilities_
+
+- Be Worshipped 6
+- Fungal Blast (ranged attack) 4
+- Powerful Spores (damage) 3
+- Mushroom Magic 5
+- Absorb Non-cutting Damage 4
+_Magic Words_
+- grow
+- stench
+
+Notes
+
+The Mushroom King can add bonus dice to any of his subjects' actions by commanding them, and rolling
+Sociality, plus Be Worshipped against their level. Add successes to the subject's next action as bonus dice.
+
+
