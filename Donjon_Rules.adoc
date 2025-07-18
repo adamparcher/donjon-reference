@@ -13,47 +13,28 @@ endif::[]
 
 Copyright: 2002 Clinton R. Nixon
 
-License: This work is licensed under the Creative Commons Attribution-Share Alike 2.5 License.
-To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/2.5/[http://creativecommons.org/licenses/by-sa/2.5/] or send
-a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, California,
-94105, USA.
+License: This work is licensed under the Creative Commons Attribution-Share Alike 2.5 License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/2.5/[http://creativecommons.org/licenses/by-sa/2.5/] or send a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, California, 94105, USA.
 
-Disclaimer: Mentions of trademarked works of any type in this text are intended as reference and not as
-challenges to trademark or copyright. This includes the French comic Donjon , which I had
-no clue about until about 5 days before this was finished.
+Disclaimer: Mentions of trademarked works of any type in this text are intended as reference and not as challenges to trademark or copyright. This includes the French comic Donjon , which I had no clue about until about 5 days before this was finished.
 
 
 [NOTE]
 .Note for this edition
-This is a reformatting of the Creative Commons full text of the game, available at
-http://open.crngames.com/src/donjon.html. It was created for my own use but is offered
-here in the hope that it will prove useful to others. If you enjoy it, please consider visiting
-http://crngames.com and buying a copy of Donjon or one of Clinton R. Nixon's other fine
-games. 
+This is a reformatting of the Creative Commons full text of the game, available at open (dot) crngames (dot) com (slash) src (slash) donjon (dot) html. It was created for my own use but is offered here in the hope that it will prove useful to others. If you enjoy it, please consider visiting crngames (dot) com and buying a copy of Donjon or one of Clinton R. Nixon's other fine games. 
 --Randy Shipp (randyshipp@gmail.com)
+
+*Editor's Note - At the time of creation of this copy of the Donjon Rules, the "crngames" website appears to be discontinued and turned into a spam site, so I have "textified" the links above, but have kept them in since they were part of the original text. I will happily redirect them to a new location if someone can tell me where they should go, but I couldn't find it. -Adam Parcher*
+
 
 == Introduction
 
-Welcome to Donjon! Either you've played role-playing games before and have decided to check out this
-one, or by some chance, this is the first role-playing game you've ever come across. Either way, read on.
+Welcome to Donjon! Either you've played role-playing games before and have decided to check out this one, or by some chance, this is the first role-playing game you've ever come across. Either way, read on.
 
-Donjon is a rip-roaring, make-it-up-as-you-go-along game of bashing down doors, exploring dark
-dungeons (or donjons, as we like to call them), killing monsters, finding loot, and saving the day. It's a
-fantasy role-playing game because you, the player, play the part of a fictional character in a fantastic
-world. (You get to play lots of characters if you're the GM.) The best analogy for this is given by Ron
-Edwards, a bad-ass of a game designer. He likens playing a role-playing game to being in a band: the
-members get together and decide what kind of music they want to play, one person (the GM) leads off,
-and the rest of the members add what they have to make something that is, hopefully, exactly what they
-wanted. Just like with playing music, one member of the band might find a cool riff that no one was
-expecting, and everyone else jumps on it. Donjon is like acid jam-rock. It's made to give players a lot of
-control: they can bust into guitar and drum solos whenever they wish. If something sounds groovy, then
-they can go with it. There's no band-leader here to bust your chops.
+Donjon is a rip-roaring, make-it-up-as-you-go-along game of bashing down doors, exploring dark dungeons (or donjons, as we like to call them), killing monsters, finding loot, and saving the day. It's a fantasy role-playing game because you, the player, play the part of a fictional character in a fantastic world. (You get to play lots of characters if you're the GM.) The best analogy for this is given by Ron Edwards, a bad-ass of a game designer. He likens playing a role-playing game to being in a band: the members get together and decide what kind of music they want to play, one person (the GM) leads off, and the rest of the members add what they have to make something that is, hopefully, exactly what they wanted. Just like with playing music, one member of the band might find a cool riff that no one was expecting, and everyone else jumps on it. Donjon is like acid jam-rock. It's made to give players a lot of control: they can bust into guitar and drum solos whenever they wish. If something sounds groovy, then they can go with it. There's no band-leader here to bust your chops.
 
 === How this game came to be
 
-Five people sat around a table on a Sunday afternoon, all with piles of dice in front of them. We'd gotten
-together for an afternoon of role-playing, and decided to play our favorite game from our childhood, a
-slim red-covered version of the original Dungeons and Dragons.
+Five people sat around a table on a Sunday afternoon, all with piles of dice in front of them. We'd gotten together for an afternoon of role-playing, and decided to play our favorite game from our childhood, a slim red-covered version of the original Dungeons and Dragons.
 
 [verse]
 ----
