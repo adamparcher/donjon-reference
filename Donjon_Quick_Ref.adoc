@@ -2,15 +2,116 @@
 Adam Parcher
 :toc: preamble
 
-Based upon the tabletop RPG Donjon by Clinton R. Nixon.
+Based upon the tabletop RPG Donjon[https://github.com/adamparcher/donjon-reference/blob/main/Donjon_Rules.adoc] by Clinton R. Nixon.
 
-Donjon © 2002 by Clinton R. Nixon is licensed under https://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0]
+Donjon Quick Reference Guide © 2025 by Adam Parcher is licensed under https://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0]
 
 == Attributes
+[cols="1,1,1"]
+|===
+|Attribute|Abbreviation|Description
 
-* Virility (Vir): physical actions, determining the weight of armor and weapons you can carry, and inflicting damage.
-* Cerebrality (Cer): contests of wit, for spell-casting, provisions tests.
-* Discernment (Dis): aka "common sense"; used to perceive hidden or unclear things, resist the influence of others, and ignore mind-affecting magic.
-* Adroitness (Adr: used in actions requiring finesse and skill, attacking with a weapon, and dodging blows.
-* Wherewithal (Whe): aka "grit"; used to take damage, exert yourself, and resist body-affecting magic.
-* Sociality (Soc): used to bargain for goods and convince or intimidate people.
+|Virility
+|Vir
+|physical actions, determining the weight of armor and weapons you can carry, and inflicting damage.
+
+|Cerebrality
+|Cer
+|contests of wit, for spell-casting, provisions tests.
+
+|Discernment
+|Dis
+|aka "common sense"; used to perceive hidden or unclear things, resist the influence of others, and ignore mind-affecting magic.
+
+|Adroitness
+|Adr
+|used in actions requiring finesse and skill, attacking with a weapon, and dodging blows.
+
+|Wherewithal
+|Whe
+|aka "grit"; used to take damage, exert yourself, and resist body-affecting magic.
+
+|Sociality
+|Soc
+|used to bargain for goods and convince or intimidate people.
+|===
+
+== The Law of Successes
+
+*1 success = 1 fact or 1 die*
+
+For every success on a roll: 
+* you can decide to either state one fact about your action
+* or carry that success over as a bonus die into another related roll
+
+== Spending Tests for Wealth
+=== Buying Items
+
+*Player Roll = Wealth Dice + Sociality*
+
+* Wealth Dice = choose up to max of current Wealth; if roll is *successful*, lose this many Wealth. If *unsuccessful*, keep these dice.
+
+*Game Master Roll = Item Value + Markup*
+
+* Item Value: See Item Value reference table
+* Markup: Markup value assigned to Town or individual NPC
+
+Success: Item is successfully acquired. Wealth Dice used in roll are removed.
+
+Failure: Wealth Dice are _not_ removed. Merchant will not consider selling to character again until they have acquired more Wealth or circumstances have changed (e.g. have done a favor; increased Sociality)
+
+=== Buying Provisions
+
+Buying Provisions is identical to Buying an Item, except when the roll is successful, the player's Provisions dice increases by the number of successes the player had instead of simply acquiring an item.
+
+=== Buying Influence (aka Bribing)
+
+Used to influence or straight-up bribe an NPC. This roll is intended to provide Bonus Dice to a related social attempt, but is not the social attempt itself.
+
+*Player Roll = Wealth Dice + Sociality*
+
+* Wealth Dice = choose up to max of current Wealth; if roll is *successful*, lose this many Wealth. If *unsuccessful*, keep these dice.
+
+*Game Master Roll = NPC's Current Wealth + Discernment*
+
+* Note: NPC does not lose any Wealth in this interaction.
+
+Success: If you succeed in this roll, you may add the number of successes you received to the number of dice you roll the next time your character attempts any sort of social proposition with the influenced NPC.
+
+Failure: Not explicitly stated in Rules. But NPC is probably not happy.
+
+== Spending Test for Provisions
+
+
+== Selling Items
+
+== Combat
+
+=== Initiative
+
+=== Movement (Resisting)
+
+=== Charging
+
+=== Attacking
+
+=== Damage & Injury
+
+=== Healing
+
+== Magic
+
+=== Gathering Power
+
+=== Casting a Spell
+
+=== Creating Magic Items
+
+
+== Loot
+
+== Advancement
+
+
+
+
