@@ -1,13 +1,16 @@
+= Donjon Quick Reference Guide
+Adam Parcher
+:toc: preamble
 
+Based upon the tabletop RPG Donjon by Clinton R. Nixon.
 
-Virility (Vir), a measure of one’s raw strength and power. It is used for physical actions, determining the weight of armor and weapons you can carry, and inflicting damage.
+Donjon © 2002 by Clinton R. Nixon is licensed under https://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0]
 
-Cerebrality (Cer), intellectual bearing and knowledge. It is used in contests of wit, for spell-casting, and remembering to pack the right supplies for a donjon adventure.
+== Attributes
 
-Discernment (Dis), the ability to think clearly and wisely. It is is often called "common sense," and used to perceive hidden or unclear things, resist the influence of others, and ignore mind-affecting magic.
-
-Adroitness (Adr), one’s capacity for litheness and speed. It is used in actions requiring finesse and skill, attacking with a weapon, and dodging blows.
-
-Wherewithal (Whe), the ability to take and absorb pain and suffering. It is commonly known as "grit," and is used to take damage, exert yourself, and resist body-affecting magic.
-
-Sociality (Soc), a measure of your charismatic charm and power. Persons with a high Sociality may be as frightening as they are compelling. It is used to bargain for goods and convince or intimidate people.
+* Virility (Vir): physical actions, determining the weight of armor and weapons you can carry, and inflicting damage.
+* Cerebrality (Cer): contests of wit, for spell-casting, provisions tests.
+* Discernment (Dis): aka "common sense"; used to perceive hidden or unclear things, resist the influence of others, and ignore mind-affecting magic.
+* Adroitness (Adr: used in actions requiring finesse and skill, attacking with a weapon, and dodging blows.
+* Wherewithal (Whe): aka "grit"; used to take damage, exert yourself, and resist body-affecting magic.
+* Sociality (Soc): used to bargain for goods and convince or intimidate people.
