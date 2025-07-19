@@ -220,16 +220,23 @@ Each Attribute will start with a number between one and six in it. Zero indicate
 
 To create your character's Attribute scores, you will need three six-sided dice (d6's), exactly like you'd find at the corner store or in a game of Monopoly. Roll these dice and look for the median roll. Place this number in your first Attribute. Repeat for all six Attributes in order.
 
-[verse]
+[example]
+====
 Jonathan is rolling the Attributes for his character, Fiera Thick-heart. His rolls, and the
 associated Attributes look like this:
-Roll: 1, 5, 6 = Virility of 5
-Roll: 1, 2, 2 = Cerebrality of 2
-Roll: 4, 4, 4 = Discernment of 4
-Roll: 2, 5, 5 = Adroitness of 5
-Roll: 3, 4, 6 = Wherewithal of 4
-Roll: 1, 1, 6 = Sociality of 1
 
+Roll: 1, 5, 6 = Virility of 5 
+
+Roll: 1, 2, 2 = Cerebrality of 2
+
+Roll: 4, 4, 4 = Discernment of 4
+
+Roll: 2, 5, 5 = Adroitness of 5
+
+Roll: 3, 4, 6 = Wherewithal of 4
+
+Roll: 1, 1, 6 = Sociality of 1
+====
 
 [TIP]
 .Dial: Attribute generation
@@ -241,532 +248,390 @@ fall where they may. When players have a strong character concept, they need a d
 though.
 
 This dial has three settings:
-*Standard: The method described in the main text.
-*Whiff-Proof Standard: If a character's scores add up to 15 or less, that player may re-roll all the scores.
-*Player-Allocated Bonus: As Whiff-Proof Standard, but the player adds add one to one score and subtracts one from one score after rolling.
-*Player-Chosen Random Rolls: The player rolls 3d6 and records the median rolls as in Whiff-Proof Standard. However, he places these rolls in whichever attributes he likes. This setting gives the players options while limiting extremes in attributes.
-*Player-Allocated: The player is given 21 points to distribute however he likes among the six attributes. No score can be lower than 1 or higher than 6. The setting gives the players the most options, but can produce characters with wild attributes.
 
-The GM sets this dial before play. Each player, however, has the option to turn back the dial to the
-Standard method for his character.
+* Standard: The method described in the main text.
+* Whiff-Proof Standard: If a character's scores add up to 15 or less, that player may re-roll all the scores.
+* Player-Allocated Bonus: As Whiff-Proof Standard, but the player adds add one to one score and subtracts one from one score after rolling.
+* Player-Chosen Random Rolls: The player rolls 3d6 and records the median rolls as in Whiff-Proof Standard. However, he places these rolls in whichever attributes he likes. This setting gives the players options while limiting extremes in attributes.
+* Player-Allocated: The player is given 21 points to distribute however he likes among the six attributes. No score can be lower than 1 or higher than 6. The setting gives the players the most options, but can produce characters with wild attributes.
+
+The GM sets this dial before play. Each player, however, has the option to turn back the dial to the Standard method for his character.
 ====
 
 === Class or Race
 
-Each player creates his character's Class or Race at this point by simply creating a name for it. A Class or
-Race may be anything one likes, given that the GM deems it suitable for her campaign. A Class or Race
-may have a simple name, like "Thief" or "Elf," or a more complex name, like "Knight of the Silver Lance,"
-or "Granite-Bone Troll."
+Each player creates his character's Class or Race at this point by simply creating a name for it. A Class or Race may be anything one likes, given that the GM deems it suitable for her campaign. A Class or Race may have a simple name, like "Thief" or "Elf," or a more complex name, like "Knight of the Silver Lance," or "Granite-Bone Troll."
 
-The only real difference between a Class or a Race is nomenclature. A character with a Class is deemed
-to be human, as humans have a globe-spanning reach that includes myriads of cultures and potential
-careers. A Race, on the other hand, is a unified group of one species in which all members have the same
-Abilities. By creating your character with a Race, you are actually defining the entire species.
+The only real difference between a Class or a Race is nomenclature. A character with a Class is deemed to be human, as humans have a globe-spanning reach that includes myriads of cultures and potential careers. A Race, on the other hand, is a unified group of one species in which all members have the same Abilities. By creating your character with a Race, you are actually defining the entire species.
 
 Examples of Classes: Mercenary, Archaelogist, Purple-Robed Sorcerer, Wilderness Scout, Tinkerer
 
+Examples of Races: Pebble Gnome, Sentient Forest Ape, Red-Nose Goblin, House Ogre, Snap-Tooth Dragon-Kin
 
-Examples of Races: Pebble Gnome, Sentient Forest Ape, Red-Nose Goblin, House Ogre, Snap-Tooth
-Dragon-Kin
+No two players within the same group should create characters of the same Class or Race. Party diversity is important in Donjon.
 
-No two players within the same group should create characters of the same Class or Race. Party diversity
-is important in Donjon.
+[TIP]
+.Dial: Humans and other races
+====
+A GM may determine before the game that humans are not the dominant species, or race, in her campaign. If this is the case, the GM may set this dial to the dominant race, be it elves, goblins, or blue- skinned aliens. If this dial is set to anything but humans, that race has a plethora of careers - or classes. All other species, including humans, are treated as normal races according to the rules. If, for example, the dominant species is goblins, characters might be: Cave Guard, Pumpkin Bomber, or Grub Hunter. 
 
-```
-Dial: Humans and other races
-A GM may determine before the game that humans are not the dominant species, or race, in her
-campaign. If this is the case, the GM may set this dial to the dominant race, be it elves, goblins, or blue-
-skinned aliens.
-If this dial is set to anything but humans, that race has a plethora of careers - or classes. All other species,
-including humans, are treated as normal races according to the rules.
-If, for example, the dominant species is goblins, characters might be: Cave Guard, Pumpkin Bomber,
-or Grub Hunter.
-The GM may also allow all species to have diverse classes. In that case, races work slightly differently:
-all members of a race (except humans) have the same Main Ability. All characters are assigned a class (so
-you might have, for example, a Rock Troll with the Class Mountain Raider), which is how their
-Secondary Abilities are determined.
-In all honesty, this is an inferior way to play Donjon and should be frowned upon, but the good heart
-of the author forced my pen to give you the option.
-```
+The GM may also allow all species to have diverse classes. In that case, races work slightly differently: all members of a race (except humans) have the same Main Ability. All characters are assigned a class (so you might have, for example, a Rock Troll with the Class Mountain Raider), which is how their Secondary Abilities are determined.
+
+In all honesty, this is an inferior way to play Donjon and should be frowned upon, but the good heart of the author forced my pen to give you the option.
+====
+
 === Level
 
 All characters usually start the game at Level 1. Mark this on your character sheet.
 
-GM's may sometimes instruct players to create characters of a higher Level than normal. In that case,
-create a Level 1 character using this chapter, then use the advancement rules in Running Donjon to
-increase your character's Level.
+GM's may sometimes instruct players to create characters of a higher Level than normal. In that case, create a Level 1 character using this chapter, then use the advancement rules in Running Donjon to increase your character's Level.
 
 === Flesh Wounds
 
-Flesh Wounds are a measure of how much damage a character can take before becoming gravely
-wounded. These are different from other scores that define your character in that you will never roll
-these. Characters start with few Flesh Wounds; however, these will increase during play as the character
-grows hardier and learns to suffer more.
+Flesh Wounds are a measure of how much damage a character can take before becoming gravely wounded. These are different from other scores that define your character in that you will never roll these. Characters start with few Flesh Wounds; however, these will increase during play as the character grows hardier and learns to suffer more.
 
 
 === Provisions and Wealth
 
-Provisions are a measure of your current state of readiness for donjon adventures. It is an abstract
-quantification of the goods you are carrying to help you through trials. These are things like food, rope,
-ten-foot poles, crampons, and tent stakes.
+Provisions are a measure of your current state of readiness for donjon adventures. It is an abstract quantification of the goods you are carrying to help you through trials. These are things like food, rope, ten-foot poles, crampons, and tent stakes.
 
-Wealth is a measure of your finances - gold coins, gems, and the like. This is used to buy weapons and
-armor, as well as more Provisions.
+Wealth is a measure of your finances - gold coins, gems, and the like. This is used to buy weapons and armor, as well as more Provisions.
 
 === Saving Throws
 
-Saving Throws are scores used to determine a character's ability to resist magic and misfortune. There are
-two Saving Throws in Donjon.
+Saving Throws are scores used to determine a character's ability to resist magic and misfortune. There are two Saving Throws in Donjon.
 
-Save vs. Illusion and Confusion: This saving throw is used to resist all magic that affects the mind, be it
-illusions, confusion, or other mind-manipulating magic. It is normally rolled with Discernment.
+Save vs. Illusion and Confusion: This saving throw is used to resist all magic that affects the mind, be it illusions, confusion, or other mind-manipulating magic. It is normally rolled with Discernment.
 
-Save vs. Poison, Paralysis, and Transmogrification: This saving throw is used to prevent any sort of
-natural or magical body manipulation. This could be poison, disease, turning into a frog through magic,
-paralyzation, or any other body-affecting magic. It is normally rolled with Wherewithal.
+Save vs. Poison, Paralysis, and Transmogrification: This saving throw is used to prevent any sort of natural or magical body manipulation. This could be poison, disease, turning into a frog through magic, paralyzation, or any other body-affecting magic. It is normally rolled with Wherewithal.
 
 === Abilities
 
-The last and most important thing you have to do to create a character is determine his Abilities. Abilities
-are what make a Class or Race unique - things they can do that not everyone else can. In Donjon , you
-invent your character's Abilities.
+The last and most important thing you have to do to create a character is determine his Abilities. Abilities are what make a Class or Race unique - things they can do that not everyone else can. In Donjon , you invent your character's Abilities.
 
-You must choose one Main Ability, and four Supporting Abilities. A Main Ability is what defines a Race
-or Class: it is a broad Ability that they are renowned for. A Main Ability should be very versatile.
+You must choose one Main Ability, and four Supporting Abilities. A Main Ability is what defines a Race or Class: it is a broad Ability that they are renowned for. A Main Ability should be very versatile.
 
-Supporting Abilities are tangential to the definition of the Race or Class. They are Abilities that help the
-Race or Class, but are much more specific in nature. Examples of some Classes and Races to illustrate,
-with each one's Main Ability listed first:
+Supporting Abilities are tangential to the definition of the Race or Class. They are Abilities that help the Race or Class, but are much more specific in nature. Examples of some Classes and Races to illustrate, with each one's Main Ability listed first:
 
-- Mercenary: Hit People With Weapons, Run and Charge, Knock Down Doors, Intimidate, Take
-    Damage in Melee Combat
-- Purple-Robed Sorcerer: Cast Spells, Understand Demon Languages, Avoid Magic, Lie
-    Convincingly, Damage Demons
-- Granite-Bone Troll: Take All Sorts of Damage, Play Dumb, Eat Rocks and other Hard Things,
-    Leap Across Chasms, Hand-smash
+* Mercenary: Hit People With Weapons, Run and Charge, Knock Down Doors, Intimidate, Take Damage in Melee Combat
+* Purple-Robed Sorcerer: Cast Spells, Understand Demon Languages, Avoid Magic, Lie Convincingly, Damage Demons
+* Granite-Bone Troll: Take All Sorts of Damage, Play Dumb, Eat Rocks and other Hard Things, Leap Across Chasms, Hand-smash
+* Elf: Be One With Nature, Cast Nature Spells, Use Bows, Attack with Longswords, Find Secret Doors
+* Noble: Influence People, Knowledge of Heraldry, Dodge in Melee, Bargain with Authorities, Ride Horses
 
+Note from the above examples the difference between Main Abilities and Supporting Abilities. A Mercenary can use any weapon at his disposal, but an Elf can only use a longsword or bow. (Actually, both can use any weapon. The Elf can only use his Ability with a bow or longsword, though.)
 
-- Elf: Be One With Nature, Cast Nature Spells, Use Bows, Attack with Longswords, Find Secret
-    Doors
-- Noble: Influence People, Knowledge of Heraldry, Dodge in Melee, Bargain with Authorities,
-    Ride Horses
+The Granite-Bone Troll can absorb damage from any source, be it a weapon, a falling rock, fire, or magic. The Mercenary can take more damage than the average character, but only in combat. Traps backstabs, and falling would hurt him like normal.
 
-Note from the above examples the difference between Main Abilities and Supporting Abilities. A
-Mercenary can use any weapon at his disposal, but an Elf can only use a longsword or bow. (Actually,
-both can use any weapon. The Elf can only use his Ability with a bow or longsword, though.)
+The Noble can use his Main Ability in any social situation. The Purple-Robed Sorcerer is useful in social situations as well, but only if he is lying.
 
-The Granite-Bone Troll can absorb damage from any source, be it a weapon, a falling rock, fire, or
-magic. The Mercenary can take more damage than the average character, but only in combat. Traps,
-backstabs, and falling would hurt him like normal.
+A Main Ability should affect all of one type of roll - all attack rolls, all damage rolls, all influence rolls, or all attempts to hide. A Supporting Ability should be constrained so that it only works in specific situations.
 
-The Noble can use his Main Ability in any social situation. The Purple-Robed Sorcerer is useful in social
-situations as well, but only if he is lying.
+The constraint on a Supporting Ability can be equipment-based, opponent-based, or any other sort of constraint. Note the Purple-Robed Sorcerer compared to the Granite-Bone Troll. They both have Abilities that let them increase their damage. ("Hand-smash" is used to do more damage when hitting things.) The Purple-Robed Sorcerer can use his Ability whether attacking a demon with magic or a sword. The Granite-Bone Troll, on the other hand, can hurt anything, but he must hit it with his hand.
 
-A Main Ability should affect all of one type of roll - all attack rolls, all damage rolls, all influence rolls, or
-all attempts to hide. A Supporting Ability should be constrained so that it only works in specific
-situations.
-
-The constraint on a Supporting Ability can be equipment-based, opponent-based, or any other sort of
-constraint. Note the Purple-Robed Sorcerer compared to the Granite-Bone Troll. They both have
-Abilities that let them increase their damage. ("Hand-smash" is used to do more damage when hitting
-things.) The Purple-Robed Sorcerer can use his Ability whether attacking a demon with magic or a
-sword. The Granite-Bone Troll, on the other hand, can hurt anything, but he must hit it with his hand.
-
-Because you can invent any Ability you want, you may need to stop here with the GM and define what
-your Abilities do. If you wanted to backstab, for example, you'd make a "Backstab" Ability. How does
-Backstab work, though? Your GM will be familiar with these rules, and can help you out with these
-questions now. (Backstab would add to your damage roll whenever you hit an opponent facing away
-from you. Alternatively, it could add to your attack roll whenever an opponent is facing away from you.
-It could not do both, however. This is why it is important to make sure your Abilities are well-defined
-before play.)
+Because you can invent any Ability you want, you may need to stop here with the GM and define what your Abilities do. If you wanted to backstab, for example, you'd make a "Backstab" Ability. How does Backstab work, though? Your GM will be familiar with these rules, and can help you out with these questions now. (Backstab would add to your damage roll whenever you hit an opponent facing away from you. Alternatively, it could add to your attack roll whenever an opponent is facing away from you. It could not do both, however. This is why it is important to make sure your Abilities are well-defined before play.)
 
 [TIP]
 .Player Tip: Choosing Abilities
 ====
-The option to choose any Abilities you want for your character may be daunting. Remember that
-successful actions will let you narrate what happens in the game, and plan your Abilities around that.
-If you chose an Ability like "Hear Noise," you could use this at any time, not just when your GM called
-for a roll. A successful roll would allow you to create an encounter by saying that your character hears
-====
+The option to choose any Abilities you want for your character may be daunting. Remember that successful actions will let you narrate what happens in the game, and plan your Abilities around that.
 
-[verse]
-----
-footsteps behind him, the sound of a giant eagle in the trees, or the scraping of a huge worm ahead in a
-tunnel.
-If you chose an Ability like "Find Secret Doors," you could use this to find a short-cut around big
-trouble in a dungeon, or even use it to find a way out of a combat that's not going in your character's
-favor.
-Also remember that successes can be used for bonus dice on another roll, and choose Abilities that can
-be used as "combos."
-If you chose an Ability like "Speed of the Ancients," you could use that to increase your initiative in
-combat.
-If you chose Abilities like "Run and Charge" and "Strike with Broadsword," you could run at an
-opponent, using successes to add to your ability to strike him.
-If you chose Abilities like "Find Treasure" and "Evaluate Worth," you could search for treasure, evaluate
-the worth of it, and then make a roll to loot, using successes from each roll to build up a huge pool of
-dice.
-----
+If you chose an Ability like "Hear Noise," you could use this at any time, not just when your GM called for a roll. A successful roll would allow you to create an encounter by saying that your character hears footsteps behind him, the sound of a giant eagle in the trees, or the scraping of a huge worm ahead in a tunnel.
+
+If you chose an Ability like "Find Secret Doors," you could use this to find a short-cut around big trouble in a dungeon, or even use it to find a way out of a combat that's not going in your character's favor.
+
+Also remember that successes can be used for bonus dice on another roll, and choose Abilities that can be used as "combos."
+
+If you chose an Ability like "Speed of the Ancients," you could use that to increase your initiative in combat.
+
+If you chose Abilities like "Run and Charge" and "Strike with Broadsword," you could run at an opponent, using successes to add to your ability to strike him.
+
+If you chose Abilities like "Find Treasure" and "Evaluate Worth," you could search for treasure, evaluate the worth of it, and then make a roll to loot, using successes from each roll to build up a huge pool of dice.
+====
 
 Magic Abilities
 
-You've probably noticed above that the Purple-Robed Sorcerer has "Cast Spells" as his Main Ability, and
-the Elf has "Cast Nature Spells" as a Supporting Ability. A general Ability to do magic - Cast Spells,
-Magic-Slinging, or whatever else - must be taken as a Main Ability.
+You've probably noticed above that the Purple-Robed Sorcerer has "Cast Spells" as his Main Ability, and the Elf has "Cast Nature Spells" as a Supporting Ability. A general Ability to do magic - Cast Spells, Magic-Slinging, or whatever else - must be taken as a Main Ability.
 
-If you want a very specific type of magic, you may take it as a Supporting Ability. Examples would be
-Cast Nature Spells, Mystical Stealth, Create Illusions, or Psychokinesis.
+If you want a very specific type of magic, you may take it as a Supporting Ability. Examples would be Cast Nature Spells, Mystical Stealth, Create Illusions, or Psychokinesis.
 
-All these Abilities are spell-based magic, and use the magic system outlined in Chapter 6: Magic. If you
-make a character that uses spell-based magic, you should read this chapter before play. It tells you how to
-define your magical style and choose your Magic Words, which you'll have to do to finish making your
-character.
+All these Abilities are spell-based magic, and use the magic system outlined in Chapter 6: Magic. If you make a character that uses spell-based magic, you should read this chapter before play. It tells you how to define your magical style and choose your Magic Words, which you'll have to do to finish making your character.
 
-You do not, however, have to have spell-based magic at all to have a Ability that is magical in nature. For
-example, if you want to create a spritely little creature whose only magical talent is making light, you
-could choose "Making Light" as an Ability. If you wanted to have your hands burst into flame in combat,
-you could choose "Hands of Flame," and define it as adding to your damage when punching. Since all
-Abilities use the same resolution system, and are rated identically, these sorts of Abilities are not over-
-powering even though they are magical in nature.
+You do not, however, have to have spell-based magic at all to have a Ability that is magical in nature. For example, if you want to create a spritely little creature whose only magical talent is making light, you could choose "Making Light" as an Ability. If you wanted to have your hands burst into flame in combat, you could choose "Hands of Flame," and define it as adding to your damage when punching. Since all Abilities use the same resolution system, and are rated identically, these sorts of Abilities are not over-powering even though they are magical in nature.
 
 
 Powerful Abilities
 
-Some players may take Abilities the GM determines to be too powerful for her game. This should be very
-hard to do, as all Abilities are rated identically.
+Some players may take Abilities the GM determines to be too powerful for her game. This should be very hard to do, as all Abilities are rated identically.
 
-If you are a GM, and a player has an Ability that seems too powerful, discuss a way to tone it back with
-him. Most powerful Abilities can be translated into a perfectly fine Donjon Ability.
+If you are a GM, and a player has an Ability that seems too powerful, discuss a way to tone it back with him. Most powerful Abilities can be translated into a perfectly fine Donjon Ability.
 
-```
-Jonathan wants to play a Snap-Tooth Dragon-kin. He writes down "Immune to Fire" as a
-Supporting Ability. His GM notes that there is no sort of "immunity" Ability in Donjon.
-She asks him, "Wouldn't that work better as 'Resistant to Fire?' That way, we can rate it
-easier." Jonathan agrees, and takes "Resistant to Fire."
-```
-If the Ability can absolutely not be toned down to a level appropriate for your game, a good solution is to
-set a limit on its use with the player. Most powerful Abilities are fine when used only once per encounter.
+[example]
+====
+Jonathan wants to play a Snap-Tooth Dragon-kin. He writes down "Immune to Fire" as a Supporting Ability. His GM notes that there is no sort of "immunity" Ability in Donjon. 
+
+She asks him, "Wouldn't that work better as 'Resistant to Fire?' That way, we can rate it easier." Jonathan agrees, and takes "Resistant to Fire."
+====
+
+If the Ability can absolutely not be toned down to a level appropriate for your game, a good solution is to set a limit on its use with the player. Most powerful Abilities are fine when used only once per encounter.
+
 If you are a player, and want an Ability that seems over-powering, suggest this to your GM.
 
-```
-Jonathan, the trouble player in this group, also has "Regenerate Damage" as a Supporting
-Ability. His GM frowns. "But, Nikola," he whines, "I can only use it when I'm damaged."
-Nikola shakes her head. "That's not nearly limited enough for a Supporting Ability."
+[example]
+====
+Jonathan, the trouble player in this group, also has "Regenerate Damage" as a Supporting Ability. His GM frowns. "But, Nikola," he whines, "I can only use it when I'm damaged."
+
+Nikola shakes her head. "That's not nearly limited enough for a Supporting Ability." 
+
 "What if I make it 'Regenerate Adroitness Damage'?" Jonathan asks.
-"Ok - that's fair. But, you can only use it once per encounter," Nikola adds. "Otherwise,
-you could just use it over and over until all your Adroitness damage was healed every
-encounter."
-```
+
+"Ok - that's fair. But, you can only use it once per encounter," Nikola adds. "Otherwise, you could just use it over and over until all your Adroitness damage was healed every encounter."
+====
+
 === Distributing initial dice
 
-At the end of character creation, you should have Flesh Wounds, two Saving Throws, and five Abilities
-with unallocated scores on your character sheet. You have 20 initial dice to allocate to these scores
-however you see fit. However, you may not have more than your Level + 3 in any of these scores.
+At the end of character creation, you should have Flesh Wounds, two Saving Throws, and five Abilities with unallocated scores on your character sheet. You have 20 initial dice to allocate to these scores however you see fit. However, you may not have more than your Level + 3 in any of these scores.
 
-You should also have a Wealth score and a Provisions score. Set one of these at 5 dice and the other at 3
-dice to determine initial Wealth and Provisions.
+You should also have a Wealth score and a Provisions score. Set one of these at 5 dice and the other at 3 dice to determine initial Wealth and Provisions.
 
 Your character is now completed and ready for play.
 
-
 === Some examples of character creation
 
-Three players, Robin, Ron, and Jonathan, sit down with the Game Master, Nikola, to make characters
-for Donjon. They have decided that the game will be fairly serious, although none of them object to a
-little humor, and Nikola has decided that Attributes will be allocated with the "Player-Allocated" method.
+Three players, Robin, Ron, and Jonathan, sit down with the Game Master, Nikola, to make characters for Donjon. They have decided that the game will be fairly serious, although none of them object to a little humor, and Nikola has decided that Attributes will be allocated with the "Player-Allocated" method.
 
-Roland the Wilderness Scout
+==== Roland the Wilderness Scout
 
-Robin says, "This game, I want to play a character that'll let me narrate a lot. I think someone who can
-find monsters and know all about them would be best. I'm going to play a human - his Class is
-'Wilderness Scout.'" He writes down the Class on his character sheet.
+Robin says, "This game, I want to play a character that'll let me narrate a lot. I think someone who can find monsters and know all about them would be best. I'm going to play a human - his Class is 'Wilderness Scout.'" He writes down the Class on his character sheet.
 
-He's got 21 points to allocate to Attributes. He says, "I want this character to be almost supernaturally
-perceptive, but he's got to be quick, too, so as not to get killed. I'm going to set his Discernment and
-Adroitness really high. I don't think he's that strong or imposing, though - kind of a smart, quiet guy." He
-allocates his points and ends up with Virility 2, Cerebrality 3, Discernment 6, Adroitness 5, Wherewithal
-3, and Sociality 2.
+He's got 21 points to allocate to Attributes. He says, "I want this character to be almost supernaturally perceptive, but he's got to be quick, too, so as not to get killed. I'm going to set his Discernment and Adroitness really high. I don't think he's that strong or imposing, though - kind of a smart, quiet guy." He allocates his points and ends up with Virility 2, Cerebrality 3, Discernment 6, Adroitness 5, Wherewithal 3, and Sociality 2.
 
 Ron says, "Great. Aragorn. Whoopee."
 
-Robin turns to him. "Hey, buddy. If you want to comment, get your head out of that book. Otherwise,
-keep it to yourself. Anyway, this guy's nothing like Aragorn. He uses a machete, and climbs trees."
+Robin turns to him. "Hey, buddy. If you want to comment, get your head out of that book. Otherwise, keep it to yourself. Anyway, this guy's nothing like Aragorn. He uses a machete, and climbs trees."
 
-For Abilities, Robin already has his Main Ability in mind: "His Main Ability is 'Track Anything.' I should
-be able to use that to find tracks of people, monsters, or whatever else I want to encounter." For
-Supporting Abilities, he thinks of three that will help him out: "Sneak in Forests," "Climb Trees," and
-"Swing Machete." He can't think of another one, though.
+For Abilities, Robin already has his Main Ability in mind: "His Main Ability is 'Track Anything.' I should be able to use that to find tracks of people, monsters, or whatever else I want to encounter." For Supporting Abilities, he thinks of three that will help him out: "Sneak in Forests," "Climb Trees," and "Swing Machete." He can't think of another one, though.
 
-Jonathan says, "What about 'Wild Animal Lore'? You could state facts about the creatures you find."
-Robin thinks that's perfect, and adds it on. (Having other players help you with your character is highly
-suggested.)
+Jonathan says, "What about 'Wild Animal Lore'? You could state facts about the creatures you find." Robin thinks that's perfect, and adds it on. (Having other players help you with your character is highly suggested.)
 
-All Robin has left to do is distribute his 20 initial dice. He puts four dice, the maximum, into Roland's
-Main Ability, as he wants him to be great at it. He wants Roland to be relatively tough, sneaky, and
-decent in combat, so he puts three dice into Flesh Wounds, "Sneak in Forests," and "Swing Machete." He
-doesn't particularly care about mind-affecting magic, so only puts one die into Save versus Illusion and
-Confusion, and puts two dice in everything else.
+All Robin has left to do is distribute his 20 initial dice. He puts four dice, the maximum, into Roland's Main Ability, as he wants him to be great at it. He wants Roland to be relatively tough, sneaky, and decent in combat, so he puts three dice into Flesh Wounds, "Sneak in Forests," and "Swing Machete." He doesn't particularly care about mind-affecting magic, so only puts one die into Save versus Illusion and Confusion, and puts two dice in everything else.
 
 For Provisions and Wealth, he puts five dice into Provisions and three into Wealth.
 
 
-Azar the Purple
-Robed Sorcerer
+==== Azar the Purple-Robed Sorcerer
 
-Ron's been reading some other role-playing game while Robin made up his character. He looks up and
-says, "I like the idea playing someone who uses magic, but his magic revolves all around demons. I'll call
-him a 'Purple-Robed Sorcerer.'"
+Ron's been reading some other role-playing game while Robin made up his character. He looks up and says, "I like the idea playing someone who uses magic, but his magic revolves all around demons. I'll call him a 'Purple-Robed Sorcerer.'"
 
 Jonathan and Robin laugh. "Man, you always play that character."
 
-Ron sneers. "And he always kicks ass, so shut it." He writes down the Class on his character sheet and
-continues, "This guy's weak as he can be from all the other-worldly forces he's summoned, but he's smart,
-and his flesh has turned leathery and tough. He's not the sort of guy you'd like to know, but he's
-powerfully frightening, too." He assigns his Attribute points, and ends up with Virility 1, Cerebrality 6,
-Discernment 2, Adroitness 3, Wherewithal 5, and Sociality 4.
+Ron sneers. "And he always kicks ass, so shut it." He writes down the Class on his character sheet and continues, "This guy's weak as he can be from all the other-worldly forces he's summoned, but he's smart, and his flesh has turned leathery and tough. He's not the sort of guy you'd like to know, but he's powerfully frightening, too." He assigns his Attribute points, and ends up with Virility 1, Cerebrality 6, Discernment 2, Adroitness 3, Wherewithal 5, and Sociality 4.
 
-Ron says, "Well, 'Casting Spells' has got to be my Main Ability. What else can I use to make this character
-cool?"
+Ron says, "Well, 'Casting Spells' has got to be my Main Ability. What else can I use to make this character cool?"
 
 Jonathan says, "Um... how about make a different character?"
 
-Ron growls. "Keep it up, man. Just keep it up. We'll see whose character's lame when we're knee-deep in
-human feces under Da Nang."
+Ron growls. "Keep it up, man. Just keep it up. We'll see whose character's lame when we're knee-deep in human feces under Da Nang."
 
 Jonathan laughs, "Dude - Da Nang? What?"
 
 "Never mind," Ron grimaces. "Robin - can you help me out here?"
 
-Robin says, "How about 'Understand Demon Languages'? You could roll it to understand what a
-demon's saying to you, and use the successes to actually state what he said."
+Robin says, "How about 'Understand Demon Languages'? You could roll it to understand what a demon's saying to you, and use the successes to actually state what he said."
 
-Ron agrees. "That's awesome. That and "Damage Demons" in case one gets out of control. Hmm... what
-else? I'd like to be able to roll some extra dice in Damage Tests against magic, and lie to people. 'Avoid
-Magic' and 'Lie Convincingly' sound good."
+Ron agrees. "That's awesome. That and "Damage Demons" in case one gets out of control. Hmm... what else? I'd like to be able to roll some extra dice in Damage Tests against magic, and lie to people. 'Avoid Magic' and 'Lie Convincingly' sound good."
 
-Like Robin, Ron puts four dice into his character's Main Ability, "Cast Spells." He does care about mind-
-affecting magic, so he puts four dice into Save vs. Illusion and Confusion as well. With only 12 dice left
-to spend, he puts three into "Lie Convincingly," one into "Save vs. Poison, Polymorph, and
-Transmogrification," and two into everything else.
+Like Robin, Ron puts four dice into his character's Main Ability, "Cast Spells." He does care about mind- affecting magic, so he puts four dice into Save vs. Illusion and Confusion as well. With only 12 dice left to spend, he puts three into "Lie Convincingly," one into "Save vs. Poison, Polymorph, and Transmogrification," and two into everything else.
 
 He also puts five dice into Wealth and three dice into Provisions to finish the character.
 
-Fiera the Snap
-Tooth Dragon
-Kin
+==== Fiera the Snap-Tooth Dragon-Kin
 
-Nikola asks Jonathan, "What sort of character are you planning on playing?" Jonathan says, "I was thinking
-about playing a non-human - maybe a cute female dragon-person."
-
+Nikola asks Jonathan, "What sort of character are you planning on playing?" Jonathan says, "I was thinking about playing a non-human - maybe a cute female dragon-person."
 
 Robin says, "Dude, you always play chicks."
 
 Jonathan says, "Shut your punk mouth before I shut it for you. Anyway, there's lots of dragon-kin, right?"
-Nikola nods. "She's one of the Snap-Tooth Dragon-Kin, a group of strong, but non-flying dragon-kin. I
-think I'll call her Fiera." He writes down Fiera's Race on the character sheet. "She's going to be a bad-ass,
-but doesn't get along with people well. It's not because she's mean, though, although people think she is -
-she's actually shy, as she thinks people won't accept her, so she's always trying to prove herself." He takes
-his 21 points, and allocates them as Virility 5, Cerebrality 3, Discernment 4, Adroitness 4, Wherewithal 4,
-and Sociality 1.
 
-Ron looks up again. "Man, it's just Donjon. Cease with all the back-story and just create your combat-
-ready chick so we can play already."
+Nikola nods. "She's one of the Snap-Tooth Dragon-Kin, a group of strong, but non-flying dragon-kin. I think I'll call her Fiera." He writes down Fiera's Race on the character sheet. "She's going to be a bad-ass, but doesn't get along with people well. It's not because she's mean, though, although people think she is - she's actually shy, as she thinks people won't accept her, so she's always trying to prove herself." He takes his 21 points, and allocates them as Virility 5, Cerebrality 3, Discernment 4, Adroitness 4, Wherewithal 4, and Sociality 1.
 
-Jonathan says, "Hey - I like this character. You're just upset because we're not playing the game you
-wanted to this week." Ron mutters and looks back down at his book. "Ok, Abilities," Jonathan thinks out
-loud. "Well, 'Breathe Flame,' of course. And since that's a Main Ability, I can use it in combat, or to
-destroy flammable things, right, Nikola?" She nods again. "Ok. Let's see. I'm going to add 'Thick Hide' to
-absorb damage."
+Ron looks up again. "Man, it's just Donjon. Cease with all the back-story and just create your combat-ready chick so we can play already."
+
+Jonathan says, "Hey - I like this character. You're just upset because we're not playing the game you wanted to this week." Ron mutters and looks back down at his book. "Ok, Abilities," Jonathan thinks out loud. "Well, 'Breathe Flame,' of course. And since that's a Main Ability, I can use it in combat, or to destroy flammable things, right, Nikola?" She nods again. "Ok. Let's see. I'm going to add 'Thick Hide' to absorb damage."
 
 Nikola says, "But that's a Supporting Ability. What sort of damage do you want to avoid?"
 
-Jonathan thinks for a second. "All damage from sharp things - they have a hard time getting through her
-hide. I'm also taking 'Resistant to Fire,' 'Intimidate People,' and 'Regenerate Adroitness Damage.'
-Remember, we talked about that one, Nikola."
+Jonathan thinks for a second. "All damage from sharp things - they have a hard time getting through her hide. I'm also taking 'Resistant to Fire,' 'Intimidate People,' and 'Regenerate Adroitness Damage.' Remember, we talked about that one, Nikola."
 
-She agrees. "Yeah - it seems to be an alright Ability, as long as you only use it once per scene. What about
-your dice?"
+She agrees. "Yeah - it seems to be an alright Ability, as long as you only use it once per scene. What about your dice?"
 
-Jonathan puts four dice into "Intimidate People" to make up for Fiera's low Sociality, and also puts four
-dice into Flesh Wounds, since she's supposed to be tough. He puts three dice into "Breathe Flame," one
-into "Regenerate Adroitness Damage," and two into everything else.
+Jonathan puts four dice into "Intimidate People" to make up for Fiera's low Sociality, and also puts four dice into Flesh Wounds, since she's supposed to be tough. He puts three dice into "Breathe Flame," one into "Regenerate Adroitness Damage," and two into everything else.
 
 He finishes up by putting five dice into Provisions, and three into Wealth.
 
-
 == Money and Goods
 
-In Donjon , the amount of money and goods your character has is not quantified as some sort of concrete
-quantity. You won't find references anywhere in the game to "20 doubloons" or any other such nonsense.
-Instead, your character has a Wealth score, which is an amorphous reference of his current money
-situation, and a Provisions score, which is a reference of his state of readiness for donjon adventures -
-basically, how full his backpack is.
+In Donjon , the amount of money and goods your character has is not quantified as some sort of concrete quantity. You won't find references anywhere in the game to "20 doubloons" or any other such nonsense.
 
-The Wealth score is primarily used when your character is in town, shopping for weapons, armor, or
-other items. It's also used to increase his Provisions score, and bribe or influence people. The Provisions
-score is only used when out on an adventure.
+Instead, your character has a Wealth score, which is an amorphous reference of his current money situation, and a Provisions score, which is a reference of his state of readiness for donjon adventures - basically, how full his backpack is.
+
+The Wealth score is primarily used when your character is in town, shopping for weapons, armor, or other items. It's also used to increase his Provisions score, and bribe or influence people. The Provisions score is only used when out on an adventure.
 
 === The Spending Test
 
-All uses of Wealth and Provisions in this chapter use a standard method of resolution called a Spending
-Test. (You'll find out more about Tests in "Resolution.") The steps involved in a Spending Test are:
+All uses of Wealth and Provisions in this chapter use a standard method of resolution called a Spending Test. (You'll find out more about Tests in "Resolution.") The steps involved in a Spending Test are:
 
-- Decide on a number of dice to take from your Wealth or Provisions score. (This will be indicated
-    in the text.) If the Test is successful, these dice will be lost from your score.
-- If rolling a Wealth Spending Test, add Sociality to the number of dice in your dice pool; if rolling
-    a Provisions Spending Test, add Cerebrality to the number of dice.
-- Roll these dice and compare to a roll by the Game Master. (The number of dice the Game Master
-    rolls will be indicated in the text as well.)
-- If successful, you get the item or service you were trying to purchase. The dice you took from
-    Wealth or Provisions are lost from that score. If unsuccessful, return the dice you took.
+- Decide on a number of dice to take from your Wealth or Provisions score. (This will be indicated in the text.) If the Test is successful, these dice will be lost from your score.
+- If rolling a Wealth Spending Test, add Sociality to the number of dice in your dice pool; if rolling a Provisions Spending Test, add Cerebrality to the number of dice.
+- Roll these dice and compare to a roll by the Game Master. (The number of dice the Game Master rolls will be indicated in the text as well.)
+- If successful, you get the item or service you were trying to purchase. The dice you took from Wealth or Provisions are lost from that score. If unsuccessful, return the dice you took.
 
-The Law of Successes (described briefly in Basic Concepts, and more fully in Resolution ) does not apply
-to Spending Tests.
+The Law of Successes (described briefly in Basic Concepts, and more fully in Resolution ) does not apply to Spending Tests.
 
 === Buying items
 
-Characters may only buy items when in town. In order to buy an item, make a Wealth Spending Test
-against a number of dice according to Table 3-1: Item and Service Worth. Markup is always added to the
-GM's number of dice. Markup is a score that will differ depending on the town, and the nature of goods
-the character is trying to buy, and is covered in detail in Running Donjon.
+Characters may only buy items when in town. In order to buy an item, make a Wealth Spending Test against a number of dice according to Table 3-1: Item and Service Worth. Markup is always added to the
+GM's number of dice. Markup is a score that will differ depending on the town, and the nature of goods the character is trying to buy, and is covered in detail in Running Donjon.
 
-If you succeed in this roll, your character gets the item he was trying to buy. If unsuccessful, your
-character cannot buy this same item or service from this vendor. He can go to a different blacksmith,
+If you succeed in this roll, your character gets the item he was trying to buy. If unsuccessful, your character cannot buy this same item or service from this vendor. He can go to a different blacksmith, coach driver, or inn, if there is one, but this vendor wants nothing more to do with him until his Wealth is increased, or the GM rules that the situation has changed (the characters do a favor for the vendor, a magician casts a spell increasing the character's Sociality, or something of the like.)
 
 
-coach driver, or inn, if there is one, but this vendor wants nothing more to do with him until his Wealth
-is increased, or the GM rules that the situation has changed (the characters do a favor for the vendor, a
-magician casts a spell increasing the character's Sociality, or something of the like.)
-
-```
 Table 3-1: Item and Service Worth
-Worth | Item or service
-Damage Rating Weapon or armor
-0 Cheap stuff (a beer, a night in a stable or common room, a meal)
-3 Moderate cost (a 10-mile coach ride, a room for a week, decent
+[cols="1,1"]
+|===
+| Worth | Item or service
+
+|0
+|Cheap stuff (a beer, a night in a stable or common room, a meal)
+
+|3
+|Moderate cost (a 10-mile coach ride, a room for a week, decent
 information, a silver ornament)
-6 Expensive stuff (a trip on board a ship, good information, a cart and horse,
-a ruby-encrusted gold ring)
-9 Very pricey stuff (a small house, a team of horses, some cows, a pound of
-rare spice)
-The GM may feel free to assign Worth to an object that is between the values above. If an object
-could be considered of more than moderate cost, but not truly expensive - a fighting dog, for
-example - you could assign a Worth of 6 or 7 to it.
-```
+
+|6
+|Expensive stuff (a trip on board a ship, good information, a cart and horse, a ruby-encrusted gold ring)
+
+|9
+|Very pricey stuff (a small house, a team of horses, some cows, a pound of rare spice)
+|===
+
+
+The GM may feel free to assign Worth to an object that is between the values above. If an object could be considered of more than moderate cost, but not truly expensive - a fighting dog, for example - you could assign a Worth of 6 or 7 to it.
+
 === Buying more Provisions
 
-The other thing your character can buy in town are Provisions. When at a Provisions vendor, if you want
-to increase your character's Provisions, make a Wealth Spending Test against your character's current
-Provisions, plus the town's Markup for Provisions. All of your successful dice are added to your
-character's Provisions.
+The other thing your character can buy in town are Provisions. When at a Provisions vendor, if you want to increase your character's Provisions, make a Wealth Spending Test against your character's current Provisions, plus the town's Markup for Provisions. All of your successful dice are added to your character's Provisions.
 
-```
-Robin wants to increase his character's Provisions before going adventuring. He has a
-current Wealth of 9 and Provisions of 4. In addition, his Sociality is 2 and the town's
-Provisions Markup is 3. He chooses to roll 6 of his Wealth dice in order to increase
-Provisions. His total roll is 8 dice (6 Wealth + 2 Sociality.) The GM rolls 7 dice (4
-Provisions + 3 Markup.) The results are:
+[example]
+====
+Robin wants to increase his character's Provisions before going adventuring. He has a current Wealth of 9 and Provisions of 4. In addition, his Sociality is 2 and the town's Provisions Markup is 3. He chooses to roll 6 of his Wealth dice in order to increase Provisions. His total roll is 8 dice (6 Wealth + 2 Sociality.) The GM rolls 7 dice (4 Provisions + 3 Markup.) The results are:
+
 Robin: 3, 6, 9, 10, 12, 14, 17, 20
+
 GM: 2, 7, 8, 11, 14, 15, 16
-Robin has two successes, so he increases his character's Provisions by 2 to 6. His Wealth
-score is now 3.
-```
+
+Robin has two successes, so he increases his character's Provisions by 2 to 6. His Wealth score is now 3.
+====
 
 === Using Wealth as influence (buying favors)
 
-You may spend your character's Wealth, either in town or on an adventure, in order to have him bribe or
-influence an NPC. To do so, make a Wealth Spending Test against the NPC's current Wealth score, plus
-his Discernment.
+You may spend your character's Wealth, either in town or on an adventure, in order to have him bribe or influence an NPC. To do so, make a Wealth Spending Test against the NPC's current Wealth score, plus his Discernment.
 
-If you succeed in this roll, you may add the number of successes you received to the number of dice you
-roll the next time your character attempts any sort of social proposition with the influenced NPC. (In
-other words, this roll modifies the roll on your character's social attempt. It is not the social attempt itself.)
+If you succeed in this roll, you may add the number of successes you received to the number of dice you roll the next time your character attempts any sort of social proposition with the influenced NPC. (In other words, this roll modifies the roll on your character's social attempt. It is not the social attempt itself.)
 
-```
-Ron's character, Azar, is talking with Baron Duval, the local lord. He needs passage onto
-his lands in order to hunt for the Scourge of the Golden Dawn, a fiend that he has been
-tracking. So far the baron's refusing, but Azar has a great deal of money, and decides to
-curry his favor with some of it. Ron decides to spend 8 of Azar's 12 Wealth. He rolls
-Azar's 4 Sociality, plus 8 Wealth against Duval's 2 Discernment, plus 10 current Wealth.
-He succeeds with 2 successes, and loses all 8 dice from his Wealth. Ron can now add 2
-dice to his roll when Azar asks the Baron for his permission to cross his lands.
-```
+[example]
+====
+Ron's character, Azar, is talking with Baron Duval, the local lord. He needs passage onto his lands in order to hunt for the Scourge of the Golden Dawn, a fiend that he has been tracking. So far the baron's refusing, but Azar has a great deal of money, and decides to curry his favor with some of it. Ron decides to spend 8 of Azar's 12 Wealth. He rolls Azar's 4 Sociality, plus 8 Wealth against Duval's 2 Discernment, plus 10 current Wealth. He succeeds with 2 successes, and loses all 8 dice from his Wealth. Ron can now add 2 dice to his roll when Azar asks the Baron for his permission to cross his lands.
+====
+
 === Selling items
 
-At some point, your character may wish to sell a weapon, a piece of armor, a castle, or some other item.
-There are two ways this can be done.
+At some point, your character may wish to sell a weapon, a piece of armor, a castle, or some other item. There are two ways this can be done.
 
-Sell the item for Wealth: You roll a number of dice equal to the Worth of the item, plus your Sociality,
-and the GM rolls your current Wealth score, plus the merchant's Markup. Any successes you have on the
-roll are added to your character's Wealth. If you fail, the item is still sold - it was not sold for a high
-enough price that it increased your Wealth. You will note that it is harder to gain Wealth from selling an
-item when your Wealth is already high.
+_Sell the item for Wealth:_ You roll a number of dice equal to the Worth of the item, plus your Sociality, and the GM rolls your current Wealth score, plus the merchant's Markup. Any successes you have on the roll are added to your character's Wealth. If you fail, the item is still sold - it was not sold for a high enough price that it increased your Wealth. You will note that it is harder to gain Wealth from selling an item when your Wealth is already high.
 
-Use the item in trade: If the GM rules that a vendor would be interested in your character's item, you
-may add a number of dice equal to its Worth to your roll in a Wealth Spending Test to buy whatever
-item you are trading it for. If you fail the Test, you have not traded away the item. This usually results in
-a much better value than selling the item.
+_Use the item in trade:_ If the GM rules that a vendor would be interested in your character's item, you may add a number of dice equal to its Worth to your roll in a Wealth Spending Test to buy whatever item you are trading it for. If you fail the Test, you have not traded away the item. This usually results in a much better value than selling the item.
 
-If the character is selling a service, the GM and the player must agree on a Worth beforehand. The roll to
-exchange the service for Wealth, or to use it in trade comes afterwards, when the service is completed.
+If the character is selling a service, the GM and the player must agree on a Worth beforehand. The roll to exchange the service for Wealth, or to use it in trade comes afterwards, when the service is completed.
 
-```
-Jonathan's character, Fiera, has a huge axe (with a Worth of 4) that he wishes her to be
-rid of. Jonathan considers the options:
-```
+[example]
+====
+Jonathan's character, Fiera, has a huge axe (with a Worth of 4) that he wishes her to be rid of. Jonathan considers the options:
 
-```
-He can have Fiera sell the axe. He would roll Fiera's Sociality of 1, plus 4 dice for the axe,
-against Fiera's current Wealth of 5, plus the merchant's Markup of 3. He realizes his
-chances aren't high of making any Wealth.
-He can have Fiera use the axe in trade. The merchant carries armor, and Fiera could use a
-chain shirt (Worth of 2). He can make a Wealth Spending Test and spend no Wealth at
-all, using the axe in trade. He would roll Fiera's Sociality of 1, plus the axe's Worth of 4
-against the shirt's 2 Worth, plus the merchant's Markup of 3. He decides to spend two
-Wealth to increase his chances to 7 dice versus 5, and tries to trade the axe for the chain
+He can have Fiera sell the axe. He would roll Fiera's Sociality of 1, plus 4 dice for the axe, against Fiera's current Wealth of 5, plus the merchant's Markup of 3. He realizes his chances aren't high of making any Wealth.
+
+He can have Fiera use the axe in trade. The merchant carries armor, and Fiera could use a chain shirt (Worth of 2). He can make a Wealth Spending Test and spend no Wealth at all, using the axe in trade. He would roll Fiera's Sociality of 1, plus the axe's Worth of 4 against the shirt's 2 Worth, plus the merchant's Markup of 3. He decides to spend two Wealth to increase his chances to 7 dice versus 5, and tries to trade the axe for the chain
 shirt.
-```
+====
+
 === Weapons and armor
 
-Weapons are concretely quantified in Donjon , as is armor. Weapons and armor are what donjon crawling
-is all about. Weapons and armor are most easily described by their potential for causing or stopping
-damage, called Damage Rating (DR). DR is calculated by looking at Chart 3-2: Weapons and Armor.
-Note that the descriptions in this chart are not set-in-stone descriptions. The player can describe his
-character's weapons and armor however he wants: if the player wants the character to carry a dwarven
-war-axe and wear bear-skin furs, decide how much potential for damage a dwarven war-axe has, and
-how much damage bear-skin furs can possibly stop.
+Weapons are concretely quantified in Donjon , as is armor. Weapons and armor are what donjon crawling is all about. Weapons and armor are most easily described by their potential for causing or stopping damage, called Damage Rating (DR). DR is calculated by looking at Chart 3-2: Weapons and Armor.
 
-However, if you can only use certain weapons (because of a Supporting Ability like "Swing Elvish
-Sword") the DR of those weapons must be defined before play.
+Note that the descriptions in this chart are not set-in-stone descriptions. The player can describe his character's weapons and armor however he wants: if the player wants the character to carry a dwarven war-axe and wear bear-skin furs, decide how much potential for damage a dwarven war-axe has, and how much damage bear-skin furs can possibly stop.
 
-No mundane weapon (that a human-sized character can wield) or armor can cause or stop more than 4
-dice of damage.
+However, if you can only use certain weapons (because of a Supporting Ability like "Swing Elvish Sword") the DR of those weapons must be defined before play.
 
-```
+No mundane weapon (that a human-sized character can wield) or armor can cause or stop more than 4 dice of damage.
+
+
 Table 3-2: Weapons and Armor
-Damage Rating Example of weapon or armor
-Melee weapons
--1 Fists and feet
-0 Small weapon (sap, dagger)
-1 Medium weapon (short sword, mace, hammer, club)
-2 Large weapon (broadsword, longsword, warhammer)
-3 Huge weapon (halberd, two-handed sword)
-+1 Sharp weapon (swords, axes)
-Missile weapons
-```
+[cols="1,1"]
+|===
+| Damage Rating | Example of weapon or armor
 
-```
-Table 3-2: Weapons and Armor
-Damage Rating Example of weapon or armor
-1 Thrown items
-2 Short bow, hand crossbow
-3 Long bow, light crossbow
-4 Composite bow, heavy crossbow
-Armor
-1 Leather or padded armor, shield
-2 Studded leather, chain shirt
-3 Scale mail, chain armor
-4 Plate armor
-```
+|_Melee Weapons_
+| 
+
+|-1
+|Fists and feet
+
+|0
+|Small weapon (sap, dagger)
+
+|1
+|Medium weapon (short sword, mace, hammer, club)
+
+|2
+|Large weapon (broadsword, longsword, warhammer)
+
+|3
+|Huge weapon (halberd, two-handed sword)
+
+|+1
+|Sharp weapon (swords, axes)
+
+|_Missile Weapons_ 
+|
+
+|1 
+|Thrown items
+
+|2 
+|Short bow, hand crossbow
+
+|3 
+|Long bow, light crossbow
+
+|4 
+|Composite bow, heavy crossbow
+
+|_Armor_
+|
+
+|1 
+|Leather or padded armor, shield
+
+|2 
+|Studded leather, chain shirt
+
+|3 
+|Scale mail, chain armor
+
+|4 
+|Plate armor
+|===
+
 Weight
 
 All weapons and armor have a Weight score. The Weight score is always equal to the mundane Damage
