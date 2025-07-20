@@ -574,14 +574,15 @@ However, if you can only use certain weapons (because of a Supporting Ability li
 
 No mundane weapon (that a human-sized character can wield) or armor can cause or stop more than 4 dice of damage.
 
-
-Table 3-2: Weapons and Armor
-[cols="1,1"]
+[cols="1,3"]
 |===
-| Damage Rating | Example of weapon or armor
+2+^h|Table 3-2: Weapons and Armor
 
-|_Melee Weapons_
-| 
+2+^h|_Melee Weapons_
+
+h| Damage Rating
+h| Example of weapon
+
 
 |-1
 |Fists and feet
@@ -601,8 +602,11 @@ Table 3-2: Weapons and Armor
 |+1
 |Sharp weapon (swords, axes)
 
-|_Missile Weapons_ 
-|
+
+2+^h|_Missile Weapons_
+
+h| Damage Rating
+h| Example of weapon
 
 |1 
 |Thrown items
@@ -616,8 +620,11 @@ Table 3-2: Weapons and Armor
 |4 
 |Composite bow, heavy crossbow
 
-|_Armor_
-|
+
+2+^h|_Armor_
+
+h| Damage Rating
+h| Example of armor
 
 |1 
 |Leather or padded armor, shield
@@ -642,420 +649,309 @@ If a weapon has a Weight greater than a character's Virility, the character's ch
 is penalized by the difference between the two scores. If a character wears armor with a Weight greater
 than his Virility, his Adroitness is penalized by the difference.
 
-```
-Robin's character, Roland, has a Virility of 2, Adroitness of 5, and the Supporting Ability
-"Swing Machete" at 3. Unfortunately, Roland finds himself in the possession of plate
-armor (DR 4) and a broad sword (DR 3). When Roland is wearing the armor, his
-Adroitness is penalized 2 dice (Weight 4 - Virility 2). In addition, if he uses the sword, his
-chance to hit is lowered by 1 die.
-```
-In addition, a chance must have a Virility score higher than a melee weapon's Weight in order to use it in
-one hand. If a weapon has a Weight equal to or greater than a character's Virility, it must be used two-
-handed, preventing the character from using it and a shield, torch, or other hand-held object.
+[example]
+====
+Robin's character, Roland, has a Virility of 2, Adroitness of 5, and the Supporting Ability "Swing Machete" at 3. Unfortunately, Roland finds himself in the possession of plate armor (DR 4) and a broad sword (DR 3). When Roland is wearing the armor, his
+
+Adroitness is penalized 2 dice (Weight 4 - Virility 2). In addition, if he uses the sword, his chance to hit is lowered by 1 die.
+====
+
+In addition, a chance must have a Virility score higher than a melee weapon's Weight in order to use it in one hand. If a weapon has a Weight equal to or greater than a character's Virility, it must be used two- handed, preventing the character from using it and a shield, torch, or other hand-held object.
 
 Missile weapons
 
-Missile weapons are rated just like melee weapons, by damage. They do not, however, have a score for
-range, or how far they can shoot. Range is the same for all missile weapons, except thrown items, and is
-covered in Combat.
+Missile weapons are rated just like melee weapons, by damage. They do not, however, have a score for range, or how far they can shoot. Range is the same for all missile weapons, except thrown items, and is covered in Combat.
 
 
-Missile weapons in most role-playing games require some sort of ammunition - arrows, bolts, or bullets.
-By default, the assumption in Donjon is that you have enough of these things that you need not worry
-about them.
+Missile weapons in most role-playing games require some sort of ammunition - arrows, bolts, or bullets. By default, the assumption in Donjon is that you have enough of these things that you need not worry about them.
 
-If your GM wants to keep track of ammunition, she will let you know before the game begins. In that
-case, 10 pieces of ammunition cost the same as a DR 1 weapon (Markup + 1 die).
+If your GM wants to keep track of ammunition, she will let you know before the game begins. In that case, 10 pieces of ammunition cost the same as a DR 1 weapon (Markup + 1 die).
 
 Unusual weapons
 
-Unusual weapons can occur quite easily in Donjon , as it is so player-driven. When a player has an idea
-for a weapon that seems very non-traditional, the GM and the player should sit down to figure out the
-damage (and cost) of the weapon.
+Unusual weapons can occur quite easily in Donjon , as it is so player-driven. When a player has an idea for a weapon that seems very non-traditional, the GM and the player should sit down to figure out the damage (and cost) of the weapon.
 
-```
-Jonathan is playing a character, Fiera, that can blow flame. Flame breath is a pretty
-unusual weapon, but Nikola, the GM, thinks it's a neat idea. She asks Jonathan how
-much damage he wants the flame to do.
-"Well, it's not that big, but it's flaming, so is three points ok?" Jonathan asks.
-"That's fine," says the GM. "That means you'll have to buy a weapon of Worth 3 - what
-do you call it, though?"
-"Maybe Fiera has to eat a special diet," Jonathan says. "I have to buy exotic goods to carry
-with me to eat."
-```
+[verse]
+----
+Jonathan is playing a character, Fiera, that can blow flame. Flame breath is a pretty unusual weapon, but Nikola, the GM, thinks it's a neat idea. She asks Jonathan how much damage he wants the flame to do.
+"Well, it's not that big, but it's flaming, so is three points ok?" Jonathan asks. "That's fine," says the GM. "That means you'll have to buy a weapon of Worth 3 - what do you call it, though?"
+
+"Maybe Fiera has to eat a special diet," Jonathan says. "I have to buy exotic goods to carry with me to eat."
+----
+
 ===== Provisions
 
-Provisions - assorted donjoneering equipment that isn't used to hit people or avoid being hit - are not
-listed on your character sheet. This sort of litigious bookkeeping is for lesser games. Instead, your
-character has one Provisions score. This score is a reference of his general state of preparedness for donjon
-adventures, and a measure of how much stuff he has in his backpack. When your character is on an
-adventure, and you wish he had a certain item, make a Provisions Spending Test against a number of dice
-found on Chart 3-3: Provisions Roll.
+Provisions - assorted donjoneering equipment that isn't used to hit people or avoid being hit - are not listed on your character sheet. This sort of litigious bookkeeping is for lesser games. Instead, your character has one Provisions score. This score is a reference of his general state of preparedness for donjon adventures, and a measure of how much stuff he has in his backpack. When your character is on an adventure, and you wish he had a certain item, make a Provisions Spending Test against a number of dice found on Chart 3-3: Provisions Roll.
 
-```
-If Azar was standing in front of a door that he knew had massive treasure behind it, and
-his player, Ron, wanted him to pull out a lock-pick that would give him 2 extra dice for
-opening the door, the GM would roll:
+[example]
+====
+If Azar was standing in front of a door that he knew had massive treasure behind it, and his player, Ron, wanted him to pull out a lock-pick that would give him 2 extra dice for opening the door, the GM would roll:
+
 3 dice (automatic) + 2 dice (Ability: Pick Locks 2) = 5 dice.
-```
+====
 
-If you succeed at this roll, you successfully retrieve the item you were looking for from your backpack (or
-other place of storage.) If you fail this roll, you may not try to retrieve the same item again until you
-increase your Provisions.
+If you succeed at this roll, you successfully retrieve the item you were looking for from your backpack (or other place of storage.) If you fail this roll, you may not try to retrieve the same item again until you increase your Provisions.
 
-Items can have Abilities, just like characters. These Abilities are Supporting Abilities, and add to the
-character's dice pool when using them. An item can only have a score in an Ability from 1 to 4 without
-being magical.
+Items can have Abilities, just like characters. These Abilities are Supporting Abilities, and add to the character's dice pool when using them. An item can only have a score in an Ability from 1 to 4 without being magical.
 
-You cannot retrieve weapons, armor, or magic items from your Provisions. If you attempt to retrieve an
-item that is too big to fit in your backpack or be strapped across your back, you will incur a penalty.
+You cannot retrieve weapons, armor, or magic items from your Provisions. If you attempt to retrieve an item that is too big to fit in your backpack or be strapped across your back, you will incur a penalty.
 
-```
-Table 3-3: Provisions Roll
-3 dice Automatic
-+x dice Item's worth (see Table 3-1: Item and Service Cost)
-+1-4 dice or Item's Ability score (Abilities and Worth do not add together; choose the
-larger value of the two.)
-+3 dice The item isn't something you'd usually carry (a troll with a lute, for
-example) or is too large for your Provisions.
-```
-===== Using Abilities with Wealth and Provisions
+[cols="1,3"]
+|===
+2+h|Table 3-3: Provisions Roll
+
+h| Dice 
+h| Description
+
+|3
+|Automatic roll
+
+|+x
+|Item's Worth (see Table 3-1: Item and Service Cost)
+
+|+1-4
+|Item's Ability score (Abilities and Worth do not add together; choose the larger value of the two.)
+
+|+3
+|The item isn't something you'd usually carry (a troll with a lute, for example) or is too large for your Provisions.
+|===
+
+==== Using Abilities with Wealth and Provisions
 
 In all the cases above, your Abilities may increase the number of dice you get to roll, as explained in
 Resolution. Having an Ability like "Evaluate Weapon Worth" can greatly increase your chances of
 picking up a weapon for a good price. When you have an Ability applicable to any action described in
 this chapter, you may add its score in dice to your dice pool.
 
-```
-Jonathan's character, Fiera, is buying a two-handed axe, which has a Worth of 4. She has
-an Ability of "Intimidate People" of 4. He decides to only spend 2 Wealth trying to get
-the axe, and rolls her 2 spent Wealth, plus her Sociality of 1, plus her Intimidate Ability
-of 4, ending up with 7 dice. The GM rolls the axe's Worth of 4, plus the Markup of 3,
-totaling 7 dice.
-Kimberly's character Zoe, a Level 3 Spelunker, has an ability of "Stuff Backpack Full" of
-```
-5. She wants to retrieve a glass bottle from her backpack in order to keep a sample of
-some cave fungus she has found. She takes 1 from her Provisions, and adds her 4
-Cerebrality, plus her 5 dice from Stuff Backpack Full, totaling 10 dice she gets to roll.
-The GM rolls the automatic 3 dice for Provisions, plus the Worth of the item, which she
-determines to be 2, totaling 5 dice. Zoe's ability greatly increased her chances of having a
-glass bottle with her, and lowered the amount of Provisions she had to spend.
 
+[example]
+====
+Jonathan's character, Fiera, is buying a two-handed axe, which has a Worth of 4. She has an Ability of "Intimidate People" of 4. He decides to only spend 2 Wealth trying to get the axe, and rolls her 2 spent Wealth, plus her Sociality of 1, plus her Intimidate Ability of 4, ending up with 7 dice. The GM rolls the axe's Worth of 4, plus the Markup of 3, totaling 7 dice. 
 
-===== Permanent possessions
+Kimberly's character Zoe, a Level 3 Spelunker, has an ability of "Stuff Backpack Full" of 5. She wants to retrieve a glass bottle from her backpack in order to keep a sample of some cave fungus she has found. She takes 1 from her Provisions, and adds her 4 Cerebrality, plus her 5 dice from Stuff Backpack Full, totaling 10 dice she gets to roll. The GM rolls the automatic 3 dice for Provisions, plus the Worth of the item, which she determines to be 2, totaling 5 dice. Zoe's ability greatly increased her chances of having a glass bottle with her, and lowered the amount of Provisions she had to spend.
+====
 
-During an adventure, your character will gain all sorts of possessions - goods he rummages from his
-Provisions and things he finds on enemies' bodies or in treasure caches. You can feel free to have him use
-all of these during the adventure.
+==== Permanent possessions
 
-Your character sheet shows your permanent possessions, however. (At Level 1, this is one weapon, one
-piece of armor, and one other possession. You will have a chance to increase the number of permanent
-possessions your character has through experience.) At the beginning of each adventure, you must erase
-all possessions except the character's permanent possessions. Which possessions of yours are permanent
-may change, however; the number of possessions you have at the beginning of an adventure is the
-important part.
+During an adventure, your character will gain all sorts of possessions - goods he rummages from his Provisions and things he finds on enemies' bodies or in treasure caches. You can feel free to have him use all of these during the adventure.
 
+Your character sheet shows your permanent possessions, however. (At Level 1, this is one weapon, one piece of armor, and one other possession. You will have a chance to increase the number of permanent possessions your character has through experience.) At the beginning of each adventure, you must erase all possessions except the character's permanent possessions. Which possessions of yours are permanent may change, however; the number of possessions you have at the beginning of an adventure is the important part.
 
 ==== Resolution
 
-The Game Master or player can call for a Test at any time in order to determine if a character can
-successfully perform an action. As discussed in Basic Concepts, a Test is a roll of the dice used to
-determine the success of an action.
+The Game Master or player can call for a Test at any time in order to determine if a character can successfully perform an action. As discussed in Basic Concepts, a Test is a roll of the dice used to determine the success of an action.
 
-===== Attributes and Abilities
+==== Attributes and Abilities
 
-When rolling a Test, the player normally rolls a number of dice equal to his character's Attribute that is
-most appropriate to the task. Table 4-1: Attribute Appropriateness lists common tasks that fall under each
-Attribute.
+When rolling a Test, the player normally rolls a number of dice equal to his character's Attribute that is most appropriate to the task. Table 4-1: Attribute Appropriateness lists common tasks that fall under each Attribute.
 
-In addition, the player normally adds an appropriate Ability (or Saving Throw) if his character has one.
-The GM is the final arbiter of whether an Ability is appropriate or not, but it is the player's responsibility
-to mention if his character has an appropriate Ability. (Only one Ability may be used per action, although
-if the character has any items with Abilities that are appropriate to the task, their values can be added as
-well.) A player may add an appropriate Ability score to his die pool any time a Test is mentioned in these
-rules unless otherwise noted.
+In addition, the player normally adds an appropriate Ability (or Saving Throw) if his character has one. The GM is the final arbiter of whether an Ability is appropriate or not, but it is the player's responsibility to mention if his character has an appropriate Ability. (Only one Ability may be used per action, although if the character has any items with Abilities that are appropriate to the task, their values can be added as well.) A player may add an appropriate Ability score to his die pool any time a Test is mentioned in these rules unless otherwise noted.
 
-```
-Table 4-1: Attribute Appropriateness
-Attribute Common tasks
-Vitality Lifting heavy things Breaking open doors Pulling someone out of a river
-Climbing a wall or cliff Damaging someone
-Cerebrality Remembering a monster's weakness Solving a puzzle, riddle or math problem
-Deciphering another language Casting spells
-Discernment Noticing things Resisting mind-affecting magic Empathizing with someone or
-something Perceiving intentions
-Adroitness Dodging Running a short distance Jumping out of a trap's path Picking locks
-or pockets Hitting someone
-Wherewithal Resisting damage, body-affecting magic, poison or disease Running a long
-distance
-Sociality Convincing a monster not to eat you, a bandit not to rob you, or a king to grant
-you passage Getting a good deal on your equipment
-```
+[cols="1,3"]
+|===
+2+^h|Table 4-1: Attribute Appropriateness
+
+h| Attribute
+h| Common tasks
+
+|Virility
+|Lifting heavy things, breaking open doors, pulling someone out of a river, climbing a wall or cliff, damaging someone
+
+|Cerebrality
+|Remembering a monster's weakness, solving a puzzle/riddle/math problem, deciphering another language, casting spells
+
+|Discernment
+|Noticing things, resisting mind-affecting magic, empathizing with someone or something, perceiving intentions
+
+|Adroitness
+|Dodging, running a short distance, jumping out of a trap's path, picking locks or pockets, hitting someone
+
+|Wherewithal
+|Resisting damage, body-affecting magic, poison or disease, running a long distance
+
+|Sociality
+|Convincing a monster not to eat you, a bandit not to rob you, or a king to grant you passage, getting a good deal on your equipment
+|===
 
 ===== Uncontested actions
 
-When a Test is resolved between a character and an obstacle (climbing a wall, looking into the darkness,
-jumping a chasm), this is called uncontested. The player and GM choose the character's most appropriate
-Attribute for the action, as stated above, and the player rolls this score, adding dice from any appropriate
-Ability, Saving Throw, or item Ability to find out how many dice he is rolling in the Test. The GM will
-roll a number of dice appropriate to the difficulty of the action, as shown on Table
-4-2: Uncontested Difficulties.
+When a Test is resolved between a character and an obstacle (climbing a wall, looking into the darkness, jumping a chasm), this is called uncontested. The player and GM choose the character's most appropriate Attribute for the action, as stated above, and the player rolls this score, adding dice from any appropriate Ability, Saving Throw, or item Ability to find out how many dice he is rolling in the Test. The GM will roll a number of dice appropriate to the difficulty of the action, as shown on Table 4-2: Uncontested Difficulties.
 
-```
-Robin wants his character, Roland, to swim across a fast-flowing underground river.
-The most appropriate Attribute for this is Virility, and Roland has no Swimming Ability,
-but does have a magic ring with the Ability "Magic: Float in Water 2," which is
-appropriate. The current Donjon Level is 2, and swimming across this particular river is a
-Hard task.
-Robin will roll 4 dice (Roland's Virility of 2, plus 2 dice for the ring) and the GM will
-roll 8 dice (Donjon Level 2, plus 6 dice for a Hard task.)
-```
-When a player requests a test based on a perception-based uncontested action, the difficulty of the Test is
-determined a bit differently. Since Donjon is so player-driven, a player can say, "My character is peering
-into the darkness," and he will get to determine what his character sees. In these cases, the GM should set
-the difficulty according to how much control she wants over the scene. If she wants little control, set the
-difficulty to Easy. If she wants an average level of control (the default), set the difficulty to Medium. If she
-wants her way with no changes, set the difficulty to Crazy. Remember that the GM will never have total
-control, though, even in the face of complete character failure.
+[example]
+====
+Robin wants his character, Roland, to swim across a fast-flowing underground river. The most appropriate Attribute for this is Virility, and Roland has no Swimming Ability, but does have a magic ring with the Ability "Magic: Float in Water 2," which is appropriate. The current Donjon Level is 2, and swimming across this particular river is a Hard task. 
 
-```
-After getting across the river, Roland finds a path leading further underground. Robin
-wants him to look at the ground and find tracks of the last creatures to walk down this
-path. The GM doesn't have a set idea for what she wants to be down the path, so she sets
-the difficulty to Medium.
-Robin will roll 10 dice (Roland's Discernment of 6, plus an Ability of "Track Anything"
-of 4), and the GM will roll 5 dice (Donjon Level 2, plus 3 dice for a Medium task.)
-```
+Robin will roll 4 dice (Roland's Virility of 2, plus 2 dice for the ring) and the GM will roll 8 dice (Donjon Level 2, plus 6 dice for a Hard task.)
+====
 
-```
-Table 4-2: Uncontested Difficulties
-Difficulty of task GM's dice
-Easy (climbing a fence) 0
-Medium (climbing 100 feet with the appropriate equipment) 3
-Hard (climbing a tall cliff with equipment, climbing 100 feet with no
-equipment)
-```
-====== 6
 
-```
-Very Hard (climbing a sheer, wet cliff) 9
-Crazy (climbing glass) 12
-The GM always adds the Donjon Level (Running Donjon ) to the number of dice listed above.
-```
+When a player requests a test based on a perception-based uncontested action, the difficulty of the Test is determined a bit differently. Since Donjon is so player-driven, a player can say, "My character is peering into the darkness," and he will get to determine what his character sees. In these cases, the GM should set the difficulty according to how much control she wants over the scene. If she wants little control, set the difficulty to Easy. If she wants an average level of control (the default), set the difficulty to Medium. If she wants her way with no changes, set the difficulty to Crazy. Remember that the GM will never have total control, though, even in the face of complete character failure.
+
+[example]
+====
+After getting across the river, Roland finds a path leading further underground. Robin wants him to look at the ground and find tracks of the last creatures to walk down this path. The GM doesn't have a set idea for what she wants to be down the path, so she sets the difficulty to Medium.
+
+Robin will roll 10 dice (Roland's Discernment of 6, plus an Ability of "Track Anything" of 4), and the GM will roll 5 dice (Donjon Level 2, plus 3 dice for a Medium task.)
+====
+
+
+[cols="3,1"]
+|===
+2+^h|Table 4-2: Uncontested Difficulties
+
+h| Difficulty of task 
+h| GM's dice
+
+| Easy (climbing a fence)
+| 0
+
+| Medium (climbing 100 feet with the appropriate equipment)
+| 3
+
+| Hard (climbing a tall cliff with equipment, climbing 100 feet with no equipment)
+| 6
+
+| Very Hard (climbing a sheer, wet cliff)
+| 9
+
+| Crazy (climbing glass)
+| 12
+
+2+|The GM always adds the Donjon Level (Running Donjon) to the number of dice listed above.
+|===
+
 ===== Contested actions
 
 When a character attempts a task opposed by another character or NPC, this is a contested action. For
 these Tests, the player rolls normally (Attribute plus modifiers) and the GM does the same for the NPC. If
 two players' characters are acting against each other, the players each roll normally against each other.
 
-```
-Once on the other side of the river, the party runs into a little goblin scout. The goblin
-takes off running to alert his friends, and Jonathan wants Fiera to stop him. In order to do
-so, she'll have to catch up with him. Fiera's sprinting, so the most appropriate Attribute is
-Adroitness, which is one of her best Attributes.
-Jonathan will roll 5 dice (Fiera's Adroitness of 5, and no appropriate Abilities), and the
-GM will roll 7 dice (the goblin's Adroitness of 5, plus an Ability of "Sprint like Ass is on
-Fire" of 2.)
-```
+[example]
+====
+Once on the other side of the river, the party runs into a little goblin scout. The goblin takes off running to alert his friends, and Jonathan wants Fiera to stop him. In order to do so, she'll have to catch up with him. Fiera's sprinting, so the most appropriate Attribute is Adroitness, which is one of her best Attributes. 
+
+Jonathan will roll 5 dice (Fiera's Adroitness of 5, and no appropriate Abilities), and the GM will roll 7 dice (the goblin's Adroitness of 5, plus an Ability of "Sprint like Ass is on Fire" of 2.)
+====
+
 ===== The Law of Successes and narration
 
-So, what do you do with all these successes? In Donjon , we have a concrete rule as to what each success
-means. The Law of Successes states:
+So, what do you do with all these successes? In Donjon , we have a concrete rule as to what each success means. The Law of Successes states:
 
-1 success = 1 fact or 1 die
+*1 success = 1 fact or 1 die*
 
-When a player wins a Test, he is left with a number of successes. For each of these successes, he can state
-one discrete fact about his character's success, or turn the success into a bonus die for a related action.
-(This action is normally the character's next action. However, it does not necessarily have to be.) The
-player cannot state irrelevant facts - facts concerning something besides his action - and success in the
-action is assumed unless the player states otherwise.
+When a player wins a Test, he is left with a number of successes. For each of these successes, he can state one discrete fact about his character's success, or turn the success into a bonus die for a related action. (This action is normally the character's next action. However, it does not necessarily have to be.) The player cannot state irrelevant facts - facts concerning something besides his action - and success in the action is assumed unless the player states otherwise.
 
 
-```
-Ron's character, Azar, is looking for a secret door, and Ron gets 3 successes on his roll.
-He uses all three successes for facts, and his facts are:
-● The door has demonic script around it.
-● It is in the north wall of the room.
-● There is a key in the keyhole.
-He could have said "The door is unlocked," or "The door is only 3 feet high," or even
-"Azar finds no door at all."
-```
-After a player states his facts, the GM takes these facts and narrates the outcome of the action, making sure
-to use all the player's facts. The GM can feel free to add new information to the outcome, or expand
-upon the player's facts.
+[example]
+====
+Ron's character, Azar, is looking for a secret door, and Ron gets 3 successes on his roll. He uses all three successes for facts, and his facts are:
 
-```
-The GM narrates Azar's attempt to find a secret door: "Azar looks around for a secret
-door, and pulls back a tapestry on the north wall. He finds a door with demonic script
-surrounding it and a key in the keyhole, decorated with an ornate skull at the top. Four
-finger-bones jut out from underneath the door, as if someone tried to claw the door
-open from the inside."
-```
-If the player fails in his Test, the situation is reversed. The GM's successes can be used to state facts about
-the player's failure, or they can be used as bonus dice for the GM in a related action by the player's
-character.
+* The door has demonic script around it.
+* It is in the north wall of the room.
+* There is a key in the keyhole.
 
-After the GM states his facts, the player has to narrate his character's failure, making sure to use all the
-GM's facts. Failure in the action is assumed unless the GM says otherwise. The player can add new
-information to this outcome, but the GM may stop his narration at any time. If the player tries to get out
-of using all the nastiness the GM has thrown at him, the GM should cackle like a hyena, and then
-suddenly get very quiet, staring at the player with only one eye. That should teach him.
+He could have said "The door is unlocked," or "The door is only 3 feet high," or even "Azar finds no door at all."
+====
 
-```
-Later, Azar is attempting to climb a wall. Ron rolls the Test and fails, with the GM
-garnering 2 successes. The GM's facts are:
-● Azar falls down the wall and lands on a pile of garbage.
-● Rats leap out of the garbage.
-Ron narrates: "Azar loses his hand-hold on the wall and slips, landing in a pile of garbage.
-He hears a hissing, and rats leap out of the garbage, each the size of a dog. One of them
-starts to metamorph into a human form, and says, 'Master...'"
-```
 
-```
-Nikola, the GM, stops him. "Hold on there. 'Master?' I don't think so. So, one of them
-starts to metamorph into a human form and grins evilly at you..." The game continues
-on.
-```
-```
-Player Tip: The Law of Successes is your friend
-The Law of Successes makes you very powerful as a player. If you use an Ability like "Hear Noise,"
-noise will be heard if you succeed. It might even be heard if you don't succeed, although then the GM
-will tell you what sort of noise you heard. This means you are in control of the adventure, unlike in
-most fantasy role-playing games where you can only do the things the GM has set out for you to do.
-In addition, the bonus dice you can get are extremely helpful when you don't have enough dice to
-have a chance at an action. Let's say you want to jump across a wide pit, so wide that the difficulty is
-Very Hard. You don't have a jumping Ability, and you don't think you can make it. There's a tree
-nearby, though, and you have a "Climb Trees" Ability at 6. You can climb the tree and use those
-successes as bonus dice when you leap from the tree across the pit.
-If you've been wondering how characters work together in Donjon , you've got your answer in the Law
-of Successes. You can use your successes as bonus dice for a friend's action just as easily as you could use
-them for your own.
-```
-```
-GM Tip: The Law of Successes is your friend, too
-Just because players get to state facts when they succeed doesn't make you powerless as a GM.
-Remember, you get to narrate when they succeed, so stick it to them. Their facts are like wishes to a
-genie - up to your interpretation. If your players get too full of hubris, declaring that they find treasure
-here, and fall into a bed of feathers there, turn those screws. Maybe they find a gold ring - that grows
-teeth and bites into their finger when they put it on. Maybe they fall into a bed of feathers - that
-happens to be the back of the biggest bird they've ever imagined.
-```
+After a player states his facts, the GM takes these facts and narrates the outcome of the action, making sure to use all the player's facts. The GM can feel free to add new information to the outcome, or expand upon the player's facts.
+
+
+[example]
+====
+The GM narrates Azar's attempt to find a secret door: "Azar looks around for a secret door, and pulls back a tapestry on the north wall. He finds a door with demonic script surrounding it and a key in the keyhole, decorated with an ornate skull at the top. Four finger-bones jut out from underneath the door, as if someone tried to claw the door open from the inside."
+====
+
+If the player fails in his Test, the situation is reversed. The GM's successes can be used to state facts about the player's failure, or they can be used as bonus dice for the GM in a related action by the player's character.
+
+After the GM states his facts, the player has to narrate his character's failure, making sure to use all the GM's facts. Failure in the action is assumed unless the GM says otherwise. The player can add new information to this outcome, but the GM may stop his narration at any time. If the player tries to get out of using all the nastiness the GM has thrown at him, the GM should cackle like a hyena, and then suddenly get very quiet, staring at the player with only one eye. That should teach him.
+
+
+[example]
+====
+Later, Azar is attempting to climb a wall. Ron rolls the Test and fails, with the GM garnering 2 successes. The GM's facts are:
+
+* Azar falls down the wall and lands on a pile of garbage.
+* Rats leap out of the garbage.
+
+Ron narrates: "Azar loses his hand-hold on the wall and slips, landing in a pile of garbage. He hears a hissing, and rats leap out of the garbage, each the size of a dog. One of them starts to metamorph into a human form, and says, 'Master...'"
+
+Nikola, the GM, stops him. "Hold on there. 'Master?' I don't think so. So, one of them starts to metamorph into a human form and grins evilly at you..." The game continues on.
+
+====
+
+
+[TIP]
+====
+.Player Tip: The Law of Successes is your friend
+The Law of Successes makes you very powerful as a player. If you use an Ability like "Hear Noise," noise will be heard if you succeed. It might even be heard if you don't succeed, although then the GM will tell you what sort of noise you heard. This means you are in control of the adventure, unlike in most fantasy role-playing games where you can only do the things the GM has set out for you to do. In addition, the bonus dice you can get are extremely helpful when you don't have enough dice to have a chance at an action. Let's say you want to jump across a wide pit, so wide that the difficulty is Very Hard. You don't have a jumping Ability, and you don't think you can make it. There's a tree nearby, though, and you have a "Climb Trees" Ability at 6. You can climb the tree and use those successes as bonus dice when you leap from the tree across the pit. If you've been wondering how characters work together in Donjon , you've got your answer in the Law of Successes. You can use your successes as bonus dice for a friend's action just as easily as you could use them for your own.
+====
+
+[TIP]
+====
+.GM Tip: The Law of Successes is your friend, too
+Just because players get to state facts when they succeed doesn't make you powerless as a GM. Remember, you get to narrate when they succeed, so stick it to them. Their facts are like wishes to a genie - up to your interpretation. If your players get too full of hubris, declaring that they find treasure here, and fall into a bed of feathers there, turn those screws. Maybe they find a gold ring - that grows teeth and bites into their finger when they put it on. Maybe they fall into a bed of feathers - that happens to be the back of the biggest bird they've ever imagined.
+====
+
 ===== Failure and damage
 
-Sometimes a Test carries the threat of damage along with it - for example, if the Test is to avoid a trap,
-climb a tall cliff, or slip under a descending ceiling before it hits the ground. If a failing a Test may cause
-damage, the GM should announce that to the player before the Test is rolled.
+Sometimes a Test carries the threat of damage along with it - for example, if the Test is to avoid a trap, climb a tall cliff, or slip under a descending ceiling before it hits the ground. If a failing a Test may cause damage, the GM should announce that to the player before the Test is rolled.
 
-If the Test is failed, any of the GM's successes that she uses for bonus dice are used as bonus dice on a
-Damage Test. The player rolls his character's Wherewithal score plus modifiers, and the GM either rolls
+If the Test is failed, any of the GM's successes that she uses for bonus dice are used as bonus dice on a Damage Test. The player rolls his character's Wherewithal score plus modifiers, and the GM either rolls the appropriate Attribute and Ability of the opposing NPC, or if no NPC was opposing, the current Donjon Level, plus modifiers based on the severity of the damage. This is most usually Medium (+3 dice), but can be raised or lowered if the GM feels it is necessary.
+
+The specific effects of damage on characters are detailed in [[combat]], but in brief, each success for the GM on a Damage Test removes one Flesh Wound from the character affected.
 
 
-the appropriate Attribute and Ability of the opposing NPC, or if no NPC was opposing, the current
-Donjon Level, plus modifiers based on the severity of the damage. This is most usually Medium (+3 dice),
-but can be raised or lowered if the GM feels it is necessary.
+[example]
+====
+Jonathan's character, Fiera, is trying to climb the same wall Azar was earlier in the adventure. The GM warns Jonathan that if he fails the Test, Fiera will fall and possibly be damaged. Jonathan goes ahead and rolls the Test, and the GM gets two successes. The GM says, "I'm going to use all of these as bonus dice in the Damage Test." Fiera has no Ability to absorb damage from falling ("Thick Hide" only protects Fiera from sharp things), so Jonathan just rolls Fiera's Wherewithal of 4, while the GM rolls 7 dice (the current Donjon Level of 2, plus 3 for Medium damage, plus the 2 bonus dice.) This fall is probably going to hurt.
+====
 
-The specific effects of damage on characters are detailed in [[combat]], but in brief, each success for the
-GM on a Damage Test removes one Flesh Wound from the character affected.
+A Test can carry the threat of damage to an item with it. In that case, the GM need not announce the threat beforehand. The GM must state that the item may be damaged as a fact when she succeeds, however, using one success to do so. The player then rolls a Test of the item's Worth, and the GM rolls as above. Each success for the GM on this roll can remove one die from one of the item's mundane Ability scores.
 
-```
-Jonathan's character, Fiera, is trying to climb the same wall Azar was earlier in the
-adventure. The GM warns Jonathan that if he fails the Test, Fiera will fall and possibly be
-damaged. Jonathan goes ahead and rolls the Test, and the GM gets two successes. The
-GM says, "I'm going to use all of these as bonus dice in the Damage Test."
-Fiera has no Ability to absorb damage from falling ("Thick Hide" only protects Fiera from
-sharp things), so Jonathan just rolls Fiera's Wherewithal of 4, while the GM rolls 7 dice
-(the current Donjon Level of 2, plus 3 for Medium damage, plus the 2 bonus dice.) This
-fall is probably going to hurt.
-```
-A Test can carry the threat of damage to an item with it. In that case, the GM need not announce the
-threat beforehand. The GM must state that the item may be damaged as a fact when she succeeds,
-however, using one success to do so. The player then rolls a Test of the item's Worth, and the GM rolls as
-above. Each success for the GM on this roll can remove one die from one of the item's mundane Ability
-scores.
+[example]
+====
+Roland is trying to pick a lock, and has a lockpick with the Ability "Unlock Doors" at 2. Jim rolls the Test, and fails, with the GM getting 3 successes. The GM spends one success to announce the fact, "You hear your lockpick crunch as it twists in the lock," and spends the other two successes as bonus dice on the Damage Test against the item. Robin rolls the lockpick's Ability score of 2, and the GM rolls 4 dice (the Donjon Level of 2, plus the 2 bonus dice.) The GM succeeds in the Damage Test with 1 success, and the lockpick's Ability score drops to 1.
+====
 
-```
-Roland is trying to pick a lock, and has a lockpick with the Ability "Unlock Doors" at 2.
-Jim rolls the Test, and fails, with the GM getting 3 successes. The GM spends one success
-to announce the fact, "You hear your lockpick crunch as it twists in the lock," and spends
-the other two successes as bonus dice on the Damage Test against the item. Robin rolls
-the lockpick's Ability score of 2, and the GM rolls 4 dice (the Donjon Level of 2, plus the
-2 bonus dice.) The GM succeeds in the Damage Test with 1 success, and the lockpick's
-Ability score drops to 1.
-```
-If all of an item's mundane Abilities drop to 0, the item is destroyed. (If an item has no Abilities, one point
-of damage done to it will destroy it.) Also, the Law of Successes does not apply to Damage Tests. If the
-player succeeds, his character and character's items have taken no damage, which is his only reward. The
-GM can use no successes for narration.
+If all of an item's mundane Abilities drop to 0, the item is destroyed. (If an item has no Abilities, one point of damage done to it will destroy it.) Also, the Law of Successes does not apply to Damage Tests. If the player succeeds, his character and character's items have taken no damage, which is his only reward. The GM can use no successes for narration.
 
-```
-Design Decision: Hey, I'm better at lower levels!
-You'll probably notice quickly that you have a better chance of attempting actions that do not fit any of
-your Abilities at lower levels. As you increase in levels, the average Donjon Level that you'll be
-```
+[TIP]
+====
+.Design Decision: Hey, I'm better at lower levels!
+You'll probably notice quickly that you have a better chance of attempting actions that do not fit any of your Abilities at lower levels. As you increase in levels, the average Donjon Level that you'll be  adventuring on will rise, and you'll need Abilities, which rise much faster than Attributes, in order to perform most tasks. For example, a Medium difficulty task on Donjon Level 1 gives the GM 4 dice to roll. A character with even an average Attribute will have a chance at winning. On Donjon Level 10, the same task gives the GM 13 dice, an amount that a character will need an Ability to have a chance against.
 
-adventuring on will rise, and you'll need Abilities, which rise much faster than Attributes, in order to
-perform most tasks. For example, a Medium difficulty task on Donjon Level 1 gives the GM 4 dice to
-roll. A character with even an average Attribute will have a chance at winning. On Donjon Level 10,
-the same task gives the GM 13 dice, an amount that a character will need an Ability to have a chance
-against.
-
-This is entirely on purpose. As you play Donjon , your character is not the only one to gain experience:
-you learn how to play as well. At lower levels, players should feel free to try out all sorts of ideas in play,
-and their chances of succeeding will be higher. As they rise in levels, their choices will have to become
-more focused. In addition, as you gain levels, you'll gain items, both mundane and magical, that will
-greatly help you out. You'll find that the perceived disability of higher-level characters is quickly
-evened out by their equipment.
-
+This is entirely on purpose. As you play Donjon , your character is not the only one to gain experience: you learn how to play as well. At lower levels, players should feel free to try out all sorts of ideas in play, and their chances of succeeding will be higher. As they rise in levels, their choices will have to become more focused. In addition, as you gain levels, you'll gain items, both mundane and magical, that will greatly help you out. You'll find that the perceived disability of higher-level characters is quickly evened out by their equipment.
+====
 
 ==== Combat
 
-Combat is the heart of donjon crawling. For all the fun of narrating new encounters and results, combat is
-where characters have a license to chew up the scenery and emerge victorious, spoils in hand. In combat,
-the Law of Successes sometimes acts a bit differently than normal, so read closely to find out exactly what
-you can and can't do.
+Combat is the heart of donjon crawling. For all the fun of narrating new encounters and results, combat is where characters have a license to chew up the scenery and emerge victorious, spoils in hand. In combat, the Law of Successes sometimes acts a bit differently than normal, so read closely to find out exactly what you can and can't do.
 
 ===== Starting a fight
 
-Combat begins any time the GM or the players call for initiative. Calling for initiative means that you are
-asking everyone to make Initiative Tests to see when they are allowed to take actions in combat. When
-calling for initiative, you must name the party your character is attacking, if you are a player, or the party
-that is attacking the characters, if you are the GM.
+Combat begins any time the GM or the players call for initiative. Calling for initiative means that you are asking everyone to make Initiative Tests to see when they are allowed to take actions in combat. When calling for initiative, you must name the party your character is attacking, if you are a player, or the party that is attacking the characters, if you are the GM.
 
-In order to make an Initiative Test, each player rolls his character's Level, plus the character's score in
-Discernment. No other Abilities can be added to this roll. The GM rolls for each NPC in the combat,
-rolling the NPC's Level, plus Discernment. Write down these numbers, or leave the dice in front of you.
+In order to make an Initiative Test, each player rolls his character's Level, plus the character's score in Discernment. No other Abilities can be added to this roll. The GM rolls for each NPC in the combat, rolling the NPC's Level, plus Discernment. Write down these numbers, or leave the dice in front of you.
 
-Combat is measured in what we call flurries. A flurry does not correspond to any sort of time
-measurement. Instead, it is a full exchange of blows at the end of which all participants have a slight lull in
-combat as they consider whether they want to continue combat. The GM counts down during the flurry
-from 20. (If the group is using a die size other than twenty-sided dice, the GM counts down from the
-highest number on the die.) Whenever the GM calls a number that a player rolled in his Initiative Test,
-that player's character can perform an action. If the player rolled the number multiple times, his character
-gets to make multiple actions. When the GM gets to 1, and all actions have been taken, that is the end of
-the flurry. If either side wants to extend the combat, a new flurry begins, with both sides making
-Initiative Tests. (There is a way to escape from combat - see "Distance and movement" below.) If neither
-side wants to extend the combat, combat is over.
+Combat is measured in what we call flurries. A flurry does not correspond to any sort of time measurement. Instead, it is a full exchange of blows at the end of which all participants have a slight lull in combat as they consider whether they want to continue combat. The GM counts down during the flurry from 20. (If the group is using a die size other than twenty-sided dice, the GM counts down from the highest number on the die.) Whenever the GM calls a number that a player rolled in his Initiative Test, that player's character can perform an action. If the player rolled the number multiple times, his character gets to make multiple actions. When the GM gets to 1, and all actions have been taken, that is the end of the flurry. If either side wants to extend the combat, a new flurry begins, with both sides making Initiative Tests. (There is a way to escape from combat - see "Distance and movement" below.) If neither side wants to extend the combat, combat is over.
 
 
-```
-When their characters are fighting two minotaurs, Robin, Ron, Jonathan, and the GM,
-Nikola, roll the following for initiative:
-● Robin: 2, 5, 8, 10, 10, 15, 16, 18
-● Ron: 2, 3, 10, 20
-● Jonathan: 10, 13, 14, 17, 19
-● Nikola (Minotaur 1): 5, 8, 17, 19
-● Nikola (Minotaur 2): 7, 9, 10, 12
-When Nikola counts down, Robin's character will get an action when she calls out 18,
-16, 15, 10 (he gets two actions on 10), 8, 5, and 2. Ron's character will go on 20, 10, 3,
-and 2; and Jonathan's character will go on 19, 17, 14, 13, and 10.
-```
-This may seem odd if you've played other role-playing games that have combat to the death, and rounds,
-and initiative rolls each round. If you need to, you can think of each flurry as a round, and your character
-as going many times within that round. This way, though, you get lulls in fighting where each side gets a
-moment to think, "Is this going the way I want it to?" If not, both sides get the chance to disengage. You
-can even use this lull to parley with your opponents, offering them the chance to surrender or walk away.
-Game Masters should be sure to give players a chance to talk amongst themselves before a combat is
-extended.
+[example]
+====
+When the GM calls for initiative, Robin, Ron, Jonathan, and Nikola roll their dice. When their characters are fighting two minotaurs, Robin, Ron, Jonathan, and the GM, Nikola, roll the following for initiative:
+
+* Robin: 2, 5, 8, 10, 10, 15, 16, 18
+* Ron: 2, 3, 10, 20
+* Jonathan: 10, 13, 14, 17, 19
+* Nikola (Minotaur 1): 5, 8, 17, 19
+* Nikola (Minotaur 2): 7, 9, 10, 12
+
+When Nikola counts down, Robin's character will get an action when she calls out 18, 16, 15, 10 (he gets two actions on 10), 8, 5, and 2. Ron's character will go on 20, 10, 3, and 2; and Jonathan's character will go on 19, 17, 14, 13, and 10.
+====
+
+
+This may seem odd if you've played other role-playing games that have combat to the death, and rounds, and initiative rolls each round. If you need to, you can think of each flurry as a round, and your character as going many times within that round. This way, though, you get lulls in fighting where each side gets a moment to think, "Is this going the way I want it to?" If not, both sides get the chance to disengage. You can even use this lull to parley with your opponents, offering them the chance to surrender or walk away. Game Masters should be sure to give players a chance to talk amongst themselves before a combat is extended.
 
 ```
 GM Tip: Rolling initiative
