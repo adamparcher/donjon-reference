@@ -7,7 +7,7 @@ Based upon the tabletop RPG Donjon[https://github.com/adamparcher/donjon-referen
 Donjon Quick Reference Guide © 2025 by Adam Parcher is licensed under https://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0]
 
 == Attributes
-[cols="1,1,1"]
+[cols="2,1,5"]
 |===
 |Attribute|Abbreviation|Description
 
@@ -40,64 +40,62 @@ Donjon Quick Reference Guide © 2025 by Adam Parcher is licensed under https://c
 
 *1 success = 1 fact or 1 die*
 
-For every success on a roll: 
+For every success on a roll:
+
 * you can decide to either state one fact about your action
 * or carry that success over as a bonus die into another related roll
 
-== Spending Tests for Wealth
-=== Buying Items
+== Wealth, Provisions, and Items
 
-*Player Roll = Wealth Dice + Sociality*
+[cols="1,1"]
+|===
+2+|*Buying Items*
+When you have money burning a hole in your pocket.
 
-* Wealth Dice = choose up to max of current Wealth; if roll is *successful*, lose this many Wealth. If *unsuccessful*, keep these dice.
+h|Player Roll = Wealth Dice (choose up to max) + Sociality
+h|Game Master Roll = Item Value + Markup
 
-*Game Master Roll = Item Value + Markup*
+2+a|*Success:* Item is successfully acquired. Wealth Dice used in roll are removed. +
+*Failure:* Wealth Dice are _not_ removed. Merchant will not consider selling to character again until they have acquired more Wealth or circumstances have changed (e.g. have done a favor; increased Sociality)
 
-* Item Value: See Item Value reference table
-* Markup: Markup value assigned to Town or individual NPC
+|===
 
-Success: Item is successfully acquired. Wealth Dice used in roll are removed.
-
-Failure: Wealth Dice are _not_ removed. Merchant will not consider selling to character again until they have acquired more Wealth or circumstances have changed (e.g. have done a favor; increased Sociality)
-
-=== Buying Provisions
-
+[cols="1"]
+|===
+a|*Buying Provisions* +
 Buying Provisions is identical to Buying an Item, except when the roll is successful, the player's Provisions dice increases by the number of successes the player had instead of simply acquiring an item.
+|===
 
-=== Buying Influence (aka Bribing)
-
+[cols="1,1"]
+|===
+2+a|*Buying Influence (aka Bribing)* +
 Used to influence or straight-up bribe an NPC. This roll is intended to provide Bonus Dice to a related social attempt, but is not the social attempt itself.
 
-*Player Roll = Wealth Dice + Sociality*
+h|Player Roll = Wealth Dice + Sociality
+h|Game Master Roll = NPC's Current Wealth + Discernment
 
-* Wealth Dice = choose up to max of current Wealth; if roll is *successful*, lose this many Wealth. If *unsuccessful*, keep these dice.
+2+|*Success:* If you succeed in this roll, you may add the number of successes you received to the number of dice you roll the next time your character attempts any sort of social proposition with the influenced NPC. +
+*Failure:* Not explicitly stated in Rules. But NPC is probably not happy.
 
-*Game Master Roll = NPC's Current Wealth + Discernment*
+2+a| *Notes:* +
+- NPC does not lose any Wealth in this interaction.
+|===
 
-* Note: NPC does not lose any Wealth in this interaction.
+[cols="1,1"]
+|===
+2+a|*Spending Test for Provisions* +
+Used to retrieve a non-magic item from your Provisions. This is a roll that you make when you want to retrieve an item from your backpack or other place of storage. You can only retrieve items that you have already acquired, and you must have enough Provisions to retrieve the item.
 
-Success: If you succeed in this roll, you may add the number of successes you received to the number of dice you roll the next time your character attempts any sort of social proposition with the influenced NPC.
+h|Player Roll = Provisions + Cerebrality + Abilities
+h|Game Master Roll = 3 + Max of Item's Worth OR Item's Ability score + 3(for rare items)
 
-Failure: Not explicitly stated in Rules. But NPC is probably not happy.
+2+|*Success:* If you succeed in this roll, you retrieve the item from your Provisions pool and can use it as normal. Provisions dice used in roll are removed from your Provisions pool. +
+*Failure:* The item is not retrieved. Provisions dice used in roll are _not_ removed from your Provisions pool.
 
-== Spending Test for Provisions
-
-Used to retrieve an item from your Provisions. This is a roll that you make when you want to retrieve an item from your backpack or other place of storage. You can only retrieve items that you have already acquired, and you must have enough Provisions to retrieve the item.
-
-
-*Player Roll = Provisions + Cerebrality + Abilities*
-
-* Provisions: The number of dice you are using from your Provisions pool.
-* Abilities: Any relevant Abilities your character has.
-
-*Game Master Roll = 3 + Max of Item's Worth OR Item's Ability score + 3(for rare items)*
-
-* Item's Ability score: If the player wants the item to have an Ability, the score may be set between 1-4.
-* +3(for rare items): If the item is not something you would usually carry, or is too large to fit in a backpack, add 3 to the roll.
-
-Success: If you succeed in this roll, you retrieve the item from your Provisions pool and can use it as normal. Provisions dice used in roll are removed from your Provisions pool.
-
-Failure: The item is not retrieved. Provisions dice used in roll are _not_ removed from your Provisions pool.
+2+a| *Notes:* +
+- Item's Ability score: If the player wants the item to have an Ability, the score may be set between 1-4. +
+- +3(for rare items): If the item is not something you would usually carry, or is too large to fit in a backpack, add 3 to the roll.
+|===
 
 == Selling Items
 
@@ -208,17 +206,301 @@ General Tip: Most damage happens as a second roll after a successful action or a
 
 == Magic
 
+Steps to casting a spell:
+
+1. Gather Power
+2. Define the Spell - words, area/targets affected, duration
+3. Cast the Spell
+
 === Gathering Power
+
+*Gathering Power Roll = Cerebrality + spellcasting Ability*
+
+*Game Master Roll = Uncontested Action Test*
+
+Success: Add successes to your Spell Dice pool.
+
+Failure: GM can state facts, or apply Bonus Dice against your next Gathering Power roll. Failure on a consecutive Gathering Power roll reduces your Spell Dice pool by the number of the GM's successes.
+
+* Consecutive Gathering Power rolls can be made to increase Spell Dice pool but require you to remove one die from your spellcasting Ability for each consecutive roll.
+
+=== Concentration
+
+Note: The Rules do not call this Concentration, but it does state these tests apply while holding Spell Dice.
+
+* When attempting any active action (e.g. Parry, Attack) other than Dodge, Damage Tests, or Saving Throw Tests, GM adds your Spell Dice to their roll. 
+
+If you take damage while holding Spell Dice, roll:
+
+*Player Roll = Wherewithal + spellcasting Ability*
+
+*Game Master Roll = Spell Dice Player is holding + successes from Damage Test*
+
+* This test is _in addition to_ the Damage Test, and happens regardless of whether the opponent actually had any successes.
+
+Success: You retain your Spell Dice pool.
+
+Failure: You lose your Spell Dice pool, and you and everyone Close must make a Damage Test against your Spell Dice.
 
 === Casting a Spell
 
+* Words give the spell its effects. Each word implies a specific effect and a separate roll.
+* Give your spell a name.
+* Let 'er rip!
+
+*Spell Casting Roll = Cerebrality + spellcasting Ability + Spell Dice*
+
+*Game Master Roll = Depends on effect of spell*
+
+Examples of Game Master Rolls:
+
+* Spell Effect: Fire damage, GM rolls Damage Test against Spell Casting Roll
+* Spell Effect: Transmorph into chicken, GM rolls Wherewithal + Save vs. Poison, Polymorph, and Transmogrification
+* Spell Effect: Teleport across a chasm, GM rolls Uncontested Action Test
+
+Success: Spell is cast, and successes are applied as facts or affecting abilities. Where logical, these last for the duration of the spell (e.g. healing is permanent, but a -1 to an opponent's Adroitness is only for the duration of the spell).
+
+Failure: GM successes can be used to state facts or apply Bonus Dice. Highly subjective, e.g. you still summoned the demon, but maybe it doesn't listen to you...
+
+[cols="2,1"]
+|===
+2+^h|Spell Effects and Spell Dice Costs
+
+h| Number of Words used (effects)
+h| Spell Dice
+
+|1 Word
+|Free
+
+|2 Words
+|1 die
+
+|3 Words
+|2 dice
+
+|4 Words
+|4 dice
+
+|5 Words
+|8 dice
+
+h| Number of people affected
+h| Spell Dice
+
+|1 person
+|Free
+
+|A small group (around 5)
+|1 die
+
+|A large group (around 25)
+|2 dice
+
+|A city block
+|4 dice
+
+|Crazy numbers of people
+|8 or more dice
+
+h| Time affected
+h| Spell Dice
+
+|Instantaneous
+|Free
+
+|One flurry
+|Free
+
+|One scene or combat
+|1 die
+
+|One day
+|2 dice
+
+|One week
+|4 dice
+
+|One month
+|8 dice
+
+|Longer
+|A whole lot of dice
+|===
+
 === Creating Magic Items
 
+Rules for creating Magic Items:
+
+* The item's qualities must fit within the caster's Words
+* Magic Items can only be created between Adventures
+
+Steps: 
+
+1. Spending Wealth eqaul to the item's Worth
+2. Roll for Gathering Power as normal
+3. Roll *Cerebrality + spellcasting Ability + Spell Dice* vs the *Item's Worth - Curse Dice*
+
+Success: Item is created. Any successes represent leftover materials and are added back into your Wealth.
+
+Failure: Item is not created. GM successes represent the additional cost of materials required to try creating the item again. You can try again, but you must pay the additional cost in Wealth.
+
+* Player may choose to add Curse Dice to reduce the Item's Worth, but the GM always decides what the Curse is.
 
 == Loot
 
+When an NPC or monster is defeated, the Player can loot it for Items or Wealth. Each corpse can only be looted by a single Player.
+
+When the party finds a treasure cache (chest, hollowed out tree, giant bird's nest, etc.), each Player gets a chance to loot it.
+
+=== Looting for Wealth
+
+*Player Roll = Opponent's Level*
+
+*Game Master Roll = Player's Current Wealth*
+
+Success: Any successes are added to your Wealth.
+
+Failure: Player does not gain Wealth and cannot loot that corpse or treasure cache again.
+
+* Note the reverseal of the usual - Player is rolling against the NPC's Level, and the GM is rolling the Player's Wealth.
+
+=== Looting for Items
+
+Player must decide what they are looking for, and the total Item Worth.
+
+*Player Roll = Opponent's Level*
+
+*Game Master Roll = Item Worth*
+
+Success: Player finds the item.
+
+Failure: Player finds nothing and cannot search that corpse or treasure cache again.
+
+* Also see tables for Armor and Weapon Damage Ratings
+
+[cols="2,2"]
+|===
+2+^h|Magic Bonus Worth
+
+h|Type of bonus
+h|Worth
+
+|Magic Attribute score bonus (Ex. +1 to Cerebrality)
+|4/bonus die
+
+|General magic bonus (Ex. +2 to attack)
+|2/bonus die
+
+|Specific magic bonus (Ex. +2 to attack undead)
+|1/bonus die
+
+|One time magic bonus (Ex. Potion of Healing +5)
+|1/bonus die
+
+|Mundane Ability
+|1/Ability die
+
+|Magic curse (Ex. -2 to parry)
+|-1/penalty die
+|===
+
+
 == Advancement
 
+At the end of each Adventure, XP is added up and new levels are gained according to the following table. 
+
+* Each new level awards 5 Dice that can be applied to any Ability, Saving Throw, or Flesh Wounds. None of these can exceed Level + 3.
+* Also see New character qualities listed for specific levels in the table below.
+
+
+[cols="1,1,2"]
+|===
+3+^h|Experience Chart
+
+^h|Level
+^h|Experience
+^h|New character qualities
+
+|1
+|0
+|
+
+|2
+|30
+|+1 possession or Magic Word
+
+|3
+|90
+|+1 to any Attribute score or a new Supporting Ability
+
+|4
+|180
+|+1 possession or Magic Word
+
+|5
+|300
+|
+
+|6
+|450
+|+1 possession or Magic Word; +1 to any Attribute score or a new Supporting Ability
+
+|7
+|630
+|
+
+|8
+|840
+|+1 possession or Magic Word
+
+|9
+|1080
+|+1 to any Attribute score or a new Supporting Ability
+
+|10
+|1350
+|+1 possession or Magic Word
+
+|11
+|1650
+|
+
+|12
+|1980
+|+1 possession or Magic Word; +1 to any Attribute score or a new Supporting Ability
+
+|13
+|2340
+|
+
+|14
+|2730
+|+1 possession or Magic Word
+
+|15
+|3150
+|+1 to any Attribute score or a new Supporting Ability
+
+|16
+|3600
+|+1 possession or Magic Word
+
+|17
+|4080
+|
+
+|18
+|4590
+|+1 possession or Magic Word; +1 to any Attribute score or a new Supporting Ability
+
+|19
+|5130
+|
+
+|20
+|5700
+|+1 possession or Magic Word
+|===
 
 
 
